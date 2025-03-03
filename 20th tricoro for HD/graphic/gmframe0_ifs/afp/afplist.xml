@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="1p_frame">
+    <geo __type="u16" __count="21">5 8 11 16 21 26 31 36 41 47 53 59 62 69 72 75 78 81 84 87 90</geo>
+  </afp>
+  <afp name="2p_frame">
+    <geo __type="u16" __count="21">5 8 11 16 21 26 31 36 41 44 51 57 63 69 72 75 78 81 84 87 90</geo>
+  </afp>
+  <afp name="anime_old">
+    <geo __type="u16" __count="3">5 8 11</geo>
+  </afp>
+  <afp name="center_frame_2pp">
+    <geo __type="u16" __count="22">5 8 11 16 21 26 31 36 41 46 51 56 61 66 71 76 81 84 89 94 97 100</geo>
+  </afp>
+  <afp name="center_frame_dp">
+    <geo __type="u16" __count="44">5 8 11 16 21 26 31 36 41 46 51 56 61 66 71 74 79 82 85 88 94 100 106 112 115 118 125 131 134 137 140 146 149 152 155 158 161 164 167 170 173 176 179 182</geo>
+  </afp>
+  <afp name="center_frame_sp">
+    <geo __type="u16" __count="22">5 8 11 14 19 24 29 34 39 44 49 54 59 64 69 74 79 82 87 92 95 98</geo>
+  </afp>
+  <afp name="center_frame_wide_1p">
+    <geo __type="u16" __count="22">5 8 11 14 19 24 29 34 39 44 49 54 59 64 69 72 77 82 87 92 95 98</geo>
+  </afp>
+  <afp name="center_frame_wide_2p">
+    <geo __type="u16" __count="22">5 8 11 14 19 24 29 34 39 44 49 54 59 64 69 72 77 82 87 92 95 98</geo>
+  </afp>
+  <afp name="dp_frame">
+    <geo __type="u16" __count="9">5 8 11 16 21 26 31 34 39</geo>
+  </afp>
+  <afp name="gauge_up_1p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="gauge_up_2p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="gauge_up_dp">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_bpm_dp">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_diff_1p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_diff_2p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_diff_dp">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_gauge_1p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_gauge_2p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_gauge_dp">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_key_cover">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_maxcombo_dp">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_score_dp">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_spd_1p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_spd_2p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+</afplist>

@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="x_base_line_0">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_base_line_1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_basic_frame">
+    <geo __type="u16" __count="26">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 56 67 75 88 91 105 108 117 138 155</geo>
+  </afp>
+  <afp name="x_basic_frame1">
+    <geo __type="u16" __count="17">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 56</geo>
+  </afp>
+  <afp name="x_basic_frame10">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_basic_frame2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_basic_frame3">
+    <geo __type="u16" __count="17">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 56</geo>
+  </afp>
+  <afp name="x_basic_frame4">
+    <geo __type="u16" __count="18">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 56 59</geo>
+  </afp>
+  <afp name="x_basic_frame5">
+    <geo __type="u16" __count="17">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 56</geo>
+  </afp>
+  <afp name="x_basic_frame6">
+    <geo __type="u16" __count="17">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 56</geo>
+  </afp>
+  <afp name="x_bg1_clear">
+    <geo __type="u16" __count="18">5 8 11 14 17 20 23 26 49 62 65 152 155 158 161 164 167 170</geo>
+  </afp>
+  <afp name="x_bg1_failed">
+    <geo __type="u16" __count="18">5 8 11 14 17 20 23 26 49 62 65 184 187 190 193 196 199 202</geo>
+  </afp>
+  <afp name="x_blue_efline_l">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_blue_efline_l2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_blue_efline_r">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_blue_efline_r2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_cl_cl_2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_linbg_c01p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_linbg_f01p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_red_efline_l">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_red_efline_l2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_red_efline_r">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_red_efline_r2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="xx_bg_clear">
+    <geo __type="u16" __count="6">5 10 13 16 19 22</geo>
+  </afp>
+  <afp name="xx_bg_failed">
+    <geo __type="u16" __count="6">5 10 13 16 19 22</geo>
+  </afp>
+  <afp name="xx_bgfrareline01">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="xx_bgyaji_in1">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="xx_bgyaji_in2">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="xx_bgyaji_in3">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="xx_bgyaji_in4">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="xx_bgyaji1">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="xx_bgyaji2">
+    <geo __type="u16" __count="1">5</geo>
+  </afp>
+  <afp name="xx_bgyaji3">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="xx_bgyaji4">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="xx_c_bgtext00">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="1p_clear">
+    <geo __type="u16" __count="5">5 10 13 19 22</geo>
+  </afp>
+  <afp name="1p_failed">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="2p_clear">
+    <geo __type="u16" __count="5">5 10 13 19 22</geo>
+  </afp>
+  <afp name="2p_failed">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="bg_clear">
+    <geo __type="u16" __count="88">5 8 13 16 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 163 166 169 172 175 178 181 184 187 190 193 196 231 234 237 240 243 246 249 252 255 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 288 299 307 320 323 337 340 349 370 387 403 406 409 412 415 466 467 470 473 476 479 482 505 518 521 608 611 614 617 620 623</geo>
+  </afp>
+  <afp name="bg_failed">
+    <geo __type="u16" __count="88">5 8 13 16 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 163 166 169 172 175 178 181 184 187 190 193 196 231 234 237 240 243 246 249 252 255 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 288 299 307 320 323 337 340 349 370 387 403 406 409 412 415 466 467 470 473 476 479 482 505 518 521 640 643 646 649 652 655</geo>
+  </afp>
+  <afp name="dan_result_dp">
+    <geo __type="u16" __count="25">5 8 13 18 23 26 31 34 37 42 45 48 53 58 61 64 67 70 73 79 90 93 96 99 102</geo>
+  </afp>
+  <afp name="dan_result_sp">
+    <geo __type="u16" __count="27">5 8 13 18 23 26 31 34 37 42 45 48 53 58 61 64 67 72 75 78 84 95 98 101 104 107 110</geo>
+  </afp>
+  <afp name="dp_p_qupro_ng">
+    <geo __type="u16" __count="6">5 10 13 16 19 158</geo>
+  </afp>
+  <afp name="dp_p_qupro_ok">
+    <geo __type="u16" __count="10">5 10 13 16 19 22 25 28 29 34</geo>
+  </afp>
+  <afp name="shadow_1p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="shadow_2p">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="shadow_dp">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="sp_1p_qupro_ng">
+    <geo __type="u16" __count="6">5 10 13 16 19 158</geo>
+  </afp>
+  <afp name="sp_1p_qupro_ok">
+    <geo __type="u16" __count="10">5 10 13 16 19 22 25 28 29 34</geo>
+  </afp>
+  <afp name="sp_2p_qupro_ng">
+    <geo __type="u16" __count="6">5 10 13 16 19 158</geo>
+  </afp>
+  <afp name="sp_2p_qupro_ok">
+    <geo __type="u16" __count="10">5 10 13 16 19 22 25 28 29 34</geo>
+  </afp>
+  <afp name="toi_1p">
+    <geo __type="u16" __count="2">5 8</geo>
+  </afp>
+  <afp name="toi_2p">
+    <geo __type="u16" __count="2">5 8</geo>
+  </afp>
+  <afp name="x_counter">
+    <geo __type="u16" __count="16">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52</geo>
+  </afp>
+  <afp name="x_frame0">
+    <geo __type="u16" __count="28">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 145 148 151 154 157 160 163 166 169 172 175 178</geo>
+  </afp>
+  <afp name="x_rain">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+</afplist>

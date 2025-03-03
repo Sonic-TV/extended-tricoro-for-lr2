@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="1p_2dxid">
+    <geo __type="u16" __count="11">5 8 9 14 17 20 23 26 29 32 35</geo>
+  </afp>
+  <afp name="1p_area_sel">
+    <geo __type="u16" __count="8">5 8 11 12 15 20 23 26</geo>
+  </afp>
+  <afp name="1p_cardplay">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="1p_conv_start">
+    <geo __type="u16" __count="8">5 8 11 14 17 20 31 34</geo>
+  </afp>
+  <afp name="1p_error">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="1p_info_waku">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="1p_name_start">
+    <geo __type="u16" __count="9">5 8 11 16 21 24 27 30 33</geo>
+  </afp>
+  <afp name="1p_noentry">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="1p_waku">
+    <geo __type="u16" __count="5">5 8 11 17 20</geo>
+  </afp>
+  <afp name="2p_2dxid">
+    <geo __type="u16" __count="11">5 8 9 14 17 20 23 26 29 32 35</geo>
+  </afp>
+  <afp name="2p_area_sel">
+    <geo __type="u16" __count="8">5 8 11 12 15 20 23 26</geo>
+  </afp>
+  <afp name="2p_cardplay">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="2p_conv_start">
+    <geo __type="u16" __count="8">5 8 11 14 17 20 31 34</geo>
+  </afp>
+  <afp name="2p_error">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="2p_info_waku">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="2p_name_start">
+    <geo __type="u16" __count="9">5 8 9 14 17 24 27 30 33</geo>
+  </afp>
+  <afp name="2p_noentry">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="2p_waku">
+    <geo __type="u16" __count="5">5 8 11 17 20</geo>
+  </afp>
+  <afp name="name_bg">
+    <geo __type="u16" __count="28">5 8 11 16 19 22 25 28 31 38 41 44 47 50 57 64 67 70 73 76 83 90 93 99 121 124 153 184</geo>
+  </afp>
+  <afp name="x_2dxid_bg">
+    <geo __type="u16" __count="9">5 10 13 16 19 22 25 28 31</geo>
+  </afp>
+  <afp name="x_bg">
+    <geo __type="u16" __count="20">5 10 13 20 23 26 29 32 39 46 49 52 55 58 65 72 75 81 103 106</geo>
+  </afp>
+  <afp name="x_c_bg">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_c_line_b">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_c_ring0">
+    <geo __type="u16" __count="4">5 10 13 19</geo>
+  </afp>
+  <afp name="x_c_ring1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_c_ring2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_c_ring5">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_c_ring6">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_c_ring7">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_kazari_new">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_kazari_old">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_name_grd">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_name_line">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+</afplist>

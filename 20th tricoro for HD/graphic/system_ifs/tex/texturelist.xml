@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="message_bg">
+      <uvrect __type="4u16">2 2562 2 78</uvrect>
+      <imgrect __type="4u16">0 2564 0 80</imgrect>
+    </image>
+    <image name="sys_information_2">
+      <uvrect __type="4u16">2 1442 82 594</uvrect>
+      <imgrect __type="4u16">0 1444 80 596</imgrect>
+    </image>
+    <image name="sys_information_1">
+      <uvrect __type="4u16">2 1442 598 1318</uvrect>
+      <imgrect __type="4u16">0 1444 596 1320</imgrect>
+    </image>
+    <image name="sys_on_update">
+      <uvrect __type="4u16">2 722 1322 1690</uvrect>
+      <imgrect __type="4u16">0 724 1320 1692</imgrect>
+    </image>
+    <image name="sys_t_wait">
+      <uvrect __type="4u16">726 1398 1322 1406</uvrect>
+      <imgrect __type="4u16">724 1400 1320 1408</imgrect>
+    </image>
+    <image name="sys_wait_ple">
+      <uvrect __type="4u16">1446 1950 82 110</uvrect>
+      <imgrect __type="4u16">1444 1952 80 112</imgrect>
+    </image>
+    <image name="sys_ecomode">
+      <uvrect __type="4u16">1446 1652 114 314</uvrect>
+      <imgrect __type="4u16">1444 1654 112 316</imgrect>
+    </image>
+    <image name="sys_exclamation">
+      <uvrect __type="4u16">1656 1808 114 246</uvrect>
+      <imgrect __type="4u16">1654 1810 112 248</imgrect>
+    </image>
+    <image name="sys_siro">
+      <uvrect __type="4u16">1954 1970 82 98</uvrect>
+      <imgrect __type="4u16">1952 1972 80 100</imgrect>
+    </image>
+    <image name="sys_kuro">
+      <uvrect __type="4u16">1974 1990 82 98</uvrect>
+      <imgrect __type="4u16">1972 1992 80 100</imgrect>
+    </image>
+  </texture>
+</texturelist>

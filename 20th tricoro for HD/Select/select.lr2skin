@@ -1,0 +1,40 @@
+//インフォメーション//////////////////////////////////////////////////////////////////////////
+#INFORMATION,5,IIDX20 tricoro,
+
+
+//カスタムオプション////////////////////////////////////////////////////////////////////////////
+#CUSTOMOPTION,PLAY SIDE,985,1P,2P,
+
+
+#CUSTOMOPTION,EVENT,965,OFF,LEGEND CROSS,Ω-ATTACK,ぼくらの宇宙戦争
+
+
+//カスタムパーツ////////////////////////////////////////////////////////////////////////////
+
+
+#CUSTOMOPTION,アクティブバーCN表示,920,ON,OFF,,,,
+
+#CUSTOMOPTION,サブタイトル,930,ON,OFF,,,,
+
+#CUSTOMOPTION,BANNER,922,OFF,ON,,,,
+
+#CUSTOMOPTION,CLOCK,925,OFF,ON,,,,
+
+#CUSTOMOPTION,クプロ,955,OFF,ON,,,,
+
+#CUSTOMFILE,クプロ 顔,LR2files\Theme\20th tricoro for HD\Select\Parts\qpro\face\*.png,Default,
+
+#CUSTOMFILE,クプロ 髪,LR2files\Theme\20th tricoro for HD\Select\Parts\qpro\hair\*.png,Default,
+
+#CUSTOMFILE,クプロ 頭,LR2files\Theme\20th tricoro for HD\Select\Parts\qpro\head\*.png,Default,
+
+#CUSTOMFILE,クプロ 体,LR2files\Theme\20th tricoro for HD\Select\Parts\qpro\body\*.png,Default,
+
+#CUSTOMFILE,クプロ 手,LR2files\Theme\20th tricoro for HD\Select\Parts\qpro\hand\*.png,Default,
+
+
+#ENDOFHEADER,,,,,,,,
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+//スキン本体
+#INCLUDE,LR2files\Theme\20th tricoro for HD\Select\select_IIDX20.csv,

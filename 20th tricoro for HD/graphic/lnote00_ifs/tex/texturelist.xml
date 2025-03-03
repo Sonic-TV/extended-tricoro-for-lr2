@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="lnote00_lo_siro_push11">
+      <uvrect __type="4u16">2 202 2 212</uvrect>
+      <imgrect __type="4u16">0 204 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push10">
+      <uvrect __type="4u16">206 406 2 212</uvrect>
+      <imgrect __type="4u16">204 408 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push09">
+      <uvrect __type="4u16">2 202 216 426</uvrect>
+      <imgrect __type="4u16">0 204 214 428</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push08">
+      <uvrect __type="4u16">206 406 216 426</uvrect>
+      <imgrect __type="4u16">204 408 214 428</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push07">
+      <uvrect __type="4u16">410 610 2 212</uvrect>
+      <imgrect __type="4u16">408 612 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push06">
+      <uvrect __type="4u16">614 814 2 212</uvrect>
+      <imgrect __type="4u16">612 816 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push05">
+      <uvrect __type="4u16">818 1018 2 212</uvrect>
+      <imgrect __type="4u16">816 1020 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push04">
+      <uvrect __type="4u16">410 610 216 426</uvrect>
+      <imgrect __type="4u16">408 612 214 428</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push03">
+      <uvrect __type="4u16">614 814 216 426</uvrect>
+      <imgrect __type="4u16">612 816 214 428</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push02">
+      <uvrect __type="4u16">818 1018 216 426</uvrect>
+      <imgrect __type="4u16">816 1020 214 428</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push01">
+      <uvrect __type="4u16">2 202 430 640</uvrect>
+      <imgrect __type="4u16">0 204 428 642</imgrect>
+    </image>
+    <image name="lnote00_lo_siro_push00">
+      <uvrect __type="4u16">206 406 430 640</uvrect>
+      <imgrect __type="4u16">204 408 428 642</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push11">
+      <uvrect __type="4u16">410 610 430 640</uvrect>
+      <imgrect __type="4u16">408 612 428 642</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push10">
+      <uvrect __type="4u16">614 814 430 640</uvrect>
+      <imgrect __type="4u16">612 816 428 642</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push09">
+      <uvrect __type="4u16">818 1018 430 640</uvrect>
+      <imgrect __type="4u16">816 1020 428 642</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push08">
+      <uvrect __type="4u16">2 202 644 854</uvrect>
+      <imgrect __type="4u16">0 204 642 856</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push07">
+      <uvrect __type="4u16">206 406 644 854</uvrect>
+      <imgrect __type="4u16">204 408 642 856</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push06">
+      <uvrect __type="4u16">410 610 644 854</uvrect>
+      <imgrect __type="4u16">408 612 642 856</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push05">
+      <uvrect __type="4u16">614 814 644 854</uvrect>
+      <imgrect __type="4u16">612 816 642 856</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push04">
+      <uvrect __type="4u16">818 1018 644 854</uvrect>
+      <imgrect __type="4u16">816 1020 642 856</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push03">
+      <uvrect __type="4u16">1022 1222 2 212</uvrect>
+      <imgrect __type="4u16">1020 1224 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push02">
+      <uvrect __type="4u16">1226 1426 2 212</uvrect>
+      <imgrect __type="4u16">1224 1428 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push01">
+      <uvrect __type="4u16">1430 1630 2 212</uvrect>
+      <imgrect __type="4u16">1428 1632 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_ao_push00">
+      <uvrect __type="4u16">1634 1834 2 212</uvrect>
+      <imgrect __type="4u16">1632 1836 0 214</imgrect>
+    </image>
+    <image name="lnote00_lo_siro12">
+      <uvrect __type="4u16">1838 1986 2 202</uvrect>
+      <imgrect __type="4u16">1836 1988 0 204</imgrect>
+    </image>
+    <image name="lnote00_lo_siro11">
+      <uvrect __type="4u16">1838 1986 206 406</uvrect>
+      <imgrect __type="4u16">1836 1988 204 408</imgrect>
+    </image>
+    <image name="lnote00_lo_siro10">
+      <uvrect __type="4u16">1022 1170 216 416</uvrect>
+      <imgrect __type="4u16">1020 1172 214 418</imgrect>
+    </image>
+    <image name="lnote00_lo_siro09">
+      <uvrect __type="4u16">1174 1322 216 416</uvrect>
+      <imgrect __type="4u16">1172 1324 214 418</imgrect>
+    </image>
+    <image name="lnote00_lo_siro08">
+      <uvrect __type="4u16">1326 1474 216 416</uvrect>
+      <imgrect __type="4u16">1324 1476 214 418</imgrect>
+    </image>
+    <image name="lnote00_lo_siro07">
+      <uvrect __type="4u16">1478 1626 216 416</uvrect>
+      <imgrect __type="4u16">1476 1628 214 418</imgrect>
+    </image>
+    <image name="lnote00_lo_siro06">
+      <uvrect __type="4u16">1630 1778 216 416</uvrect>
+      <imgrect __type="4u16">1628 1780 214 418</imgrect>
+    </image>
+    <image name="lnote00_lo_siro05">
+      <uvrect __type="4u16">1782 1930 410 610</uvrect>
+      <imgrect __type="4u16">1780 1932 408 612</imgrect>
+    </image>
+    <image name="lnote00_lo_siro04">
+      <uvrect __type="4u16">1022 1170 420 620</uvrect>
+      <imgrect __type="4u16">1020 1172 418 622</imgrect>
+    </image>
+    <image name="lnote00_lo_siro03">
+      <uvrect __type="4u16">1174 1322 420 620</uvrect>
+      <imgrect __type="4u16">1172 1324 418 622</imgrect>
+    </image>
+    <image name="lnote00_lo_siro02">
+      <uvrect __type="4u16">1326 1474 420 620</uvrect>
+      <imgrect __type="4u16">1324 1476 418 622</imgrect>
+    </image>
+    <image name="lnote00_lo_siro01">
+      <uvrect __type="4u16">1478 1626 420 620</uvrect>
+      <imgrect __type="4u16">1476 1628 418 622</imgrect>
+    </image>
+    <image name="lnote00_lo_siro00">
+      <uvrect __type="4u16">1630 1778 420 620</uvrect>
+      <imgrect __type="4u16">1628 1780 418 622</imgrect>
+    </image>
+    <image name="lnote00_lo_ao12">
+      <uvrect __type="4u16">1782 1930 614 814</uvrect>
+      <imgrect __type="4u16">1780 1932 612 816</imgrect>
+    </image>
+    <image name="lnote00_lo_ao11">
+      <uvrect __type="4u16">1022 1170 624 824</uvrect>
+      <imgrect __type="4u16">1020 1172 622 826</imgrect>
+    </image>
+    <image name="lnote00_lo_ao10">
+      <uvrect __type="4u16">1174 1322 624 824</uvrect>
+      <imgrect __type="4u16">1172 1324 622 826</imgrect>
+    </image>
+    <image name="lnote00_lo_ao09">
+      <uvrect __type="4u16">1326 1474 624 824</uvrect>
+      <imgrect __type="4u16">1324 1476 622 826</imgrect>
+    </image>
+    <image name="lnote00_lo_ao08">
+      <uvrect __type="4u16">1478 1626 624 824</uvrect>
+      <imgrect __type="4u16">1476 1628 622 826</imgrect>
+    </image>
+    <image name="lnote00_lo_ao07">
+      <uvrect __type="4u16">1630 1778 624 824</uvrect>
+      <imgrect __type="4u16">1628 1780 622 826</imgrect>
+    </image>
+    <image name="lnote00_lo_ao06">
+      <uvrect __type="4u16">1782 1930 818 1018</uvrect>
+      <imgrect __type="4u16">1780 1932 816 1020</imgrect>
+    </image>
+    <image name="lnote00_lo_ao05">
+      <uvrect __type="4u16">1022 1170 828 1028</uvrect>
+      <imgrect __type="4u16">1020 1172 826 1030</imgrect>
+    </image>
+    <image name="lnote00_lo_ao04">
+      <uvrect __type="4u16">1174 1322 828 1028</uvrect>
+      <imgrect __type="4u16">1172 1324 826 1030</imgrect>
+    </image>
+    <image name="lnote00_lo_ao03">
+      <uvrect __type="4u16">1326 1474 828 1028</uvrect>
+      <imgrect __type="4u16">1324 1476 826 1030</imgrect>
+    </image>
+    <image name="lnote00_lo_ao02">
+      <uvrect __type="4u16">1478 1626 828 1028</uvrect>
+      <imgrect __type="4u16">1476 1628 826 1030</imgrect>
+    </image>
+    <image name="lnote00_lo_ao01">
+      <uvrect __type="4u16">1630 1778 828 1028</uvrect>
+      <imgrect __type="4u16">1628 1780 826 1030</imgrect>
+    </image>
+    <image name="lnote00_lo_ao00">
+      <uvrect __type="4u16">2 150 858 1058</uvrect>
+      <imgrect __type="4u16">0 152 856 1060</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push11">
+      <uvrect __type="4u16">154 314 858 1026</uvrect>
+      <imgrect __type="4u16">152 316 856 1028</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push10">
+      <uvrect __type="4u16">318 478 858 1026</uvrect>
+      <imgrect __type="4u16">316 480 856 1028</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push09">
+      <uvrect __type="4u16">482 642 858 1026</uvrect>
+      <imgrect __type="4u16">480 644 856 1028</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push08">
+      <uvrect __type="4u16">646 806 858 1026</uvrect>
+      <imgrect __type="4u16">644 808 856 1028</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push07">
+      <uvrect __type="4u16">810 970 858 1026</uvrect>
+      <imgrect __type="4u16">808 972 856 1028</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push06">
+      <uvrect __type="4u16">1782 1942 1022 1190</uvrect>
+      <imgrect __type="4u16">1780 1944 1020 1192</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push05">
+      <uvrect __type="4u16">154 314 1030 1198</uvrect>
+      <imgrect __type="4u16">152 316 1028 1200</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push04">
+      <uvrect __type="4u16">318 478 1030 1198</uvrect>
+      <imgrect __type="4u16">316 480 1028 1200</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push03">
+      <uvrect __type="4u16">482 642 1030 1198</uvrect>
+      <imgrect __type="4u16">480 644 1028 1200</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push02">
+      <uvrect __type="4u16">646 806 1030 1198</uvrect>
+      <imgrect __type="4u16">644 808 1028 1200</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push01">
+      <uvrect __type="4u16">810 970 1030 1198</uvrect>
+      <imgrect __type="4u16">808 972 1028 1200</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_push00">
+      <uvrect __type="4u16">974 1134 1032 1200</uvrect>
+      <imgrect __type="4u16">972 1136 1030 1202</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_12">
+      <uvrect __type="4u16">1138 1298 1032 1200</uvrect>
+      <imgrect __type="4u16">1136 1300 1030 1202</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_11">
+      <uvrect __type="4u16">1302 1462 1032 1200</uvrect>
+      <imgrect __type="4u16">1300 1464 1030 1202</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_10">
+      <uvrect __type="4u16">1466 1626 1032 1200</uvrect>
+      <imgrect __type="4u16">1464 1628 1030 1202</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_09">
+      <uvrect __type="4u16">1630 1790 1194 1362</uvrect>
+      <imgrect __type="4u16">1628 1792 1192 1364</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_08">
+      <uvrect __type="4u16">1794 1954 1194 1362</uvrect>
+      <imgrect __type="4u16">1792 1956 1192 1364</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_07">
+      <uvrect __type="4u16">2 162 1202 1370</uvrect>
+      <imgrect __type="4u16">0 164 1200 1372</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_06">
+      <uvrect __type="4u16">166 326 1202 1370</uvrect>
+      <imgrect __type="4u16">164 328 1200 1372</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_05">
+      <uvrect __type="4u16">330 490 1202 1370</uvrect>
+      <imgrect __type="4u16">328 492 1200 1372</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_04">
+      <uvrect __type="4u16">494 654 1202 1370</uvrect>
+      <imgrect __type="4u16">492 656 1200 1372</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_03">
+      <uvrect __type="4u16">658 818 1202 1370</uvrect>
+      <imgrect __type="4u16">656 820 1200 1372</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_02">
+      <uvrect __type="4u16">822 982 1204 1372</uvrect>
+      <imgrect __type="4u16">820 984 1202 1374</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_01">
+      <uvrect __type="4u16">986 1146 1204 1372</uvrect>
+      <imgrect __type="4u16">984 1148 1202 1374</imgrect>
+    </image>
+    <image name="lnote00_lo_scr_00">
+      <uvrect __type="4u16">1150 1310 1204 1372</uvrect>
+      <imgrect __type="4u16">1148 1312 1202 1374</imgrect>
+    </image>
+  </texture>
+</texturelist>

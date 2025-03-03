@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="y_gra">
+      <uvrect __type="4u16">2 10 2 1286</uvrect>
+      <imgrect __type="4u16">0 12 0 1288</imgrect>
+    </image>
+    <image name="blue_wave">
+      <uvrect __type="4u16">14 1294 2 1282</uvrect>
+      <imgrect __type="4u16">12 1296 0 1284</imgrect>
+    </image>
+    <image name="lane_effect">
+      <uvrect __type="4u16">1298 1314 2 966</uvrect>
+      <imgrect __type="4u16">1296 1316 0 968</imgrect>
+    </image>
+    <image name="exp_b_glow">
+      <uvrect __type="4u16">14 930 1286 1588</uvrect>
+      <imgrect __type="4u16">12 932 1284 1590</imgrect>
+    </image>
+    <image name="sonic_wave">
+      <uvrect __type="4u16">1298 2034 970 1578</uvrect>
+      <imgrect __type="4u16">1296 2036 968 1580</imgrect>
+    </image>
+    <image name="fl_laser">
+      <uvrect __type="4u16">1318 1322 2 696</uvrect>
+      <imgrect __type="4u16">1316 1324 0 698</imgrect>
+    </image>
+    <image name="lightning_09">
+      <uvrect __type="4u16">1326 1902 2 182</uvrect>
+      <imgrect __type="4u16">1324 1904 0 184</imgrect>
+    </image>
+    <image name="lightning_08">
+      <uvrect __type="4u16">1326 1902 186 366</uvrect>
+      <imgrect __type="4u16">1324 1904 184 368</imgrect>
+    </image>
+    <image name="lightning_07">
+      <uvrect __type="4u16">1326 1902 370 550</uvrect>
+      <imgrect __type="4u16">1324 1904 368 552</imgrect>
+    </image>
+    <image name="lightning_06">
+      <uvrect __type="4u16">1326 1902 554 734</uvrect>
+      <imgrect __type="4u16">1324 1904 552 736</imgrect>
+    </image>
+    <image name="lightning_05">
+      <uvrect __type="4u16">1318 1894 738 918</uvrect>
+      <imgrect __type="4u16">1316 1896 736 920</imgrect>
+    </image>
+    <image name="lightning_04">
+      <uvrect __type="4u16">934 1510 1582 1762</uvrect>
+      <imgrect __type="4u16">932 1512 1580 1764</imgrect>
+    </image>
+    <image name="lightning_03">
+      <uvrect __type="4u16">2 578 1592 1772</uvrect>
+      <imgrect __type="4u16">0 580 1590 1774</imgrect>
+    </image>
+    <image name="lightning_02">
+      <uvrect __type="4u16">582 1158 1766 1946</uvrect>
+      <imgrect __type="4u16">580 1160 1764 1948</imgrect>
+    </image>
+    <image name="lightning_01">
+      <uvrect __type="4u16">1162 1738 1766 1946</uvrect>
+      <imgrect __type="4u16">1160 1740 1764 1948</imgrect>
+    </image>
+    <image name="lightning_00">
+      <uvrect __type="4u16">2 578 1776 1956</uvrect>
+      <imgrect __type="4u16">0 580 1774 1958</imgrect>
+    </image>
+    <image name="txt_combo">
+      <uvrect __type="4u16">582 1130 1950 2042</uvrect>
+      <imgrect __type="4u16">580 1132 1948 2044</imgrect>
+    </image>
+    <image name="txt_combo_flash">
+      <uvrect __type="4u16">1514 2002 1582 1630</uvrect>
+      <imgrect __type="4u16">1512 2004 1580 1632</imgrect>
+    </image>
+    <image name="txt_full">
+      <uvrect __type="4u16">1514 1948 1634 1726</uvrect>
+      <imgrect __type="4u16">1512 1950 1632 1728</imgrect>
+    </image>
+    <image name="txt_full_flash">
+      <uvrect __type="4u16">1134 1514 1950 1998</uvrect>
+      <imgrect __type="4u16">1132 1516 1948 2000</imgrect>
+    </image>
+    <image name="txt_flash_u">
+      <uvrect __type="4u16">1906 2026 2 66</uvrect>
+      <imgrect __type="4u16">1904 2028 0 68</imgrect>
+    </image>
+    <image name="txt_flash_o">
+      <uvrect __type="4u16">1906 2026 70 134</uvrect>
+      <imgrect __type="4u16">1904 2028 68 136</imgrect>
+    </image>
+    <image name="txt_flash_m">
+      <uvrect __type="4u16">1906 2026 138 202</uvrect>
+      <imgrect __type="4u16">1904 2028 136 204</imgrect>
+    </image>
+    <image name="txt_flash_f">
+      <uvrect __type="4u16">1906 2026 206 270</uvrect>
+      <imgrect __type="4u16">1904 2028 204 272</imgrect>
+    </image>
+    <image name="txt_flash_c">
+      <uvrect __type="4u16">1906 2026 274 338</uvrect>
+      <imgrect __type="4u16">1904 2028 272 340</imgrect>
+    </image>
+    <image name="txt_flash_b">
+      <uvrect __type="4u16">1906 2022 342 406</uvrect>
+      <imgrect __type="4u16">1904 2024 340 408</imgrect>
+    </image>
+    <image name="txt_flash_l">
+      <uvrect __type="4u16">1906 2014 410 474</uvrect>
+      <imgrect __type="4u16">1904 2016 408 476</imgrect>
+    </image>
+    <image name="particle_mini_blue">
+      <uvrect __type="4u16">1906 1960 478 540</uvrect>
+      <imgrect __type="4u16">1904 1962 476 542</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex001" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">256 256</size>
+    <image name="exp_effect">
+      <uvrect __type="4u16">2 402 2 348</uvrect>
+      <imgrect __type="4u16">0 404 0 350</imgrect>
+    </image>
+  </texture>
+</texturelist>

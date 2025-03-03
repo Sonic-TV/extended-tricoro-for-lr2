@@ -1,0 +1,873 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="balloon_serif00_00">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_01">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_02">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_03">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_04">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_05">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_06">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_07">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_08">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_09">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_10">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_11">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_13">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_14">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_15">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_16">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_17">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_18">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_19">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_20">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_21">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_22">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_23">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_24">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_25">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_26">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_27">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_28">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_29">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_30">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_31">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_32">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_33">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_34">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_35">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_36">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_37">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_38">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_39">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif00_40">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif00_41">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_42">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif00_43">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_00">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_01">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_02">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif01_03">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_04">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif01_05">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif01_06">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif01_07">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif01_08">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_09">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif01_10">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_11">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif01_12">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_13">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif01_14">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif01_15">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_16">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_17">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_18">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif01_19">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif01_20">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif01_21">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_00">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_01">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_02">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif02_03">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_04">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif02_05">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_06">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_07">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif02_08">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_09">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif02_10">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif02_11">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif02_12">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif02_13">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_14">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif02_15">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif02_16">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_17">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif02_18">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif02_19">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif02_20">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif02_21">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif02_22">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif02_23">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif02_24">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_00">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_01">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_02">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_03">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_04">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_05">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif03_06">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_07">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif03_08">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_09">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_10">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_11">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_12">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif03_13">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif03_14">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_15">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_16">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_17">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_18">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif03_19">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif03_20">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_21">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif03_22">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_00">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_01">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_02">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_03">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_04">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_05">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_06">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_07">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_08">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_09">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_10">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_11">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_12">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_13">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_14">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_15">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_16">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_17">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_18">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_19">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_20">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_21">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_22">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_23">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_24">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif04_25">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_26">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_27">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_28">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif04_29">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif04_30">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_00">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_01">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif05_02">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif05_03">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_04">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_05">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif05_06">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_07">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif05_08">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_09">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_10">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_11">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_12">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_13">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_14">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_15">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif05_16">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_17">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_18">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_19">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif05_20">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_21">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_22">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif05_23">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_24">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_25">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_26">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_27">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_28">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_29">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_30">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_31">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_32">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_33">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_34">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_35">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_36">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_37">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif05_38">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif05_39">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_00">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_01">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_02">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_03">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_04">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_05">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_06">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_07">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_08">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_09">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_10">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_11">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_12">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_13">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_14">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_15">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_16">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_17">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_18">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_19">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_20">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_21">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_22">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_23">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_24">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_25">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_26">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_27">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_28">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_29">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif06_30">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_31">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif06_32">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_33">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_34">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif06_35">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_00">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_01">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_02">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_03">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_04">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_05">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_06">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_07">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_08">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_09">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_10">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_11">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_12">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_13">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_14">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_15">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_16">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_17">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_18">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_19">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_20">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_21">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_22">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_23">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_24">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_25">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_26">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="balloon_serif07_27">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_28">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_29">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_30">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_31">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_32">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_33">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_34">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_35">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="balloon_serif07_36">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_37">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_38">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_39">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="balloon_serif07_40">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="x_information00">
+    <geo __type="u16" __count="9">5 10 13 16 19 22 25 28 29</geo>
+  </afp>
+  <afp name="x_information01">
+    <geo __type="u16" __count="9">5 10 13 16 19 22 25 28 29</geo>
+  </afp>
+  <afp name="x_information02">
+    <geo __type="u16" __count="9">5 10 13 16 19 22 25 28 29</geo>
+  </afp>
+  <afp name="x_information03">
+    <geo __type="u16" __count="9">5 10 13 16 19 22 25 28 29</geo>
+  </afp>
+  <afp name="x_information04">
+    <geo __type="u16" __count="9">5 10 13 16 19 22 25 28 29</geo>
+  </afp>
+  <afp name="x_information05">
+    <geo __type="u16" __count="11">5 10 13 16 19 22 25 28 31 34 35</geo>
+  </afp>
+  <afp name="x_information06">
+    <geo __type="u16" __count="10">5 10 13 16 19 22 25 28 31 32</geo>
+  </afp>
+  <afp name="x_information07">
+    <geo __type="u16" __count="16">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 50</geo>
+  </afp>
+  <afp name="story_yellow00">
+    <geo __type="u16" __count="101">5 8 11 14 17 20 23 26 29 32 46 52 59 62 65 76 82 85 88 96 99 107 110 113 121 124 131 134 137 146 149 152 161 164 172 179 182 190 193 201 204 212 215 223 226 234 237 245 252 255 258 267 270 273 282 285 293 296 299 308 311 314 323 326 329 338 341 349 357 360 363 372 375 378 387 390 398 405 412 419 422 431 438 445 452 455 464 471 478 481 484 493 508 515 518 526 529 532 539 542 547</geo>
+  </afp>
+  <afp name="story_yellow01">
+    <geo __type="u16" __count="56">5 8 13 16 19 22 25 28 31 32 46 53 56 59 70 76 79 86 93 96 99 102 111 114 117 125 128 136 139 147 154 157 160 169 176 183 190 193 201 208 211 219 226 233 236 239 248 255 262 269 272 280 283 289 292 297</geo>
+  </afp>
+  <afp name="story_yellow02">
+    <geo __type="u16" __count="63">5 8 13 16 19 22 25 28 31 32 46 52 59 62 69 72 80 83 86 95 98 106 109 117 124 127 135 138 141 150 157 160 163 171 174 182 189 192 200 203 211 214 217 226 229 232 235 244 251 254 257 266 273 280 283 286 295 302 309 316 321 324 329</geo>
+  </afp>
+  <afp name="story_yellow03">
+    <geo __type="u16" __count="62">5 8 13 16 19 22 25 28 31 32 46 53 59 65 68 71 79 82 90 93 101 104 111 114 117 126 133 136 144 151 158 161 164 173 176 179 188 191 199 206 209 217 220 223 231 234 237 246 249 257 260 263 272 275 283 290 293 301 308 313 316 321</geo>
+  </afp>
+  <afp name="story_yellow04">
+    <geo __type="u16" __count="81">5 8 13 16 19 22 25 28 31 32 44 49 52 55 66 72 79 85 91 100 103 110 113 116 124 131 134 141 144 152 155 164 167 170 179 182 185 194 197 205 212 215 218 227 230 233 242 245 248 257 264 271 274 277 286 289 292 301 304 307 316 323 330 333 336 345 352 355 363 370 377 380 388 391 399 406 413 416 426 429 434</geo>
+  </afp>
+  <afp name="story_yellow05">
+    <geo __type="u16" __count="94">5 8 13 16 19 22 25 28 31 34 37 38 54 57 60 71 78 87 93 96 103 106 113 116 119 128 131 134 137 146 157 164 171 178 185 192 199 206 209 212 221 224 227 236 243 246 249 258 261 269 272 275 284 287 290 299 302 310 313 316 325 332 339 342 350 353 356 365 372 375 378 387 394 401 404 412 415 418 427 430 438 441 444 453 456 459 468 471 479 482 490 495 498 503</geo>
+  </afp>
+  <afp name="story_yellow06">
+    <geo __type="u16" __count="104">5 8 11 14 17 20 23 26 29 32 35 48 51 54 59 66 75 81 84 87 98 101 104 112 115 118 121 130 133 136 139 148 151 154 163 166 169 177 180 188 195 202 209 212 220 227 230 233 242 249 252 255 264 267 270 279 282 285 294 301 308 311 320 323 331 334 337 346 349 352 361 364 367 376 379 387 390 398 401 404 413 416 424 427 435 438 446 453 456 459 472 475 478 487 490 498 501 509 512 520 526 527 530 535</geo>
+  </afp>
+  <afp name="story_yellow07">
+    <geo __type="u16" __count="105">5 8 11 14 17 20 23 26 29 32 35 38 41 44 47 50 53 74 81 87 96 99 102 113 116 123 130 133 136 145 148 151 154 163 170 173 176 185 192 195 198 207 214 217 220 229 232 235 244 247 255 262 265 273 276 279 282 291 294 302 309 316 319 327 334 341 344 347 356 359 367 370 378 385 388 391 400 407 414 417 425 432 435 438 447 450 458 461 464 473 480 483 491 494 502 509 516 519 527 530 538 543 548 549 554</geo>
+  </afp>
+  <afp name="story_yellowbg_room">
+    <geo __type="u16" __count="16">5 8 11 14 17 29 32 35 38 41 44 47 50 53 56 59</geo>
+  </afp>
+  <afp name="story_yellowbg_space">
+    <geo __type="u16" __count="5">5 8 11 14 17</geo>
+  </afp>
+  <afp name="x_effect_blue_lune">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_action_01">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_action_02">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_action_03">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_action_05">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="x_action_06">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_action_07">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_action_08">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="xx_action_05">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="x_room_yunomi">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_room_yunomi_off">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+</afplist>

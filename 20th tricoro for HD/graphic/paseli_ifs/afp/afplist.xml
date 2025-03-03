@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="00">
+    <geo __type="u16" __count="19">5 10 15 20 26 31 36 41 46 51 56 59 85 111 114 119 124 127 128</geo>
+  </afp>
+  <afp name="1p_paseli_bg">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="1p_push_key">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="2p_paseli_bg">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="2p_push_key">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="coin_decide_ng_p01">
+    <geo __type="u16" __count="9">5 10 15 20 25 30 35 40 45</geo>
+  </afp>
+  <afp name="coin_decide_ng_p02">
+    <geo __type="u16" __count="9">5 10 15 20 25 30 35 40 45</geo>
+  </afp>
+  <afp name="coin_decide_noentry_p01">
+    <geo __type="u16" __count="9">5 10 15 20 25 30 35 38 41</geo>
+  </afp>
+  <afp name="coin_decide_noentry_p02">
+    <geo __type="u16" __count="9">5 10 15 20 25 30 35 38 41</geo>
+  </afp>
+  <afp name="panel_waku1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="panel_waku2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="paseli_attention_p01">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="paseli_attention_p02">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="paseli_bg">
+    <geo __type="u16" __count="7">5 10 13 18 23 26 27</geo>
+  </afp>
+  <afp name="paseli_decide_p01">
+    <geo __type="u16" __count="9">5 10 15 20 25 30 35 38 43</geo>
+  </afp>
+  <afp name="paseli_decide_p02">
+    <geo __type="u16" __count="9">5 10 15 20 25 30 35 38 43</geo>
+  </afp>
+  <afp name="paseli_use_p01">
+    <geo __type="u16" __count="7">5 10 13 16 21 26 29</geo>
+  </afp>
+  <afp name="paseli_use_p02">
+    <geo __type="u16" __count="7">5 10 13 16 21 26 29</geo>
+  </afp>
+  <afp name="paseli_window_p01">
+    <geo __type="u16" __count="9">5 8 13 18 23 28 33 38 41</geo>
+  </afp>
+  <afp name="paseli_window_p02">
+    <geo __type="u16" __count="9">5 8 13 18 23 28 33 38 41</geo>
+  </afp>
+  <afp name="plz_wait_p01">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="plz_wait_p02">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="title">
+    <geo __type="u16" __count="4">5 10 15 20</geo>
+  </afp>
+  <afp name="x_paseli_window_01">
+    <geo __type="u16" __count="9">5 8 13 18 23 28 33 38 41</geo>
+  </afp>
+  <afp name="x_paseli_window_02">
+    <geo __type="u16" __count="9">5 8 13 18 23 28 33 38 41</geo>
+  </afp>
+</afplist>

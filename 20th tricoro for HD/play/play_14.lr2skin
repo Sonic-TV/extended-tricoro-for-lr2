@@ -1,0 +1,62 @@
+//,type,title,maker,thumbnail...
+#INFORMATION,2,20th tricoro for HD,
+//typeは,,,,
+//0 7KEYS,,,,
+//1 5KEYS,,,,
+//2 14KEYS,,,,
+//3 10KEYS,,,,
+//4 9KEYS,,,,
+//5 MUSICSELECT,,,,
+//6 DECIDE,,,,
+//7 RESULT,,,,
+//8 KEYCONFIG,,,,
+//9 SKINSELECT,,,,
+//10 SOUNDSET,,,,
+//11 THEME,,,,
+
+//カスタマイズ情報
+//900,LEFT,901,RIGHT
+#CUSTOMOPTION,GRAPH SIDE,900,LEFT,RIGHT,
+//902 通常スコア 903 EXスコア
+#CUSTOMOPTION,スコア表示,902,通常,EXSCORE,,,,
+//904,OFF,905,ON
+#CUSTOMOPTION,DISPLAY JUDGE,904,OFF,ON,,,,
+//906,FLOATING,907,OFF
+#CUSTOMOPTION,HI-SPEED BAR,906,FLOATING,OFF,
+//908 スコアグラフ位置 RIGHT 909 スコアグラフ位置 LEFT
+#CUSTOMOPTION,GAUGE DIRECTION,908,RIGHT,LEFT,,,,
+//910,ON,911,OFF
+#CUSTOMOPTION,サブタイトル,910,ON,OFF,
+//919 Keyboard 920 Controller
+#CUSTOMOPTION,INPUT,919,KEYBOARD,CONTROLLER,
+//921 クプロOFF 922 クプロON
+#CUSTOMOPTION,クプロ,921,OFF,ON,
+//930 TIPS ON 931 TIPS OFF
+#CUSTOMOPTION,TIPS,930,ON,OFF,
+//CUSTOMOPTION,FRAME,940,Default,
+//950,EFFECT TYPE,,,,,,,,,,,,,,
+#CUSTOMOPTION,EFFECT TYPE,950,OFF,EQ ONLY,PITCH,FX0,FX1,FX2,MASTER VOLUME,KEY / BGM BAL.,
+//995,F / S TYPE,,,,,,,,,,,,,,
+#CUSTOMOPTION,FAST-SLOW DISP.,995,OFF,TYPE A,TYPE B,TYPE C,
+
+
+#CUSTOMFILE,NOTES,.\LR2files\Theme\20th tricoro for HD\Play\Notes\*.png,Default,
+#CUSTOMFILE,LN STYLE,.\LR2files\Theme\20th tricoro for HD\Play\LN\*.png,Default,
+#CUSTOMFILE,BOM,.\LR2files\Theme\20th tricoro for HD\Play\Bomb\*.png,Default,
+#CUSTOMFILE,SCRATCH,.\LR2files\Theme\20th tricoro for HD\Play\Scratch\*.png,Default,
+#CUSTOMFILE,LANE COVER,.\LR2files\Theme\20th tricoro for HD\Play\Lanecover\*.png,Default,
+#CUSTOMFILE,LIFT COVER,.\LR2files\Theme\20th tricoro for HD\Play\Lift\*.png,Default,
+#CUSTOMFILE,JUDGE,.\LR2files\Theme\20th tricoro for HD\Play\Judge\*.png,Default,
+#CUSTOMFILE,KEY BEAM,.\LR2files\Theme\20th tricoro for HD\Play\KeyBeam\*.png,Default,
+#CUSTOMOPTION,FULLCOMBO,960,Default,IIDX RED,HAPPY SKY,DistorteD,GOLD,DJ TROOPERS,EMPRESS,SIRIUS,Resort Anthem,Lincle,tricoro,SPADA,PENDUAL,
+#CUSTOMFILE,KEY FLASH,.\LR2files\Theme\20th tricoro for HD\Play\KeyFlash\*.png,red,
+#CUSTOMFILE,LANE STYLE,.\LR2files\Theme\20th tricoro for HD\Play\Lanes\*.png,Default,
+
+
+#ENDOFHEADER,,,,,,,,
+//INFORMATIONとCUSTOMIZEの終了時に入れてください。
+//必須ではありませんが、起動が少しばかり高速になります。
+
+
+#INCLUDE,LR2files\Theme\20th tricoro for HD\Play\csv\PlayDP_IIDX20.csv
+

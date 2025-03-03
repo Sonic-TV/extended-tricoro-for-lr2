@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="10dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="11dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="1kyu_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="2dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="2kyu_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="3dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="3kyu_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="4dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="4kyu_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="5dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="5kyu_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="6dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="6kyu_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="7dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="7kyu_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="8dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="9dan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="bg_dan">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="dan_ani">
+    <geo __type="u16" __count="6">5 8 13 19 22 25</geo>
+  </afp>
+  <afp name="dan_change">
+    <geo __type="u16" __count="5">5 8 13 18 21</geo>
+  </afp>
+  <afp name="dan_decide">
+    <geo __type="u16" __count="20">5 10 15 20 23 26 31 34 37 40 43 46 49 52 55 58 61 64 65 68</geo>
+  </afp>
+  <afp name="dan_in">
+    <geo __type="u16" __count="7">5 8 13 18 24 30 33</geo>
+  </afp>
+  <afp name="dan_waku_in">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="eff_02">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="syodan_banner">
+    <geo __type="u16" __count="5">5 10 16 19 22</geo>
+  </afp>
+  <afp name="tex_option">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_txt_option_flash">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="dan_decide_flash">
+    <geo __type="u16" __count="3">5 8 9</geo>
+  </afp>
+</afplist>

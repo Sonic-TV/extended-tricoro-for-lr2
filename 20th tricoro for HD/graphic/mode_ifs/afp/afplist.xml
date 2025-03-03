@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="co_dan">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="co_ex">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="co_free">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="co_hazard">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="co_premium_free">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="co_stan14k">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="co_stan7k">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="co_stepup">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="mo_dn">
+    <geo __type="u16" __count="4">5 10 16 19</geo>
+  </afp>
+  <afp name="mo_dn_sel">
+    <geo __type="u16" __count="5">5 10 13 16 22</geo>
+  </afp>
+  <afp name="mo_ex">
+    <geo __type="u16" __count="4">5 10 16 19</geo>
+  </afp>
+  <afp name="mo_fr">
+    <geo __type="u16" __count="4">5 10 16 19</geo>
+  </afp>
+  <afp name="mo_fr_sel">
+    <geo __type="u16" __count="5">5 10 13 16 22</geo>
+  </afp>
+  <afp name="mo_frp">
+    <geo __type="u16" __count="4">5 10 16 19</geo>
+  </afp>
+  <afp name="mo_ha">
+    <geo __type="u16" __count="4">5 10 16 19</geo>
+  </afp>
+  <afp name="mo_ha_sel">
+    <geo __type="u16" __count="5">5 10 13 16 22</geo>
+  </afp>
+  <afp name="mo_pf">
+    <geo __type="u16" __count="4">5 10 16 19</geo>
+  </afp>
+  <afp name="mo_pf_sel">
+    <geo __type="u16" __count="5">5 10 13 16 22</geo>
+  </afp>
+  <afp name="mo_st">
+    <geo __type="u16" __count="4">5 10 16 19</geo>
+  </afp>
+  <afp name="mo_st_sel">
+    <geo __type="u16" __count="5">5 10 13 16 22</geo>
+  </afp>
+  <afp name="mo_su">
+    <geo __type="u16" __count="4">5 10 16 19</geo>
+  </afp>
+  <afp name="mo_su_sel">
+    <geo __type="u16" __count="5">5 10 13 16 22</geo>
+  </afp>
+  <afp name="x_co_bg">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_frp_n">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_dn_n">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_dn_sel1_1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_dn_sel1_2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_ex_n">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_fr_n">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_fr_sel1_1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_fr_sel1_2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_ha_n">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_ha_sel1_1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_ha_sel1_2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_pf_n">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_pf_sel1_1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_pf_sel1_2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_st_n">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_st_sel1_1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_st_sel1_2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_su_n">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_su_sel1_1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mo_su_sel1_2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_pf_line">
+    <geo __type="u16" __count="8">5 10 13 16 5 10 13 16</geo>
+  </afp>
+  <afp name="x_pf_line"/>
+  <afp name="x_shop_original">
+    <geo __type="u16" __count="4">5 8 13 16</geo>
+  </afp>
+  <afp name="x_shop_window">
+    <geo __type="u16" __count="4">5 8 13 16</geo>
+  </afp>
+  <afp name="x_tu_line">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="area_reg">
+    <geo __type="u16" __count="12">5 8 13 18 21 24 29 32 35 38 46 47</geo>
+  </afp>
+  <afp name="coina_usr">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="coinb_usr">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="icon">
+    <geo __type="u16" __count="8">5 10 15 25 30 40 46 49</geo>
+  </afp>
+  <afp name="pf_timesel">
+    <geo __type="u16" __count="12">5 8 13 18 23 28 31 34 37 40 48 49</geo>
+  </afp>
+  <afp name="sel_change">
+    <geo __type="u16" __count="4">5 10 15 20</geo>
+  </afp>
+  <afp name="sel_info">
+    <geo __type="u16" __count="4">5 10 15 20</geo>
+  </afp>
+  <afp name="shop_original">
+    <geo __type="u16" __count="5">5 8 11 16 19</geo>
+  </afp>
+  <afp name="shop_window">
+    <geo __type="u16" __count="5">5 8 11 16 19</geo>
+  </afp>
+  <afp name="tu_select">
+    <geo __type="u16" __count="10">5 8 13 18 21 24 27 30 38 39</geo>
+  </afp>
+</afplist>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="blue_frame">
+    <geo __type="u16" __count="30">5 8 11 14 17 20 25 28 31 34 39 42 45 48 51 54 57 60 63 66 69 72 77 80 85 90 93 98 103 119</geo>
+  </afp>
+  <afp name="dellar_get">
+    <geo __type="u16" __count="3">5 10 60</geo>
+  </afp>
+  <afp name="gate_lock1">
+    <geo __type="u16" __count="7">5 8 11 14 17 20 23</geo>
+  </afp>
+  <afp name="gate_lock2">
+    <geo __type="u16" __count="7">5 8 11 14 17 20 23</geo>
+  </afp>
+  <afp name="gate_lock3">
+    <geo __type="u16" __count="7">5 8 11 14 17 20 23</geo>
+  </afp>
+  <afp name="gate_lock4">
+    <geo __type="u16" __count="7">5 8 11 14 17 20 23</geo>
+  </afp>
+  <afp name="gate_lock5">
+    <geo __type="u16" __count="7">5 8 11 14 17 20 23</geo>
+  </afp>
+  <afp name="gate_lock6">
+    <geo __type="u16" __count="7">5 8 11 14 17 20 23</geo>
+  </afp>
+  <afp name="gate_lock7">
+    <geo __type="u16" __count="7">5 8 11 14 17 20 23</geo>
+  </afp>
+  <afp name="guide">
+    <geo __type="u16" __count="3">5 8 11</geo>
+  </afp>
+  <afp name="hex">
+    <geo __type="u16" __count="49">5 8 11 14 17 20 23 26 29 32 35 38 41 44 47 50 53 56 59 62 65 68 71 74 77 80 83 86 89 92 95 98 101 104 107 110 113 116 119 122 125 128 131 134 137 140 143 146 149</geo>
+  </afp>
+  <afp name="info_window">
+    <geo __type="u16" __count="22">5 8 11 61 64 67 70 73 76 81 87 90 93 96 99 102 105 108 111 114 123 126</geo>
+  </afp>
+  <afp name="info_window2">
+    <geo __type="u16" __count="16">5 8 11 14 17 20 23 26 29 32 33 38 41 47 53 56</geo>
+  </afp>
+  <afp name="introduction1">
+    <geo __type="u16" __count="8">5 8 11 14 20 26 29 35</geo>
+  </afp>
+  <afp name="introduction2">
+    <geo __type="u16" __count="8">5 8 11 14 20 26 29 35</geo>
+  </afp>
+  <afp name="keyget_ef1">
+    <geo __type="u16" __count="8">5 10 13 16 19 27 30 80</geo>
+  </afp>
+  <afp name="keyget_ef2">
+    <geo __type="u16" __count="8">5 10 13 16 19 27 30 80</geo>
+  </afp>
+  <afp name="keyget_ef3">
+    <geo __type="u16" __count="8">5 10 13 16 19 27 30 80</geo>
+  </afp>
+  <afp name="keyget_ef4">
+    <geo __type="u16" __count="8">5 10 13 16 19 27 30 80</geo>
+  </afp>
+  <afp name="keyget_ef5">
+    <geo __type="u16" __count="8">5 10 13 16 19 27 30 80</geo>
+  </afp>
+  <afp name="keyget_ef6">
+    <geo __type="u16" __count="8">5 10 13 16 19 27 30 80</geo>
+  </afp>
+  <afp name="keyget_ef7">
+    <geo __type="u16" __count="8">5 10 13 16 19 27 30 80</geo>
+  </afp>
+  <afp name="lockon">
+    <geo __type="u16" __count="6">5 8 11 14 17 20</geo>
+  </afp>
+  <afp name="noise_bg">
+    <geo __type="u16" __count="17">5 8 11 48 115 118 121 124 127 130 133 136 139 142 145 148 151</geo>
+  </afp>
+  <afp name="panel_sel">
+    <geo __type="u16" __count="4">5 8 11 14</geo>
+  </afp>
+  <afp name="sector_change">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="sys_normal">
+    <geo __type="u16" __count="27">5 8 9 10 13 16 19 22 25 28 31 34 37 40 54 57 60 63 69 75 78 81 84 87 90 93 128</geo>
+  </afp>
+  <afp name="virus_exp1">
+    <geo __type="u16" __count="9">5 10 13 16 19 22 25 28 31</geo>
+  </afp>
+  <afp name="virus_exp2">
+    <geo __type="u16" __count="7">5 10 13 16 19 22 25</geo>
+  </afp>
+  <afp name="w_3way">
+    <geo __type="u16" __count="5">5 10 13 16 24</geo>
+  </afp>
+  <afp name="w_bomb">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="w_laser">
+    <geo __type="u16" __count="7">5 10 16 19 22 25 28</geo>
+  </afp>
+  <afp name="w_shot">
+    <geo __type="u16" __count="6">5 10 13 16 22 25</geo>
+  </afp>
+  <afp name="weapon_get1">
+    <geo __type="u16" __count="10">5 10 13 16 19 22 25 75 78 84</geo>
+  </afp>
+  <afp name="weapon_get2">
+    <geo __type="u16" __count="10">5 10 13 16 19 22 25 75 78 84</geo>
+  </afp>
+  <afp name="weapon_get3">
+    <geo __type="u16" __count="10">5 10 13 16 19 22 25 75 78 84</geo>
+  </afp>
+  <afp name="weapon_sel">
+    <geo __type="u16" __count="4">5 8 11 14</geo>
+  </afp>
+  <afp name="gate_lock0">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="x_beam">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_bottom_txt">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_comp_bg">
+    <geo __type="u16" __count="3">5 10 16</geo>
+  </afp>
+  <afp name="x_get_item">
+    <geo __type="u16" __count="19">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61</geo>
+  </afp>
+  <afp name="x_hex_change">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_info_noise">
+    <geo __type="u16" __count="11">5 10 13 16 19 22 25 28 31 34 37</geo>
+  </afp>
+  <afp name="x_info_ring">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_intro_alert">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_key_comp_hex">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_key_get_light">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mini_txt1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_mini_txt2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_noisebg_mono">
+    <geo __type="u16" __count="11">5 10 13 16 19 22 25 28 31 34 37</geo>
+  </afp>
+  <afp name="x_panel_weapon">
+    <geo __type="u16" __count="8">5 10 13 18 23 26 31 36</geo>
+  </afp>
+  <afp name="x_particle_blue">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_plus_grid">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_plus_white">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_range">
+    <geo __type="u16" __count="3">5 8 11</geo>
+  </afp>
+  <afp name="x_redhex">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_ripple">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_rise_effect">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_sol">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_txt_add">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_wire_hex">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+</afplist>

@@ -1,0 +1,969 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="key_comp_bg">
+      <uvrect __type="4u16">2 2562 2 442</uvrect>
+      <imgrect __type="4u16">0 2564 0 444</imgrect>
+    </image>
+    <image name="info_line2">
+      <uvrect __type="4u16">2 2562 446 450</uvrect>
+      <imgrect __type="4u16">0 2564 444 452</imgrect>
+    </image>
+    <image name="hex_bg">
+      <uvrect __type="4u16">2 2562 454 1894</uvrect>
+      <imgrect __type="4u16">0 2564 452 1896</imgrect>
+    </image>
+    <image name="sol_beam">
+      <uvrect __type="4u16">2566 3198 2 2002</uvrect>
+      <imgrect __type="4u16">2564 3200 0 2004</imgrect>
+    </image>
+    <image name="txt_sector_change">
+      <uvrect __type="4u16">2 1802 1898 1972</uvrect>
+      <imgrect __type="4u16">0 1804 1896 1974</imgrect>
+    </image>
+    <image name="txt_virus_all">
+      <uvrect __type="4u16">2 1746 1976 2024</uvrect>
+      <imgrect __type="4u16">0 1748 1974 2026</imgrect>
+    </image>
+    <image name="key_get_rise_smork">
+      <uvrect __type="4u16">3202 3506 2 1252</uvrect>
+      <imgrect __type="4u16">3200 3508 0 1254</imgrect>
+    </image>
+    <image name="key_get_light_rise">
+      <uvrect __type="4u16">3510 3814 2 1252</uvrect>
+      <imgrect __type="4u16">3508 3816 0 1254</imgrect>
+    </image>
+    <image name="info_line1">
+      <uvrect __type="4u16">1750 2862 2006 2010</uvrect>
+      <imgrect __type="4u16">1748 2864 2004 2012</imgrect>
+    </image>
+    <image name="intro_caution">
+      <uvrect __type="4u16">3202 3958 1256 1412</uvrect>
+      <imgrect __type="4u16">3200 3960 1254 1414</imgrect>
+    </image>
+    <image name="txt_intro_alert">
+      <uvrect __type="4u16">3202 3946 1416 1444</uvrect>
+      <imgrect __type="4u16">3200 3948 1414 1446</imgrect>
+    </image>
+    <image name="panel_gatekey_sel1">
+      <uvrect __type="4u16">3202 3882 1448 1656</uvrect>
+      <imgrect __type="4u16">3200 3884 1446 1658</imgrect>
+    </image>
+    <image name="wave_shot">
+      <uvrect __type="4u16">3202 3810 1660 2044</uvrect>
+      <imgrect __type="4u16">3200 3812 1658 2046</imgrect>
+    </image>
+    <image name="txt_weapon_sel">
+      <uvrect __type="4u16">1806 2354 1898 1922</uvrect>
+      <imgrect __type="4u16">1804 2356 1896 1924</imgrect>
+    </image>
+    <image name="txt_vefx_sector">
+      <uvrect __type="4u16">1806 2354 1926 1978</uvrect>
+      <imgrect __type="4u16">1804 2356 1924 1980</imgrect>
+    </image>
+    <image name="hair_line">
+      <uvrect __type="4u16">3818 3834 2 440</uvrect>
+      <imgrect __type="4u16">3816 3836 0 442</imgrect>
+    </image>
+    <image name="monitor_line_blue">
+      <uvrect __type="4u16">3838 3854 2 434</uvrect>
+      <imgrect __type="4u16">3836 3856 0 436</imgrect>
+    </image>
+    <image name="monitor_line">
+      <uvrect __type="4u16">3858 3874 2 434</uvrect>
+      <imgrect __type="4u16">3856 3876 0 436</imgrect>
+    </image>
+    <image name="txt_intro_minitxt02">
+      <uvrect __type="4u16">2866 3190 2006 2042</uvrect>
+      <imgrect __type="4u16">2864 3192 2004 2044</imgrect>
+    </image>
+    <image name="txt_infomation">
+      <uvrect __type="4u16">1750 2062 1982 2002</uvrect>
+      <imgrect __type="4u16">1748 2064 1980 2004</imgrect>
+    </image>
+    <image name="txt_elimination">
+      <uvrect __type="4u16">3838 4090 438 510</uvrect>
+      <imgrect __type="4u16">3836 4092 436 512</imgrect>
+    </image>
+    <image name="txt_boss_sector_b">
+      <uvrect __type="4u16">3818 4070 514 558</uvrect>
+      <imgrect __type="4u16">3816 4072 512 560</imgrect>
+    </image>
+    <image name="txt_boss_sector_a">
+      <uvrect __type="4u16">3818 4070 562 606</uvrect>
+      <imgrect __type="4u16">3816 4072 560 608</imgrect>
+    </image>
+    <image name="txt_o">
+      <uvrect __type="4u16">3878 3994 2 246</uvrect>
+      <imgrect __type="4u16">3876 3996 0 248</imgrect>
+    </image>
+    <image name="hex_clear">
+      <uvrect __type="4u16">3818 4062 610 822</uvrect>
+      <imgrect __type="4u16">3816 4064 608 824</imgrect>
+    </image>
+    <image name="txt_a">
+      <uvrect __type="4u16">3818 3946 826 1066</uvrect>
+      <imgrect __type="4u16">3816 3948 824 1068</imgrect>
+    </image>
+    <image name="e_icon_music_n">
+      <uvrect __type="4u16">3814 4054 1660 1900</uvrect>
+      <imgrect __type="4u16">3812 4056 1658 1902</imgrect>
+    </image>
+    <image name="txt_virus_unknown">
+      <uvrect __type="4u16">3818 4050 1070 1102</uvrect>
+      <imgrect __type="4u16">3816 4052 1068 1104</imgrect>
+    </image>
+    <image name="txt_laser">
+      <uvrect __type="4u16">3818 4046 1106 1158</uvrect>
+      <imgrect __type="4u16">3816 4048 1104 1160</imgrect>
+    </image>
+    <image name="txt_bomb">
+      <uvrect __type="4u16">3818 4046 1162 1214</uvrect>
+      <imgrect __type="4u16">3816 4048 1160 1216</imgrect>
+    </image>
+    <image name="lockon_sel1">
+      <uvrect __type="4u16">3818 4038 1218 1250</uvrect>
+      <imgrect __type="4u16">3816 4040 1216 1252</imgrect>
+    </image>
+    <image name="txt_code_lv">
+      <uvrect __type="4u16">3878 4094 250 338</uvrect>
+      <imgrect __type="4u16">3876 4096 248 340</imgrect>
+    </image>
+    <image name="gauge_lamp">
+      <uvrect __type="4u16">3878 4094 342 410</uvrect>
+      <imgrect __type="4u16">3876 4096 340 412</imgrect>
+    </image>
+    <image name="txt_gate_key">
+      <uvrect __type="4u16">3886 4094 1448 1476</uvrect>
+      <imgrect __type="4u16">3884 4096 1446 1478</imgrect>
+    </image>
+    <image name="weapon_shutter">
+      <uvrect __type="4u16">3886 4090 1480 1536</uvrect>
+      <imgrect __type="4u16">3884 4092 1478 1538</imgrect>
+    </image>
+    <image name="txt_add_laser">
+      <uvrect __type="4u16">3886 4090 1540 1584</uvrect>
+      <imgrect __type="4u16">3884 4092 1538 1586</imgrect>
+    </image>
+    <image name="txt_add_bomb">
+      <uvrect __type="4u16">3886 4090 1588 1632</uvrect>
+      <imgrect __type="4u16">3884 4092 1586 1634</imgrect>
+    </image>
+    <image name="txt_add_3way">
+      <uvrect __type="4u16">2358 2562 1898 1942</uvrect>
+      <imgrect __type="4u16">2356 2564 1896 1944</imgrect>
+    </image>
+    <image name="cp_gauge">
+      <uvrect __type="4u16">3878 4078 414 426</uvrect>
+      <imgrect __type="4u16">3876 4080 412 428</imgrect>
+    </image>
+    <image name="lockon_sel2">
+      <uvrect __type="4u16">3950 4074 826 1014</uvrect>
+      <imgrect __type="4u16">3948 4076 824 1016</imgrect>
+    </image>
+    <image name="txt_sector_change_mini">
+      <uvrect __type="4u16">3886 4062 1636 1652</uvrect>
+      <imgrect __type="4u16">3884 4064 1634 1654</imgrect>
+    </image>
+    <image name="txt_addition">
+      <uvrect __type="4u16">3814 3990 1904 1928</uvrect>
+      <imgrect __type="4u16">3812 3992 1902 1930</imgrect>
+    </image>
+    <image name="txt_3way">
+      <uvrect __type="4u16">3814 3990 1932 1992</uvrect>
+      <imgrect __type="4u16">3812 3992 1930 1994</imgrect>
+    </image>
+    <image name="txt_intro_minitxt03">
+      <uvrect __type="4u16">2358 2530 1946 1982</uvrect>
+      <imgrect __type="4u16">2356 2532 1944 1984</imgrect>
+    </image>
+    <image name="txt_delete">
+      <uvrect __type="4u16">3814 3978 1996 2024</uvrect>
+      <imgrect __type="4u16">3812 3980 1994 2026</imgrect>
+    </image>
+    <image name="note_n">
+      <uvrect __type="4u16">3998 4090 2 142</uvrect>
+      <imgrect __type="4u16">3996 4092 0 144</imgrect>
+    </image>
+    <image name="note_h">
+      <uvrect __type="4u16">3962 4054 1254 1394</uvrect>
+      <imgrect __type="4u16">3960 4056 1252 1396</imgrect>
+    </image>
+    <image name="note_a">
+      <uvrect __type="4u16">3994 4086 1904 2044</uvrect>
+      <imgrect __type="4u16">3992 4088 1902 2046</imgrect>
+    </image>
+    <image name="code_lv_num9">
+      <uvrect __type="4u16">3998 4070 146 234</uvrect>
+      <imgrect __type="4u16">3996 4072 144 236</imgrect>
+    </image>
+    <image name="txt_cp_max">
+      <uvrect __type="4u16">3950 4034 1018 1046</uvrect>
+      <imgrect __type="4u16">3948 4036 1016 1048</imgrect>
+    </image>
+    <image name="txt_eof">
+      <uvrect __type="4u16">3962 4026 1398 1434</uvrect>
+      <imgrect __type="4u16">3960 4028 1396 1436</imgrect>
+    </image>
+    <image name="txt_gate_4">
+      <uvrect __type="4u16">4050 4094 1106 1166</uvrect>
+      <imgrect __type="4u16">4048 4096 1104 1168</imgrect>
+    </image>
+    <image name="txt_gate_1">
+      <uvrect __type="4u16">4038 4090 1018 1066</uvrect>
+      <imgrect __type="4u16">4036 4092 1016 1068</imgrect>
+    </image>
+    <image name="txt_gate_6">
+      <uvrect __type="4u16">4050 4086 1170 1218</uvrect>
+      <imgrect __type="4u16">4048 4088 1168 1220</imgrect>
+    </image>
+    <image name="txt_x">
+      <uvrect __type="4u16">4030 4070 1398 1434</uvrect>
+      <imgrect __type="4u16">4028 4072 1396 1436</imgrect>
+    </image>
+    <image name="weapon_sel_light">
+      <uvrect __type="4u16">4054 4086 1070 1102</uvrect>
+      <imgrect __type="4u16">4052 4088 1068 1104</imgrect>
+    </image>
+    <image name="cp_num9">
+      <uvrect __type="4u16">4058 4090 1222 1254</uvrect>
+      <imgrect __type="4u16">4056 4092 1220 1256</imgrect>
+    </image>
+    <image name="cp_num8">
+      <uvrect __type="4u16">4058 4090 1258 1290</uvrect>
+      <imgrect __type="4u16">4056 4092 1256 1292</imgrect>
+    </image>
+    <image name="cp_num7">
+      <uvrect __type="4u16">4058 4090 1294 1326</uvrect>
+      <imgrect __type="4u16">4056 4092 1292 1328</imgrect>
+    </image>
+    <image name="cp_num6">
+      <uvrect __type="4u16">4058 4090 1330 1362</uvrect>
+      <imgrect __type="4u16">4056 4092 1328 1364</imgrect>
+    </image>
+    <image name="cp_num5">
+      <uvrect __type="4u16">4058 4090 1656 1688</uvrect>
+      <imgrect __type="4u16">4056 4092 1654 1690</imgrect>
+    </image>
+    <image name="cp_num4">
+      <uvrect __type="4u16">4058 4090 1692 1724</uvrect>
+      <imgrect __type="4u16">4056 4092 1690 1726</imgrect>
+    </image>
+    <image name="cp_num3">
+      <uvrect __type="4u16">4058 4090 1728 1760</uvrect>
+      <imgrect __type="4u16">4056 4092 1726 1762</imgrect>
+    </image>
+    <image name="cp_num2">
+      <uvrect __type="4u16">4058 4090 1764 1796</uvrect>
+      <imgrect __type="4u16">4056 4092 1762 1798</imgrect>
+    </image>
+    <image name="cp_num1">
+      <uvrect __type="4u16">4058 4090 1800 1832</uvrect>
+      <imgrect __type="4u16">4056 4092 1798 1834</imgrect>
+    </image>
+    <image name="cp_num0">
+      <uvrect __type="4u16">4058 4090 1836 1868</uvrect>
+      <imgrect __type="4u16">4056 4092 1834 1870</imgrect>
+    </image>
+    <image name="info_num1">
+      <uvrect __type="4u16">4074 4090 146 174</uvrect>
+      <imgrect __type="4u16">4072 4092 144 176</imgrect>
+    </image>
+    <image name="info_num0">
+      <uvrect __type="4u16">4074 4090 178 206</uvrect>
+      <imgrect __type="4u16">4072 4092 176 208</imgrect>
+    </image>
+    <image name="plus_grid_white">
+      <uvrect __type="4u16">4074 4094 210 230</uvrect>
+      <imgrect __type="4u16">4072 4096 208 232</imgrect>
+    </image>
+    <image name="plus_grid">
+      <uvrect __type="4u16">4074 4094 514 534</uvrect>
+      <imgrect __type="4u16">4072 4096 512 536</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex001" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="panel_weapon_sel2">
+      <uvrect __type="4u16">2 2178 2 198</uvrect>
+      <imgrect __type="4u16">0 2180 0 200</imgrect>
+    </image>
+    <image name="txt_panel_way">
+      <uvrect __type="4u16">2 1802 202 276</uvrect>
+      <imgrect __type="4u16">0 1804 200 278</imgrect>
+    </image>
+    <image name="txt_panel_sel">
+      <uvrect __type="4u16">2 1802 280 354</uvrect>
+      <imgrect __type="4u16">0 1804 278 356</imgrect>
+    </image>
+    <image name="shockwave_l">
+      <uvrect __type="4u16">2 1762 358 1958</uvrect>
+      <imgrect __type="4u16">0 1764 356 1960</imgrect>
+    </image>
+    <image name="txt_congratulations">
+      <uvrect __type="4u16">2182 3930 2 246</uvrect>
+      <imgrect __type="4u16">2180 3932 0 248</imgrect>
+    </image>
+    <image name="panel_weapon_sel_flash">
+      <uvrect __type="4u16">1806 3506 250 550</uvrect>
+      <imgrect __type="4u16">1804 3508 248 552</imgrect>
+    </image>
+    <image name="panel_weapon_sel1_flash">
+      <uvrect __type="4u16">1766 3350 554 738</uvrect>
+      <imgrect __type="4u16">1764 3352 552 740</imgrect>
+    </image>
+    <image name="panel_weapon_sel1">
+      <uvrect __type="4u16">1766 3350 742 926</uvrect>
+      <imgrect __type="4u16">1764 3352 740 928</imgrect>
+    </image>
+    <image name="txt_intro_messe2">
+      <uvrect __type="4u16">1766 3166 930 1210</uvrect>
+      <imgrect __type="4u16">1764 3168 928 1212</imgrect>
+    </image>
+    <image name="txt_intro_messe">
+      <uvrect __type="4u16">1766 3134 1214 1490</uvrect>
+      <imgrect __type="4u16">1764 3136 1212 1492</imgrect>
+    </image>
+    <image name="beam1">
+      <uvrect __type="4u16">3354 3986 554 1774</uvrect>
+      <imgrect __type="4u16">3352 3988 552 1776</imgrect>
+    </image>
+    <image name="txt_sys_normal">
+      <uvrect __type="4u16">1766 2702 1494 1554</uvrect>
+      <imgrect __type="4u16">1764 2704 1492 1556</imgrect>
+    </image>
+    <image name="panel_gatekey_sel2">
+      <uvrect __type="4u16">1766 2682 1558 1670</uvrect>
+      <imgrect __type="4u16">1764 2684 1556 1672</imgrect>
+    </image>
+    <image name="sector_b">
+      <uvrect __type="4u16">3510 3966 250 382</uvrect>
+      <imgrect __type="4u16">3508 3968 248 384</imgrect>
+    </image>
+    <image name="sector_a">
+      <uvrect __type="4u16">3510 3966 386 518</uvrect>
+      <imgrect __type="4u16">3508 3968 384 520</imgrect>
+    </image>
+    <image name="txt_intro_minitxt01">
+      <uvrect __type="4u16">2706 3142 1494 1530</uvrect>
+      <imgrect __type="4u16">2704 3144 1492 1532</imgrect>
+    </image>
+    <image name="code_lv_outline">
+      <uvrect __type="4u16">2706 3102 1534 1930</uvrect>
+      <imgrect __type="4u16">2704 3104 1532 1932</imgrect>
+    </image>
+    <image name="lockon_wire_sel">
+      <uvrect __type="4u16">1766 2142 1674 1998</uvrect>
+      <imgrect __type="4u16">1764 2144 1672 2000</imgrect>
+    </image>
+    <image name="virus_hex_ref">
+      <uvrect __type="4u16">2146 2514 1674 1994</uvrect>
+      <imgrect __type="4u16">2144 2516 1672 1996</imgrect>
+    </image>
+    <image name="txt_vefx_sector_flash">
+      <uvrect __type="4u16">3106 3426 1778 1826</uvrect>
+      <imgrect __type="4u16">3104 3428 1776 1828</imgrect>
+    </image>
+    <image name="txt_lockon">
+      <uvrect __type="4u16">3430 3750 1778 1842</uvrect>
+      <imgrect __type="4u16">3428 3752 1776 1844</imgrect>
+    </image>
+    <image name="info_line4">
+      <uvrect __type="4u16">3754 4074 1778 1838</uvrect>
+      <imgrect __type="4u16">3752 4076 1776 1840</imgrect>
+    </image>
+    <image name="txt_boss_obliterate">
+      <uvrect __type="4u16">1806 2106 202 246</uvrect>
+      <imgrect __type="4u16">1804 2108 200 248</imgrect>
+    </image>
+    <image name="weapon_sel">
+      <uvrect __type="4u16">3106 3394 1830 1974</uvrect>
+      <imgrect __type="4u16">3104 3396 1828 1976</imgrect>
+    </image>
+    <image name="e_icon_music_h">
+      <uvrect __type="4u16">3106 3346 1534 1774</uvrect>
+      <imgrect __type="4u16">3104 3348 1532 1776</imgrect>
+    </image>
+    <image name="code_lv_panel">
+      <uvrect __type="4u16">3754 3978 1842 2042</uvrect>
+      <imgrect __type="4u16">3752 3980 1840 2044</imgrect>
+    </image>
+    <image name="noise_bg_hex_red">
+      <uvrect __type="4u16">3398 3618 1846 2034</uvrect>
+      <imgrect __type="4u16">3396 3620 1844 2036</imgrect>
+    </image>
+    <image name="code_lv_panel_flash">
+      <uvrect __type="4u16">3138 3350 1214 1398</uvrect>
+      <imgrect __type="4u16">3136 3352 1212 1400</imgrect>
+    </image>
+    <image name="icon_deller">
+      <uvrect __type="4u16">2518 2702 1674 1882</uvrect>
+      <imgrect __type="4u16">2516 2704 1672 1884</imgrect>
+    </image>
+    <image name="virus_ref">
+      <uvrect __type="4u16">2518 2702 1886 2046</uvrect>
+      <imgrect __type="4u16">2516 2704 1884 2048</imgrect>
+    </image>
+    <image name="code_lv_red_glow">
+      <uvrect __type="4u16">3170 3342 930 1102</uvrect>
+      <imgrect __type="4u16">3168 3344 928 1104</imgrect>
+    </image>
+    <image name="txt_virus_lv3b">
+      <uvrect __type="4u16">3934 4078 2 146</uvrect>
+      <imgrect __type="4u16">3932 4080 0 148</imgrect>
+    </image>
+    <image name="key_get">
+      <uvrect __type="4u16">3146 3282 1402 1526</uvrect>
+      <imgrect __type="4u16">3144 3284 1400 1528</imgrect>
+    </image>
+    <image name="gate_key_hex_flash">
+      <uvrect __type="4u16">3970 4094 150 262</uvrect>
+      <imgrect __type="4u16">3968 4096 148 264</imgrect>
+    </image>
+    <image name="gate_key_hex">
+      <uvrect __type="4u16">3970 4094 266 378</uvrect>
+      <imgrect __type="4u16">3968 4096 264 380</imgrect>
+    </image>
+    <image name="txt_virus_lvb_3">
+      <uvrect __type="4u16">3970 4082 382 466</uvrect>
+      <imgrect __type="4u16">3968 4084 380 468</imgrect>
+    </image>
+    <image name="txt_virus_lvb_2">
+      <uvrect __type="4u16">3170 3282 1106 1190</uvrect>
+      <imgrect __type="4u16">3168 3284 1104 1192</imgrect>
+    </image>
+    <image name="txt_virus_lvb_1">
+      <uvrect __type="4u16">3982 4094 1842 1926</uvrect>
+      <imgrect __type="4u16">3980 4096 1840 1928</imgrect>
+    </image>
+    <image name="txt_virus_lv_3">
+      <uvrect __type="4u16">3622 3734 1846 1930</uvrect>
+      <imgrect __type="4u16">3620 3736 1844 1932</imgrect>
+    </image>
+    <image name="txt_virus_lv_2">
+      <uvrect __type="4u16">3982 4094 1930 2014</uvrect>
+      <imgrect __type="4u16">3980 4096 1928 2016</imgrect>
+    </image>
+    <image name="txt_virus_lv_1">
+      <uvrect __type="4u16">2706 2818 1934 2018</uvrect>
+      <imgrect __type="4u16">2704 2820 1932 2020</imgrect>
+    </image>
+    <image name="txt_virus_lv">
+      <uvrect __type="4u16">2822 2934 1934 2018</uvrect>
+      <imgrect __type="4u16">2820 2936 1932 2020</imgrect>
+    </image>
+    <image name="key_get_light">
+      <uvrect __type="4u16">2938 3046 1934 2038</uvrect>
+      <imgrect __type="4u16">2936 3048 1932 2040</imgrect>
+    </image>
+    <image name="cp_max_bottle">
+      <uvrect __type="4u16">3990 4070 470 578</uvrect>
+      <imgrect __type="4u16">3988 4072 468 580</imgrect>
+    </image>
+    <image name="txt_icon_n">
+      <uvrect __type="4u16">3990 4090 582 682</uvrect>
+      <imgrect __type="4u16">3988 4092 580 684</imgrect>
+    </image>
+    <image name="txt_icon_hatena">
+      <uvrect __type="4u16">3990 4090 686 786</uvrect>
+      <imgrect __type="4u16">3988 4092 684 788</imgrect>
+    </image>
+    <image name="txt_icon_h">
+      <uvrect __type="4u16">3990 4090 790 890</uvrect>
+      <imgrect __type="4u16">3988 4092 788 892</imgrect>
+    </image>
+    <image name="txt_icon_a">
+      <uvrect __type="4u16">3990 4090 894 994</uvrect>
+      <imgrect __type="4u16">3988 4092 892 996</imgrect>
+    </image>
+    <image name="code_lv_num8">
+      <uvrect __type="4u16">3990 4062 998 1086</uvrect>
+      <imgrect __type="4u16">3988 4064 996 1088</imgrect>
+    </image>
+    <image name="code_lv_num7">
+      <uvrect __type="4u16">3990 4062 1090 1178</uvrect>
+      <imgrect __type="4u16">3988 4064 1088 1180</imgrect>
+    </image>
+    <image name="code_lv_num6">
+      <uvrect __type="4u16">3990 4062 1182 1270</uvrect>
+      <imgrect __type="4u16">3988 4064 1180 1272</imgrect>
+    </image>
+    <image name="code_lv_num5">
+      <uvrect __type="4u16">3990 4062 1274 1362</uvrect>
+      <imgrect __type="4u16">3988 4064 1272 1364</imgrect>
+    </image>
+    <image name="code_lv_num4">
+      <uvrect __type="4u16">3990 4062 1366 1454</uvrect>
+      <imgrect __type="4u16">3988 4064 1364 1456</imgrect>
+    </image>
+    <image name="code_lv_num3">
+      <uvrect __type="4u16">3990 4062 1458 1546</uvrect>
+      <imgrect __type="4u16">3988 4064 1456 1548</imgrect>
+    </image>
+    <image name="code_lv_num2">
+      <uvrect __type="4u16">3990 4062 1550 1638</uvrect>
+      <imgrect __type="4u16">3988 4064 1548 1640</imgrect>
+    </image>
+    <image name="code_lv_num1">
+      <uvrect __type="4u16">3990 4062 1642 1730</uvrect>
+      <imgrect __type="4u16">3988 4064 1640 1732</imgrect>
+    </image>
+    <image name="code_lv_num0">
+      <uvrect __type="4u16">3622 3694 1934 2022</uvrect>
+      <imgrect __type="4u16">3620 3696 1932 2024</imgrect>
+    </image>
+    <image name="cpmax_num9">
+      <uvrect __type="4u16">3286 3334 1106 1186</uvrect>
+      <imgrect __type="4u16">3284 3336 1104 1188</imgrect>
+    </image>
+    <image name="cpmax_num8">
+      <uvrect __type="4u16">3286 3334 1402 1482</uvrect>
+      <imgrect __type="4u16">3284 3336 1400 1484</imgrect>
+    </image>
+    <image name="cpmax_num7">
+      <uvrect __type="4u16">3050 3098 1934 2014</uvrect>
+      <imgrect __type="4u16">3048 3100 1932 2016</imgrect>
+    </image>
+    <image name="cpmax_num6">
+      <uvrect __type="4u16">3698 3746 1934 2014</uvrect>
+      <imgrect __type="4u16">3696 3748 1932 2016</imgrect>
+    </image>
+    <image name="cpmax_num5">
+      <uvrect __type="4u16">2 50 1962 2042</uvrect>
+      <imgrect __type="4u16">0 52 1960 2044</imgrect>
+    </image>
+    <image name="cpmax_num4">
+      <uvrect __type="4u16">54 102 1962 2042</uvrect>
+      <imgrect __type="4u16">52 104 1960 2044</imgrect>
+    </image>
+    <image name="cpmax_num3">
+      <uvrect __type="4u16">106 154 1962 2042</uvrect>
+      <imgrect __type="4u16">104 156 1960 2044</imgrect>
+    </image>
+    <image name="cpmax_num2">
+      <uvrect __type="4u16">158 206 1962 2042</uvrect>
+      <imgrect __type="4u16">156 208 1960 2044</imgrect>
+    </image>
+    <image name="cpmax_num1">
+      <uvrect __type="4u16">210 258 1962 2042</uvrect>
+      <imgrect __type="4u16">208 260 1960 2044</imgrect>
+    </image>
+    <image name="cpmax_num0">
+      <uvrect __type="4u16">262 310 1962 2042</uvrect>
+      <imgrect __type="4u16">260 312 1960 2044</imgrect>
+    </image>
+    <image name="txt_gate_2">
+      <uvrect __type="4u16">314 366 1962 2026</uvrect>
+      <imgrect __type="4u16">312 368 1960 2028</imgrect>
+    </image>
+    <image name="particle_b">
+      <uvrect __type="4u16">370 434 1962 2022</uvrect>
+      <imgrect __type="4u16">368 436 1960 2024</imgrect>
+    </image>
+    <image name="txt_gate_7">
+      <uvrect __type="4u16">438 490 1962 2022</uvrect>
+      <imgrect __type="4u16">436 492 1960 2024</imgrect>
+    </image>
+    <image name="txt_gate_3">
+      <uvrect __type="4u16">494 546 1962 2014</uvrect>
+      <imgrect __type="4u16">492 548 1960 2016</imgrect>
+    </image>
+    <image name="txt_gate_5">
+      <uvrect __type="4u16">550 590 1962 2010</uvrect>
+      <imgrect __type="4u16">548 592 1960 2012</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex002" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 2048</size>
+    <image name="noise_bg_txt_r">
+      <uvrect __type="4u16">2 922 2 2050</uvrect>
+      <imgrect __type="4u16">0 924 0 2052</imgrect>
+    </image>
+    <image name="noise_bg_txt_l">
+      <uvrect __type="4u16">926 1818 2 2050</uvrect>
+      <imgrect __type="4u16">924 1820 0 2052</imgrect>
+    </image>
+    <image name="info_line3">
+      <uvrect __type="4u16">2 1362 2054 3414</uvrect>
+      <imgrect __type="4u16">0 1364 2052 3416</imgrect>
+    </image>
+    <image name="beam2">
+      <uvrect __type="4u16">1366 1998 2054 3254</uvrect>
+      <imgrect __type="4u16">1364 2000 2052 3256</imgrect>
+    </image>
+    <image name="ripple">
+      <uvrect __type="4u16">2 906 3418 3822</uvrect>
+      <imgrect __type="4u16">0 908 3416 3824</imgrect>
+    </image>
+    <image name="noise_bg09x">
+      <uvrect __type="4u16">1366 2006 3258 3978</uvrect>
+      <imgrect __type="4u16">1364 2008 3256 3980</imgrect>
+    </image>
+    <image name="sector_chage_hex">
+      <uvrect __type="4u16">910 1230 3418 3718</uvrect>
+      <imgrect __type="4u16">908 1232 3416 3720</imgrect>
+    </image>
+    <image name="e_icon_music_a">
+      <uvrect __type="4u16">910 1150 3722 3962</uvrect>
+      <imgrect __type="4u16">908 1152 3720 3964</imgrect>
+    </image>
+    <image name="e_icon_laser">
+      <uvrect __type="4u16">2 242 3826 4066</uvrect>
+      <imgrect __type="4u16">0 244 3824 4068</imgrect>
+    </image>
+    <image name="e_icon_key_flash">
+      <uvrect __type="4u16">246 486 3826 4066</uvrect>
+      <imgrect __type="4u16">244 488 3824 4068</imgrect>
+    </image>
+    <image name="e_icon_key07">
+      <uvrect __type="4u16">490 730 3826 4066</uvrect>
+      <imgrect __type="4u16">488 732 3824 4068</imgrect>
+    </image>
+    <image name="gate_lock_wire">
+      <uvrect __type="4u16">1822 2022 2 202</uvrect>
+      <imgrect __type="4u16">1820 2024 0 204</imgrect>
+    </image>
+    <image name="gate_lock_flash">
+      <uvrect __type="4u16">1822 2022 206 406</uvrect>
+      <imgrect __type="4u16">1820 2024 204 408</imgrect>
+    </image>
+    <image name="gate_lock_break7">
+      <uvrect __type="4u16">1822 2022 410 610</uvrect>
+      <imgrect __type="4u16">1820 2024 408 612</imgrect>
+    </image>
+    <image name="gate_lock_break6">
+      <uvrect __type="4u16">1822 2022 614 814</uvrect>
+      <imgrect __type="4u16">1820 2024 612 816</imgrect>
+    </image>
+    <image name="gate_lock_break5">
+      <uvrect __type="4u16">1822 2022 818 1018</uvrect>
+      <imgrect __type="4u16">1820 2024 816 1020</imgrect>
+    </image>
+    <image name="gate_lock_break4">
+      <uvrect __type="4u16">1822 2022 1022 1222</uvrect>
+      <imgrect __type="4u16">1820 2024 1020 1224</imgrect>
+    </image>
+    <image name="gate_lock_break3">
+      <uvrect __type="4u16">1822 2022 1226 1426</uvrect>
+      <imgrect __type="4u16">1820 2024 1224 1428</imgrect>
+    </image>
+    <image name="gate_lock_break2">
+      <uvrect __type="4u16">1822 2022 1430 1630</uvrect>
+      <imgrect __type="4u16">1820 2024 1428 1632</imgrect>
+    </image>
+    <image name="gate_lock_break1">
+      <uvrect __type="4u16">1822 2022 1634 1834</uvrect>
+      <imgrect __type="4u16">1820 2024 1632 1836</imgrect>
+    </image>
+    <image name="gate_lock7">
+      <uvrect __type="4u16">1822 2022 1838 2038</uvrect>
+      <imgrect __type="4u16">1820 2024 1836 2040</imgrect>
+    </image>
+    <image name="gate_lock6">
+      <uvrect __type="4u16">1154 1354 3722 3922</uvrect>
+      <imgrect __type="4u16">1152 1356 3720 3924</imgrect>
+    </image>
+    <image name="code_lv_blue_glow">
+      <uvrect __type="4u16">734 906 3826 3998</uvrect>
+      <imgrect __type="4u16">732 908 3824 4000</imgrect>
+    </image>
+    <image name="txt_virus_lv3">
+      <uvrect __type="4u16">1154 1298 3926 4070</uvrect>
+      <imgrect __type="4u16">1152 1300 3924 4072</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex003" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="red_wave">
+      <uvrect __type="4u16">2 1282 2 1282</uvrect>
+      <imgrect __type="4u16">0 1284 0 1284</imgrect>
+    </image>
+    <image name="attack_glow">
+      <uvrect __type="4u16">2 962 1286 2014</uvrect>
+      <imgrect __type="4u16">0 964 1284 2016</imgrect>
+    </image>
+    <image name="noise_bg09">
+      <uvrect __type="4u16">1286 1926 2 722</uvrect>
+      <imgrect __type="4u16">1284 1928 0 724</imgrect>
+    </image>
+    <image name="noise_bg08x">
+      <uvrect __type="4u16">1286 1926 726 1446</uvrect>
+      <imgrect __type="4u16">1284 1928 724 1448</imgrect>
+    </image>
+    <image name="e_icon_key06">
+      <uvrect __type="4u16">966 1206 1286 1526</uvrect>
+      <imgrect __type="4u16">964 1208 1284 1528</imgrect>
+    </image>
+    <image name="e_icon_key05">
+      <uvrect __type="4u16">1210 1450 1450 1690</uvrect>
+      <imgrect __type="4u16">1208 1452 1448 1692</imgrect>
+    </image>
+    <image name="e_icon_key04">
+      <uvrect __type="4u16">1454 1694 1450 1690</uvrect>
+      <imgrect __type="4u16">1452 1696 1448 1692</imgrect>
+    </image>
+    <image name="e_icon_key03">
+      <uvrect __type="4u16">1698 1938 1450 1690</uvrect>
+      <imgrect __type="4u16">1696 1940 1448 1692</imgrect>
+    </image>
+    <image name="e_icon_key02">
+      <uvrect __type="4u16">966 1206 1530 1770</uvrect>
+      <imgrect __type="4u16">964 1208 1528 1772</imgrect>
+    </image>
+    <image name="e_icon_key01">
+      <uvrect __type="4u16">1210 1450 1694 1934</uvrect>
+      <imgrect __type="4u16">1208 1452 1692 1936</imgrect>
+    </image>
+    <image name="e_icon_cplvup">
+      <uvrect __type="4u16">1454 1694 1694 1934</uvrect>
+      <imgrect __type="4u16">1452 1696 1692 1936</imgrect>
+    </image>
+    <image name="e_icon_bomb">
+      <uvrect __type="4u16">1698 1938 1694 1934</uvrect>
+      <imgrect __type="4u16">1696 1940 1692 1936</imgrect>
+    </image>
+    <image name="e_icon_bmusic_n">
+      <uvrect __type="4u16">966 1206 1774 2014</uvrect>
+      <imgrect __type="4u16">964 1208 1772 2016</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex004" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="blue_wave">
+      <uvrect __type="4u16">2 1282 2 1282</uvrect>
+      <imgrect __type="4u16">0 1284 0 1284</imgrect>
+    </image>
+    <image name="noise_bg08">
+      <uvrect __type="4u16">1286 1926 2 722</uvrect>
+      <imgrect __type="4u16">1284 1928 0 724</imgrect>
+    </image>
+    <image name="noise_bg07x">
+      <uvrect __type="4u16">1286 1926 726 1446</uvrect>
+      <imgrect __type="4u16">1284 1928 724 1448</imgrect>
+    </image>
+    <image name="noise_bg07">
+      <uvrect __type="4u16">2 642 1286 2006</uvrect>
+      <imgrect __type="4u16">0 644 1284 2008</imgrect>
+    </image>
+    <image name="warp_hex_wave">
+      <uvrect __type="4u16">646 1246 1286 1886</uvrect>
+      <imgrect __type="4u16">644 1248 1284 1888</imgrect>
+    </image>
+    <image name="e_icon_bmusic_h">
+      <uvrect __type="4u16">1250 1490 1450 1690</uvrect>
+      <imgrect __type="4u16">1248 1492 1448 1692</imgrect>
+    </image>
+    <image name="e_icon_bmusic_a">
+      <uvrect __type="4u16">1494 1734 1450 1690</uvrect>
+      <imgrect __type="4u16">1492 1736 1448 1692</imgrect>
+    </image>
+    <image name="e_icon_3way">
+      <uvrect __type="4u16">1738 1978 1450 1690</uvrect>
+      <imgrect __type="4u16">1736 1980 1448 1692</imgrect>
+    </image>
+    <image name="icon_weapon_hex">
+      <uvrect __type="4u16">1250 1482 1694 1910</uvrect>
+      <imgrect __type="4u16">1248 1484 1692 1912</imgrect>
+    </image>
+    <image name="icon_notes_n">
+      <uvrect __type="4u16">1486 1718 1694 1910</uvrect>
+      <imgrect __type="4u16">1484 1720 1692 1912</imgrect>
+    </image>
+    <image name="icon_notes_h">
+      <uvrect __type="4u16">1722 1954 1694 1910</uvrect>
+      <imgrect __type="4u16">1720 1956 1692 1912</imgrect>
+    </image>
+    <image name="txt_virus_lv2b">
+      <uvrect __type="4u16">646 790 1890 2034</uvrect>
+      <imgrect __type="4u16">644 792 1888 2036</imgrect>
+    </image>
+    <image name="txt_virus_lv2">
+      <uvrect __type="4u16">794 938 1890 2034</uvrect>
+      <imgrect __type="4u16">792 940 1888 2036</imgrect>
+    </image>
+    <image name="txt_virus_lv1b">
+      <uvrect __type="4u16">942 1086 1890 2034</uvrect>
+      <imgrect __type="4u16">940 1088 1888 2036</imgrect>
+    </image>
+    <image name="txt_virus_lv1">
+      <uvrect __type="4u16">1090 1234 1890 2034</uvrect>
+      <imgrect __type="4u16">1088 1236 1888 2036</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex005" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="exp_ring2">
+      <uvrect __type="4u16">2 802 2 802</uvrect>
+      <imgrect __type="4u16">0 804 0 804</imgrect>
+    </image>
+    <image name="noise_bg06x">
+      <uvrect __type="4u16">806 1446 2 722</uvrect>
+      <imgrect __type="4u16">804 1448 0 724</imgrect>
+    </image>
+    <image name="noise_bg06">
+      <uvrect __type="4u16">806 1446 726 1446</uvrect>
+      <imgrect __type="4u16">804 1448 724 1448</imgrect>
+    </image>
+    <image name="noise_bg05x">
+      <uvrect __type="4u16">2 642 806 1526</uvrect>
+      <imgrect __type="4u16">0 644 804 1528</imgrect>
+    </image>
+    <image name="icon_notes_a">
+      <uvrect __type="4u16">1450 1682 2 218</uvrect>
+      <imgrect __type="4u16">1448 1684 0 220</imgrect>
+    </image>
+    <image name="icon_hatena_hex">
+      <uvrect __type="4u16">1686 1918 2 218</uvrect>
+      <imgrect __type="4u16">1684 1920 0 220</imgrect>
+    </image>
+    <image name="gate_lock5">
+      <uvrect __type="4u16">1450 1650 222 422</uvrect>
+      <imgrect __type="4u16">1448 1652 220 424</imgrect>
+    </image>
+    <image name="gate_lock4">
+      <uvrect __type="4u16">1654 1854 222 422</uvrect>
+      <imgrect __type="4u16">1652 1856 220 424</imgrect>
+    </image>
+    <image name="gate_lock3">
+      <uvrect __type="4u16">1450 1650 426 626</uvrect>
+      <imgrect __type="4u16">1448 1652 424 628</imgrect>
+    </image>
+    <image name="gate_lock2">
+      <uvrect __type="4u16">1654 1854 426 626</uvrect>
+      <imgrect __type="4u16">1652 1856 424 628</imgrect>
+    </image>
+    <image name="gate_lock1">
+      <uvrect __type="4u16">1450 1650 630 830</uvrect>
+      <imgrect __type="4u16">1448 1652 628 832</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex006" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="noise_bg05">
+      <uvrect __type="4u16">2 642 2 722</uvrect>
+      <imgrect __type="4u16">0 644 0 724</imgrect>
+    </image>
+    <image name="noise_bg04x">
+      <uvrect __type="4u16">646 1286 2 722</uvrect>
+      <imgrect __type="4u16">644 1288 0 724</imgrect>
+    </image>
+    <image name="noise_bg04">
+      <uvrect __type="4u16">1290 1930 2 722</uvrect>
+      <imgrect __type="4u16">1288 1932 0 724</imgrect>
+    </image>
+    <image name="noise_bg03x">
+      <uvrect __type="4u16">2 642 726 1446</uvrect>
+      <imgrect __type="4u16">0 644 724 1448</imgrect>
+    </image>
+    <image name="noise_bg03">
+      <uvrect __type="4u16">646 1286 726 1446</uvrect>
+      <imgrect __type="4u16">644 1288 724 1448</imgrect>
+    </image>
+    <image name="noise_bg02x">
+      <uvrect __type="4u16">1290 1930 726 1446</uvrect>
+      <imgrect __type="4u16">1288 1932 724 1448</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex007" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="noise_bg02">
+      <uvrect __type="4u16">2 642 2 722</uvrect>
+      <imgrect __type="4u16">0 644 0 724</imgrect>
+    </image>
+    <image name="noise_bg01x">
+      <uvrect __type="4u16">646 1286 2 722</uvrect>
+      <imgrect __type="4u16">644 1288 0 724</imgrect>
+    </image>
+    <image name="noise_bg01">
+      <uvrect __type="4u16">1290 1930 2 722</uvrect>
+      <imgrect __type="4u16">1288 1932 0 724</imgrect>
+    </image>
+    <image name="noise_bg00x">
+      <uvrect __type="4u16">2 642 726 1446</uvrect>
+      <imgrect __type="4u16">0 644 724 1448</imgrect>
+    </image>
+    <image name="noise_bg00">
+      <uvrect __type="4u16">646 1286 726 1446</uvrect>
+      <imgrect __type="4u16">644 1288 724 1448</imgrect>
+    </image>
+    <image name="shockwave_s">
+      <uvrect __type="4u16">1290 1962 726 1394</uvrect>
+      <imgrect __type="4u16">1288 1964 724 1396</imgrect>
+    </image>
+    <image name="warp_hex_line">
+      <uvrect __type="4u16">1290 1890 1398 1998</uvrect>
+      <imgrect __type="4u16">1288 1892 1396 2000</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex008" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="warp_hex">
+      <uvrect __type="4u16">2 602 2 602</uvrect>
+      <imgrect __type="4u16">0 604 0 604</imgrect>
+    </image>
+    <image name="virus_hex_stress">
+      <uvrect __type="4u16">606 1206 2 602</uvrect>
+      <imgrect __type="4u16">604 1208 0 604</imgrect>
+    </image>
+    <image name="virus_hex_sel_range">
+      <uvrect __type="4u16">1210 1810 2 602</uvrect>
+      <imgrect __type="4u16">1208 1812 0 604</imgrect>
+    </image>
+    <image name="virus_hex_sel_line">
+      <uvrect __type="4u16">2 602 606 1206</uvrect>
+      <imgrect __type="4u16">0 604 604 1208</imgrect>
+    </image>
+    <image name="virus_hex_sel">
+      <uvrect __type="4u16">606 1206 606 1206</uvrect>
+      <imgrect __type="4u16">604 1208 604 1208</imgrect>
+    </image>
+    <image name="virus_hex_lv3">
+      <uvrect __type="4u16">1210 1810 606 1206</uvrect>
+      <imgrect __type="4u16">1208 1812 604 1208</imgrect>
+    </image>
+    <image name="virus_hex_lv2">
+      <uvrect __type="4u16">2 602 1210 1810</uvrect>
+      <imgrect __type="4u16">0 604 1208 1812</imgrect>
+    </image>
+    <image name="virus_hex_lv1">
+      <uvrect __type="4u16">606 1206 1210 1810</uvrect>
+      <imgrect __type="4u16">604 1208 1208 1812</imgrect>
+    </image>
+    <image name="virus_hex_inline">
+      <uvrect __type="4u16">1210 1810 1210 1810</uvrect>
+      <imgrect __type="4u16">1208 1812 1208 1812</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex009" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="virus_hex_clear">
+      <uvrect __type="4u16">2 602 2 602</uvrect>
+      <imgrect __type="4u16">0 604 0 604</imgrect>
+    </image>
+    <image name="virus_hex_boss_line">
+      <uvrect __type="4u16">606 1206 2 602</uvrect>
+      <imgrect __type="4u16">604 1208 0 604</imgrect>
+    </image>
+    <image name="virus_hex_boss2">
+      <uvrect __type="4u16">1210 1810 2 602</uvrect>
+      <imgrect __type="4u16">1208 1812 0 604</imgrect>
+    </image>
+    <image name="virus_hex_boss">
+      <uvrect __type="4u16">2 602 606 1206</uvrect>
+      <imgrect __type="4u16">0 604 604 1208</imgrect>
+    </image>
+    <image name="virus_boss_obliterate">
+      <uvrect __type="4u16">606 1206 606 1206</uvrect>
+      <imgrect __type="4u16">604 1208 604 1208</imgrect>
+    </image>
+    <image name="hex_comp">
+      <uvrect __type="4u16">1210 1810 606 1206</uvrect>
+      <imgrect __type="4u16">1208 1812 604 1208</imgrect>
+    </image>
+    <image name="exp_ring1">
+      <uvrect __type="4u16">2 602 1210 1810</uvrect>
+      <imgrect __type="4u16">0 604 1208 1812</imgrect>
+    </image>
+  </texture>
+</texturelist>

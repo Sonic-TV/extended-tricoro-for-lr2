@@ -1,0 +1,961 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="bg_zukei">
+      <uvrect __type="4u16">2 2562 2 1442</uvrect>
+      <imgrect __type="4u16">0 2564 0 1444</imgrect>
+    </image>
+    <image name="bg_red01">
+      <uvrect __type="4u16">2 2562 1446 1824</uvrect>
+      <imgrect __type="4u16">0 2564 1444 1826</imgrect>
+    </image>
+    <image name="bg_gate05">
+      <uvrect __type="4u16">2566 4068 2 1458</uvrect>
+      <imgrect __type="4u16">2564 4070 0 1460</imgrect>
+    </image>
+    <image name="bg_grd1">
+      <uvrect __type="4u16">4072 4092 2 1442</uvrect>
+      <imgrect __type="4u16">4070 4094 0 1444</imgrect>
+    </image>
+    <image name="red_info_txc03">
+      <uvrect __type="4u16">2566 3726 1462 1542</uvrect>
+      <imgrect __type="4u16">2564 3728 1460 1544</imgrect>
+    </image>
+    <image name="red_info_txc02">
+      <uvrect __type="4u16">2566 3726 1546 1626</uvrect>
+      <imgrect __type="4u16">2564 3728 1544 1628</imgrect>
+    </image>
+    <image name="red_info_txc01">
+      <uvrect __type="4u16">2566 3726 1630 1710</uvrect>
+      <imgrect __type="4u16">2564 3728 1628 1712</imgrect>
+    </image>
+    <image name="red_info_tx39">
+      <uvrect __type="4u16">2566 3726 1714 1774</uvrect>
+      <imgrect __type="4u16">2564 3728 1712 1776</imgrect>
+    </image>
+    <image name="red_info_tx38">
+      <uvrect __type="4u16">2566 3726 1778 1838</uvrect>
+      <imgrect __type="4u16">2564 3728 1776 1840</imgrect>
+    </image>
+    <image name="red_info_tx37">
+      <uvrect __type="4u16">2 1162 1828 1888</uvrect>
+      <imgrect __type="4u16">0 1164 1826 1890</imgrect>
+    </image>
+    <image name="red_info_tx36">
+      <uvrect __type="4u16">1166 2326 1828 1888</uvrect>
+      <imgrect __type="4u16">1164 2328 1826 1890</imgrect>
+    </image>
+    <image name="red_info_tx35">
+      <uvrect __type="4u16">2330 3490 1842 1902</uvrect>
+      <imgrect __type="4u16">2328 3492 1840 1904</imgrect>
+    </image>
+    <image name="red_info_tx34">
+      <uvrect __type="4u16">2 1162 1892 1952</uvrect>
+      <imgrect __type="4u16">0 1164 1890 1954</imgrect>
+    </image>
+    <image name="red_info_tx33">
+      <uvrect __type="4u16">1166 2326 1892 1952</uvrect>
+      <imgrect __type="4u16">1164 2328 1890 1954</imgrect>
+    </image>
+    <image name="red_info_tx32">
+      <uvrect __type="4u16">2330 3490 1906 1966</uvrect>
+      <imgrect __type="4u16">2328 3492 1904 1968</imgrect>
+    </image>
+    <image name="red_info_tx31">
+      <uvrect __type="4u16">2 1162 1956 2016</uvrect>
+      <imgrect __type="4u16">0 1164 1954 2018</imgrect>
+    </image>
+    <image name="red_info_tx30">
+      <uvrect __type="4u16">1166 2326 1956 2016</uvrect>
+      <imgrect __type="4u16">1164 2328 1954 2018</imgrect>
+    </image>
+    <image name="red_info_tx29">
+      <uvrect __type="4u16">2330 3490 1970 2030</uvrect>
+      <imgrect __type="4u16">2328 3492 1968 2032</imgrect>
+    </image>
+    <image name="kage">
+      <uvrect __type="4u16">3494 3970 1842 1914</uvrect>
+      <imgrect __type="4u16">3492 3972 1840 1916</imgrect>
+    </image>
+    <image name="bg_kage">
+      <uvrect __type="4u16">3494 3970 1918 1990</uvrect>
+      <imgrect __type="4u16">3492 3972 1916 1992</imgrect>
+    </image>
+    <image name="qp_hakase_face_neutral">
+      <uvrect __type="4u16">3730 4026 1462 1774</uvrect>
+      <imgrect __type="4u16">3728 4028 1460 1776</imgrect>
+    </image>
+    <image name="action_01">
+      <uvrect __type="4u16">3974 4094 1778 2018</uvrect>
+      <imgrect __type="4u16">3972 4096 1776 2020</imgrect>
+    </image>
+    <image name="qp_hakase_face_namida">
+      <uvrect __type="4u16">4030 4086 1462 1518</uvrect>
+      <imgrect __type="4u16">4028 4088 1460 1520</imgrect>
+    </image>
+    <image name="qp_hakase_face_kirakira">
+      <uvrect __type="4u16">4030 4086 1522 1578</uvrect>
+      <imgrect __type="4u16">4028 4088 1520 1580</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex001" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="bg_enkei">
+      <uvrect __type="4u16">2 2562 2 502</uvrect>
+      <imgrect __type="4u16">0 2564 0 504</imgrect>
+    </image>
+    <image name="bg_gate04">
+      <uvrect __type="4u16">2 1504 506 1962</uvrect>
+      <imgrect __type="4u16">0 1506 504 1964</imgrect>
+    </image>
+    <image name="bg_gate03">
+      <uvrect __type="4u16">2566 4068 2 1458</uvrect>
+      <imgrect __type="4u16">2564 4070 0 1460</imgrect>
+    </image>
+    <image name="red_info_tx28">
+      <uvrect __type="4u16">1508 2668 1462 1522</uvrect>
+      <imgrect __type="4u16">1506 2670 1460 1524</imgrect>
+    </image>
+    <image name="red_info_tx27">
+      <uvrect __type="4u16">2672 3832 1462 1522</uvrect>
+      <imgrect __type="4u16">2670 3834 1460 1524</imgrect>
+    </image>
+    <image name="red_info_tx26">
+      <uvrect __type="4u16">1508 2668 1526 1586</uvrect>
+      <imgrect __type="4u16">1506 2670 1524 1588</imgrect>
+    </image>
+    <image name="red_info_tx25">
+      <uvrect __type="4u16">2672 3832 1526 1586</uvrect>
+      <imgrect __type="4u16">2670 3834 1524 1588</imgrect>
+    </image>
+    <image name="red_info_tx24">
+      <uvrect __type="4u16">1508 2668 1590 1650</uvrect>
+      <imgrect __type="4u16">1506 2670 1588 1652</imgrect>
+    </image>
+    <image name="red_info_tx23">
+      <uvrect __type="4u16">2672 3832 1590 1650</uvrect>
+      <imgrect __type="4u16">2670 3834 1588 1652</imgrect>
+    </image>
+    <image name="red_info_tx22">
+      <uvrect __type="4u16">1508 2668 1654 1714</uvrect>
+      <imgrect __type="4u16">1506 2670 1652 1716</imgrect>
+    </image>
+    <image name="red_info_tx21">
+      <uvrect __type="4u16">2672 3832 1654 1714</uvrect>
+      <imgrect __type="4u16">2670 3834 1652 1716</imgrect>
+    </image>
+    <image name="red_info_tx20">
+      <uvrect __type="4u16">1508 2668 1718 1778</uvrect>
+      <imgrect __type="4u16">1506 2670 1716 1780</imgrect>
+    </image>
+    <image name="red_info_tx19">
+      <uvrect __type="4u16">2672 3832 1718 1778</uvrect>
+      <imgrect __type="4u16">2670 3834 1716 1780</imgrect>
+    </image>
+    <image name="red_info_tx18">
+      <uvrect __type="4u16">1508 2668 1782 1842</uvrect>
+      <imgrect __type="4u16">1506 2670 1780 1844</imgrect>
+    </image>
+    <image name="red_info_tx17">
+      <uvrect __type="4u16">2672 3832 1782 1842</uvrect>
+      <imgrect __type="4u16">2670 3834 1780 1844</imgrect>
+    </image>
+    <image name="red_info_tx16">
+      <uvrect __type="4u16">1508 2668 1846 1906</uvrect>
+      <imgrect __type="4u16">1506 2670 1844 1908</imgrect>
+    </image>
+    <image name="red_info_tx15">
+      <uvrect __type="4u16">2672 3832 1846 1906</uvrect>
+      <imgrect __type="4u16">2670 3834 1844 1908</imgrect>
+    </image>
+    <image name="red_info_tx14">
+      <uvrect __type="4u16">1508 2668 1910 1970</uvrect>
+      <imgrect __type="4u16">1506 2670 1908 1972</imgrect>
+    </image>
+    <image name="red_info_tx13">
+      <uvrect __type="4u16">2672 3832 1910 1970</uvrect>
+      <imgrect __type="4u16">2670 3834 1908 1972</imgrect>
+    </image>
+    <image name="red_info_tx12">
+      <uvrect __type="4u16">2 1162 1966 2026</uvrect>
+      <imgrect __type="4u16">0 1164 1964 2028</imgrect>
+    </image>
+    <image name="red_info_tx11">
+      <uvrect __type="4u16">1166 2326 1974 2034</uvrect>
+      <imgrect __type="4u16">1164 2328 1972 2036</imgrect>
+    </image>
+    <image name="red_info_tx10">
+      <uvrect __type="4u16">2330 3490 1974 2034</uvrect>
+      <imgrect __type="4u16">2328 3492 1972 2036</imgrect>
+    </image>
+    <image name="balloon_04">
+      <uvrect __type="4u16">1508 2444 506 882</uvrect>
+      <imgrect __type="4u16">1506 2446 504 884</imgrect>
+    </image>
+    <image name="balloon_01">
+      <uvrect __type="4u16">1508 2444 886 1262</uvrect>
+      <imgrect __type="4u16">1506 2446 884 1264</imgrect>
+    </image>
+    <image name="qp_ripika_leg_r_upper">
+      <uvrect __type="4u16">3836 4036 1462 1722</uvrect>
+      <imgrect __type="4u16">3834 4038 1460 1724</imgrect>
+    </image>
+    <image name="qp_ripika_leg_r_lower">
+      <uvrect __type="4u16">3836 4036 1726 1986</uvrect>
+      <imgrect __type="4u16">3834 4038 1724 1988</imgrect>
+    </image>
+    <image name="action_06">
+      <uvrect __type="4u16">2448 2532 506 742</uvrect>
+      <imgrect __type="4u16">2446 2534 504 744</imgrect>
+    </image>
+    <image name="action_05b">
+      <uvrect __type="4u16">1508 1636 1266 1426</uvrect>
+      <imgrect __type="4u16">1506 1638 1264 1428</imgrect>
+    </image>
+    <image name="action_05c">
+      <uvrect __type="4u16">1640 1784 1266 1386</uvrect>
+      <imgrect __type="4u16">1638 1786 1264 1388</imgrect>
+    </image>
+    <image name="action_05a">
+      <uvrect __type="4u16">2448 2532 746 878</uvrect>
+      <imgrect __type="4u16">2446 2534 744 880</imgrect>
+    </image>
+    <image name="action_04b">
+      <uvrect __type="4u16">1788 1908 1266 1386</uvrect>
+      <imgrect __type="4u16">1786 1910 1264 1388</imgrect>
+    </image>
+    <image name="action_04a">
+      <uvrect __type="4u16">1912 2032 1266 1386</uvrect>
+      <imgrect __type="4u16">1910 2034 1264 1388</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex002" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="bg_gate02">
+      <uvrect __type="4u16">2 1504 2 1458</uvrect>
+      <imgrect __type="4u16">0 1506 0 1460</imgrect>
+    </image>
+    <image name="red_info_tx09">
+      <uvrect __type="4u16">2 1162 1462 1522</uvrect>
+      <imgrect __type="4u16">0 1164 1460 1524</imgrect>
+    </image>
+    <image name="red_info_tx08">
+      <uvrect __type="4u16">2 1162 1526 1586</uvrect>
+      <imgrect __type="4u16">0 1164 1524 1588</imgrect>
+    </image>
+    <image name="red_info_tx07">
+      <uvrect __type="4u16">2 1162 1590 1650</uvrect>
+      <imgrect __type="4u16">0 1164 1588 1652</imgrect>
+    </image>
+    <image name="red_info_tx06">
+      <uvrect __type="4u16">2 1162 1654 1714</uvrect>
+      <imgrect __type="4u16">0 1164 1652 1716</imgrect>
+    </image>
+    <image name="red_info_tx05">
+      <uvrect __type="4u16">2 1162 1718 1778</uvrect>
+      <imgrect __type="4u16">0 1164 1716 1780</imgrect>
+    </image>
+    <image name="red_info_tx04">
+      <uvrect __type="4u16">2 1162 1782 1842</uvrect>
+      <imgrect __type="4u16">0 1164 1780 1844</imgrect>
+    </image>
+    <image name="red_info_tx03">
+      <uvrect __type="4u16">2 1162 1846 1906</uvrect>
+      <imgrect __type="4u16">0 1164 1844 1908</imgrect>
+    </image>
+    <image name="red_info_tx02">
+      <uvrect __type="4u16">2 1162 1910 1970</uvrect>
+      <imgrect __type="4u16">0 1164 1908 1972</imgrect>
+    </image>
+    <image name="red_info_tx01">
+      <uvrect __type="4u16">2 1162 1974 2034</uvrect>
+      <imgrect __type="4u16">0 1164 1972 2036</imgrect>
+    </image>
+    <image name="boss_r">
+      <uvrect __type="4u16">1508 1968 2 962</uvrect>
+      <imgrect __type="4u16">1506 1970 0 964</imgrect>
+    </image>
+    <image name="boss_l">
+      <uvrect __type="4u16">1508 1968 966 1926</uvrect>
+      <imgrect __type="4u16">1506 1970 964 1928</imgrect>
+    </image>
+    <image name="qp_ripika_arm_r_upper">
+      <uvrect __type="4u16">1166 1426 1462 1846</uvrect>
+      <imgrect __type="4u16">1164 1428 1460 1848</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex003" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="bg_gate01">
+      <uvrect __type="4u16">2 1504 2 1458</uvrect>
+      <imgrect __type="4u16">0 1506 0 1460</imgrect>
+    </image>
+    <image name="balloon_02">
+      <uvrect __type="4u16">2 1146 1462 2018</uvrect>
+      <imgrect __type="4u16">0 1148 1460 2020</imgrect>
+    </image>
+    <image name="red_story04_25">
+      <uvrect __type="4u16">1150 2044 1462 1748</uvrect>
+      <imgrect __type="4u16">1148 2046 1460 1750</imgrect>
+    </image>
+    <image name="red_story04_24">
+      <uvrect __type="4u16">1150 2044 1752 2038</uvrect>
+      <imgrect __type="4u16">1148 2046 1750 2040</imgrect>
+    </image>
+    <image name="qp_ripika_hand_r">
+      <uvrect __type="4u16">1508 1928 2 702</uvrect>
+      <imgrect __type="4u16">1506 1930 0 704</imgrect>
+    </image>
+    <image name="qp_ripika_hair_f">
+      <uvrect __type="4u16">1508 2028 706 1406</uvrect>
+      <imgrect __type="4u16">1506 2030 704 1408</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex004" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="sel_gate2on">
+      <uvrect __type="4u16">2 1394 2 1450</uvrect>
+      <imgrect __type="4u16">0 1396 0 1452</imgrect>
+    </image>
+    <image name="balloon_03">
+      <uvrect __type="4u16">2 936 1454 1776</uvrect>
+      <imgrect __type="4u16">0 938 1452 1778</imgrect>
+    </image>
+    <image name="red_story04_23">
+      <uvrect __type="4u16">940 1834 1454 1740</uvrect>
+      <imgrect __type="4u16">938 1836 1452 1742</imgrect>
+    </image>
+    <image name="red_story04_22">
+      <uvrect __type="4u16">940 1834 1744 2030</uvrect>
+      <imgrect __type="4u16">938 1836 1742 2032</imgrect>
+    </image>
+    <image name="qp_ripika_body_f">
+      <uvrect __type="4u16">1398 1914 2 702</uvrect>
+      <imgrect __type="4u16">1396 1916 0 704</imgrect>
+    </image>
+    <image name="qp_ripika_body_b">
+      <uvrect __type="4u16">1398 1914 706 1406</uvrect>
+      <imgrect __type="4u16">1396 1916 704 1408</imgrect>
+    </image>
+    <image name="qp_ripika_leg_l_upper">
+      <uvrect __type="4u16">1838 2038 1410 1670</uvrect>
+      <imgrect __type="4u16">1836 2040 1408 1672</imgrect>
+    </image>
+    <image name="qp_ripika_leg_l_lower">
+      <uvrect __type="4u16">1838 2038 1674 1934</uvrect>
+      <imgrect __type="4u16">1836 2040 1672 1936</imgrect>
+    </image>
+    <image name="qp_hakase_leg_r_upper">
+      <uvrect __type="4u16">2 202 1780 2040</uvrect>
+      <imgrect __type="4u16">0 204 1778 2042</imgrect>
+    </image>
+    <image name="qp_hakase_leg_r_lower">
+      <uvrect __type="4u16">206 406 1780 2040</uvrect>
+      <imgrect __type="4u16">204 408 1778 2042</imgrect>
+    </image>
+    <image name="qp_hakase_leg_l_upper">
+      <uvrect __type="4u16">410 610 1780 2040</uvrect>
+      <imgrect __type="4u16">408 612 1778 2042</imgrect>
+    </image>
+    <image name="qp_hakase_leg_l_lower">
+      <uvrect __type="4u16">614 814 1780 2040</uvrect>
+      <imgrect __type="4u16">612 816 1778 2042</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex005" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="information_window">
+      <uvrect __type="4u16">2 1340 2 626</uvrect>
+      <imgrect __type="4u16">0 1342 0 628</imgrect>
+    </image>
+    <image name="boss_01">
+      <uvrect __type="4u16">2 902 630 1730</uvrect>
+      <imgrect __type="4u16">0 904 628 1732</imgrect>
+    </image>
+    <image name="red_story04_21">
+      <uvrect __type="4u16">906 1800 630 916</uvrect>
+      <imgrect __type="4u16">904 1802 628 918</imgrect>
+    </image>
+    <image name="red_story04_20">
+      <uvrect __type="4u16">906 1800 920 1206</uvrect>
+      <imgrect __type="4u16">904 1802 918 1208</imgrect>
+    </image>
+    <image name="red_story04_19">
+      <uvrect __type="4u16">906 1800 1210 1496</uvrect>
+      <imgrect __type="4u16">904 1802 1208 1498</imgrect>
+    </image>
+    <image name="red_story04_18">
+      <uvrect __type="4u16">906 1800 1500 1786</uvrect>
+      <imgrect __type="4u16">904 1802 1498 1788</imgrect>
+    </image>
+    <image name="red_story04_17">
+      <uvrect __type="4u16">2 896 1734 2020</uvrect>
+      <imgrect __type="4u16">0 898 1732 2022</imgrect>
+    </image>
+    <image name="bg_bell02">
+      <uvrect __type="4u16">1344 1730 2 592</uvrect>
+      <imgrect __type="4u16">1342 1732 0 594</imgrect>
+    </image>
+    <image name="qp_ripika_arm_r_lower">
+      <uvrect __type="4u16">1734 1994 2 386</uvrect>
+      <imgrect __type="4u16">1732 1996 0 388</imgrect>
+    </image>
+    <image name="bg_zukei03">
+      <uvrect __type="4u16">1804 2020 390 634</uvrect>
+      <imgrect __type="4u16">1802 2022 388 636</imgrect>
+    </image>
+    <image name="bg_zukei02">
+      <uvrect __type="4u16">1804 2020 638 882</uvrect>
+      <imgrect __type="4u16">1802 2022 636 884</imgrect>
+    </image>
+    <image name="bg_zukei01">
+      <uvrect __type="4u16">1804 2020 886 1130</uvrect>
+      <imgrect __type="4u16">1802 2022 884 1132</imgrect>
+    </image>
+    <image name="action_02">
+      <uvrect __type="4u16">1804 1984 1134 1374</uvrect>
+      <imgrect __type="4u16">1802 1986 1132 1376</imgrect>
+    </image>
+    <image name="inazuma_light">
+      <uvrect __type="4u16">1804 2042 1378 1616</uvrect>
+      <imgrect __type="4u16">1802 2044 1376 1618</imgrect>
+    </image>
+    <image name="action_07">
+      <uvrect __type="4u16">1804 2034 1620 1834</uvrect>
+      <imgrect __type="4u16">1802 2036 1618 1836</imgrect>
+    </image>
+    <image name="ef_seal">
+      <uvrect __type="4u16">900 1128 1790 2018</uvrect>
+      <imgrect __type="4u16">898 1130 1788 2020</imgrect>
+    </image>
+    <image name="action_03">
+      <uvrect __type="4u16">1132 1264 1790 1990</uvrect>
+      <imgrect __type="4u16">1130 1266 1788 1992</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex006" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="red_story04_16">
+      <uvrect __type="4u16">2 896 2 288</uvrect>
+      <imgrect __type="4u16">0 898 0 290</imgrect>
+    </image>
+    <image name="red_story04_15">
+      <uvrect __type="4u16">2 896 292 578</uvrect>
+      <imgrect __type="4u16">0 898 290 580</imgrect>
+    </image>
+    <image name="red_story04_14">
+      <uvrect __type="4u16">2 896 582 868</uvrect>
+      <imgrect __type="4u16">0 898 580 870</imgrect>
+    </image>
+    <image name="red_story04_13">
+      <uvrect __type="4u16">900 1794 2 288</uvrect>
+      <imgrect __type="4u16">898 1796 0 290</imgrect>
+    </image>
+    <image name="red_story04_12">
+      <uvrect __type="4u16">900 1794 292 578</uvrect>
+      <imgrect __type="4u16">898 1796 290 580</imgrect>
+    </image>
+    <image name="red_story04_11">
+      <uvrect __type="4u16">900 1794 582 868</uvrect>
+      <imgrect __type="4u16">898 1796 580 870</imgrect>
+    </image>
+    <image name="red_story04_10">
+      <uvrect __type="4u16">2 896 872 1158</uvrect>
+      <imgrect __type="4u16">0 898 870 1160</imgrect>
+    </image>
+    <image name="red_story04_09">
+      <uvrect __type="4u16">900 1794 872 1158</uvrect>
+      <imgrect __type="4u16">898 1796 870 1160</imgrect>
+    </image>
+    <image name="red_story04_08">
+      <uvrect __type="4u16">2 896 1162 1448</uvrect>
+      <imgrect __type="4u16">0 898 1160 1450</imgrect>
+    </image>
+    <image name="red_story04_07">
+      <uvrect __type="4u16">900 1794 1162 1448</uvrect>
+      <imgrect __type="4u16">898 1796 1160 1450</imgrect>
+    </image>
+    <image name="red_story04_06">
+      <uvrect __type="4u16">2 896 1452 1738</uvrect>
+      <imgrect __type="4u16">0 898 1450 1740</imgrect>
+    </image>
+    <image name="red_story04_05">
+      <uvrect __type="4u16">900 1794 1452 1738</uvrect>
+      <imgrect __type="4u16">898 1796 1450 1740</imgrect>
+    </image>
+    <image name="red_story04_04">
+      <uvrect __type="4u16">2 896 1742 2028</uvrect>
+      <imgrect __type="4u16">0 898 1740 2030</imgrect>
+    </image>
+    <image name="red_story04_03">
+      <uvrect __type="4u16">900 1794 1742 2028</uvrect>
+      <imgrect __type="4u16">898 1796 1740 2030</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex007" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="red_story04_02">
+      <uvrect __type="4u16">2 896 2 288</uvrect>
+      <imgrect __type="4u16">0 898 0 290</imgrect>
+    </image>
+    <image name="red_story04_01">
+      <uvrect __type="4u16">2 896 292 578</uvrect>
+      <imgrect __type="4u16">0 898 290 580</imgrect>
+    </image>
+    <image name="red_story04_00">
+      <uvrect __type="4u16">2 896 582 868</uvrect>
+      <imgrect __type="4u16">0 898 580 870</imgrect>
+    </image>
+    <image name="red_story03_20">
+      <uvrect __type="4u16">900 1794 2 288</uvrect>
+      <imgrect __type="4u16">898 1796 0 290</imgrect>
+    </image>
+    <image name="red_story03_19">
+      <uvrect __type="4u16">900 1794 292 578</uvrect>
+      <imgrect __type="4u16">898 1796 290 580</imgrect>
+    </image>
+    <image name="red_story03_18">
+      <uvrect __type="4u16">900 1794 582 868</uvrect>
+      <imgrect __type="4u16">898 1796 580 870</imgrect>
+    </image>
+    <image name="red_story03_17">
+      <uvrect __type="4u16">2 896 872 1158</uvrect>
+      <imgrect __type="4u16">0 898 870 1160</imgrect>
+    </image>
+    <image name="red_story03_16">
+      <uvrect __type="4u16">900 1794 872 1158</uvrect>
+      <imgrect __type="4u16">898 1796 870 1160</imgrect>
+    </image>
+    <image name="red_story03_15">
+      <uvrect __type="4u16">2 896 1162 1448</uvrect>
+      <imgrect __type="4u16">0 898 1160 1450</imgrect>
+    </image>
+    <image name="red_story03_14">
+      <uvrect __type="4u16">900 1794 1162 1448</uvrect>
+      <imgrect __type="4u16">898 1796 1160 1450</imgrect>
+    </image>
+    <image name="red_story03_13">
+      <uvrect __type="4u16">2 896 1452 1738</uvrect>
+      <imgrect __type="4u16">0 898 1450 1740</imgrect>
+    </image>
+    <image name="red_story03_12">
+      <uvrect __type="4u16">900 1794 1452 1738</uvrect>
+      <imgrect __type="4u16">898 1796 1450 1740</imgrect>
+    </image>
+    <image name="red_story03_11">
+      <uvrect __type="4u16">2 896 1742 2028</uvrect>
+      <imgrect __type="4u16">0 898 1740 2030</imgrect>
+    </image>
+    <image name="red_story03_10">
+      <uvrect __type="4u16">900 1794 1742 2028</uvrect>
+      <imgrect __type="4u16">898 1796 1740 2030</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex008" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="red_story03_09">
+      <uvrect __type="4u16">2 896 2 288</uvrect>
+      <imgrect __type="4u16">0 898 0 290</imgrect>
+    </image>
+    <image name="red_story03_08">
+      <uvrect __type="4u16">2 896 292 578</uvrect>
+      <imgrect __type="4u16">0 898 290 580</imgrect>
+    </image>
+    <image name="red_story03_07">
+      <uvrect __type="4u16">2 896 582 868</uvrect>
+      <imgrect __type="4u16">0 898 580 870</imgrect>
+    </image>
+    <image name="red_story03_06">
+      <uvrect __type="4u16">900 1794 2 288</uvrect>
+      <imgrect __type="4u16">898 1796 0 290</imgrect>
+    </image>
+    <image name="red_story03_05">
+      <uvrect __type="4u16">900 1794 292 578</uvrect>
+      <imgrect __type="4u16">898 1796 290 580</imgrect>
+    </image>
+    <image name="red_story03_04">
+      <uvrect __type="4u16">900 1794 582 868</uvrect>
+      <imgrect __type="4u16">898 1796 580 870</imgrect>
+    </image>
+    <image name="red_story03_03">
+      <uvrect __type="4u16">2 896 872 1158</uvrect>
+      <imgrect __type="4u16">0 898 870 1160</imgrect>
+    </image>
+    <image name="red_story03_02">
+      <uvrect __type="4u16">900 1794 872 1158</uvrect>
+      <imgrect __type="4u16">898 1796 870 1160</imgrect>
+    </image>
+    <image name="red_story03_01">
+      <uvrect __type="4u16">2 896 1162 1448</uvrect>
+      <imgrect __type="4u16">0 898 1160 1450</imgrect>
+    </image>
+    <image name="red_story03_00">
+      <uvrect __type="4u16">900 1794 1162 1448</uvrect>
+      <imgrect __type="4u16">898 1796 1160 1450</imgrect>
+    </image>
+    <image name="red_story02_10">
+      <uvrect __type="4u16">2 896 1452 1738</uvrect>
+      <imgrect __type="4u16">0 898 1450 1740</imgrect>
+    </image>
+    <image name="red_story02_09">
+      <uvrect __type="4u16">900 1794 1452 1738</uvrect>
+      <imgrect __type="4u16">898 1796 1450 1740</imgrect>
+    </image>
+    <image name="red_story02_08">
+      <uvrect __type="4u16">2 896 1742 2028</uvrect>
+      <imgrect __type="4u16">0 898 1740 2030</imgrect>
+    </image>
+    <image name="red_story02_07">
+      <uvrect __type="4u16">900 1794 1742 2028</uvrect>
+      <imgrect __type="4u16">898 1796 1740 2030</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex009" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="red_story02_06">
+      <uvrect __type="4u16">2 896 2 288</uvrect>
+      <imgrect __type="4u16">0 898 0 290</imgrect>
+    </image>
+    <image name="red_story02_05">
+      <uvrect __type="4u16">2 896 292 578</uvrect>
+      <imgrect __type="4u16">0 898 290 580</imgrect>
+    </image>
+    <image name="red_story02_04">
+      <uvrect __type="4u16">2 896 582 868</uvrect>
+      <imgrect __type="4u16">0 898 580 870</imgrect>
+    </image>
+    <image name="red_story02_03">
+      <uvrect __type="4u16">900 1794 2 288</uvrect>
+      <imgrect __type="4u16">898 1796 0 290</imgrect>
+    </image>
+    <image name="red_story02_02">
+      <uvrect __type="4u16">900 1794 292 578</uvrect>
+      <imgrect __type="4u16">898 1796 290 580</imgrect>
+    </image>
+    <image name="red_story02_01">
+      <uvrect __type="4u16">900 1794 582 868</uvrect>
+      <imgrect __type="4u16">898 1796 580 870</imgrect>
+    </image>
+    <image name="red_story02_00">
+      <uvrect __type="4u16">2 896 872 1158</uvrect>
+      <imgrect __type="4u16">0 898 870 1160</imgrect>
+    </image>
+    <image name="red_story01_05">
+      <uvrect __type="4u16">900 1794 872 1158</uvrect>
+      <imgrect __type="4u16">898 1796 870 1160</imgrect>
+    </image>
+    <image name="red_story01_04">
+      <uvrect __type="4u16">2 896 1162 1448</uvrect>
+      <imgrect __type="4u16">0 898 1160 1450</imgrect>
+    </image>
+    <image name="red_story01_03">
+      <uvrect __type="4u16">900 1794 1162 1448</uvrect>
+      <imgrect __type="4u16">898 1796 1160 1450</imgrect>
+    </image>
+    <image name="red_story01_02">
+      <uvrect __type="4u16">2 896 1452 1738</uvrect>
+      <imgrect __type="4u16">0 898 1450 1740</imgrect>
+    </image>
+    <image name="red_story01_01">
+      <uvrect __type="4u16">900 1794 1452 1738</uvrect>
+      <imgrect __type="4u16">898 1796 1450 1740</imgrect>
+    </image>
+    <image name="red_story01_00">
+      <uvrect __type="4u16">2 896 1742 2028</uvrect>
+      <imgrect __type="4u16">0 898 1740 2030</imgrect>
+    </image>
+    <image name="red_story00_20">
+      <uvrect __type="4u16">900 1794 1742 2028</uvrect>
+      <imgrect __type="4u16">898 1796 1740 2030</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex010" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="red_story00_19">
+      <uvrect __type="4u16">2 896 2 288</uvrect>
+      <imgrect __type="4u16">0 898 0 290</imgrect>
+    </image>
+    <image name="red_story00_18">
+      <uvrect __type="4u16">2 896 292 578</uvrect>
+      <imgrect __type="4u16">0 898 290 580</imgrect>
+    </image>
+    <image name="red_story00_17">
+      <uvrect __type="4u16">2 896 582 868</uvrect>
+      <imgrect __type="4u16">0 898 580 870</imgrect>
+    </image>
+    <image name="red_story00_16">
+      <uvrect __type="4u16">900 1794 2 288</uvrect>
+      <imgrect __type="4u16">898 1796 0 290</imgrect>
+    </image>
+    <image name="red_story00_15">
+      <uvrect __type="4u16">900 1794 292 578</uvrect>
+      <imgrect __type="4u16">898 1796 290 580</imgrect>
+    </image>
+    <image name="red_story00_14">
+      <uvrect __type="4u16">900 1794 582 868</uvrect>
+      <imgrect __type="4u16">898 1796 580 870</imgrect>
+    </image>
+    <image name="red_story00_13">
+      <uvrect __type="4u16">2 896 872 1158</uvrect>
+      <imgrect __type="4u16">0 898 870 1160</imgrect>
+    </image>
+    <image name="red_story00_12">
+      <uvrect __type="4u16">900 1794 872 1158</uvrect>
+      <imgrect __type="4u16">898 1796 870 1160</imgrect>
+    </image>
+    <image name="red_story00_11">
+      <uvrect __type="4u16">2 896 1162 1448</uvrect>
+      <imgrect __type="4u16">0 898 1160 1450</imgrect>
+    </image>
+    <image name="red_story00_10">
+      <uvrect __type="4u16">900 1794 1162 1448</uvrect>
+      <imgrect __type="4u16">898 1796 1160 1450</imgrect>
+    </image>
+    <image name="red_story00_09">
+      <uvrect __type="4u16">2 896 1452 1738</uvrect>
+      <imgrect __type="4u16">0 898 1450 1740</imgrect>
+    </image>
+    <image name="red_story00_08">
+      <uvrect __type="4u16">900 1794 1452 1738</uvrect>
+      <imgrect __type="4u16">898 1796 1450 1740</imgrect>
+    </image>
+    <image name="red_story00_07">
+      <uvrect __type="4u16">2 896 1742 2028</uvrect>
+      <imgrect __type="4u16">0 898 1740 2030</imgrect>
+    </image>
+    <image name="red_story00_06">
+      <uvrect __type="4u16">900 1794 1742 2028</uvrect>
+      <imgrect __type="4u16">898 1796 1740 2030</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex011" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="red_story00_05">
+      <uvrect __type="4u16">2 896 2 288</uvrect>
+      <imgrect __type="4u16">0 898 0 290</imgrect>
+    </image>
+    <image name="red_story00_04">
+      <uvrect __type="4u16">2 896 292 578</uvrect>
+      <imgrect __type="4u16">0 898 290 580</imgrect>
+    </image>
+    <image name="red_story00_03">
+      <uvrect __type="4u16">2 896 582 868</uvrect>
+      <imgrect __type="4u16">0 898 580 870</imgrect>
+    </image>
+    <image name="red_story00_02">
+      <uvrect __type="4u16">900 1794 2 288</uvrect>
+      <imgrect __type="4u16">898 1796 0 290</imgrect>
+    </image>
+    <image name="red_story00_01">
+      <uvrect __type="4u16">900 1794 292 578</uvrect>
+      <imgrect __type="4u16">898 1796 290 580</imgrect>
+    </image>
+    <image name="red_story00_00">
+      <uvrect __type="4u16">900 1794 582 868</uvrect>
+      <imgrect __type="4u16">898 1796 580 870</imgrect>
+    </image>
+    <image name="qp_hakase_head_f">
+      <uvrect __type="4u16">2 522 872 1572</uvrect>
+      <imgrect __type="4u16">0 524 870 1574</imgrect>
+    </image>
+    <image name="qp_hakase_head_b">
+      <uvrect __type="4u16">526 1046 872 1572</uvrect>
+      <imgrect __type="4u16">524 1048 870 1574</imgrect>
+    </image>
+    <image name="qp_hakase_hand_r">
+      <uvrect __type="4u16">1050 1470 872 1572</uvrect>
+      <imgrect __type="4u16">1048 1472 870 1574</imgrect>
+    </image>
+    <image name="qp_hakase_hair_f">
+      <uvrect __type="4u16">1474 1994 872 1572</uvrect>
+      <imgrect __type="4u16">1472 1996 870 1574</imgrect>
+    </image>
+    <image name="qp_ripika_arm_l_upper">
+      <uvrect __type="4u16">2 282 1576 1960</uvrect>
+      <imgrect __type="4u16">0 284 1574 1962</imgrect>
+    </image>
+    <image name="qp_ripika_arm_l_lower">
+      <uvrect __type="4u16">286 566 1576 1960</uvrect>
+      <imgrect __type="4u16">284 568 1574 1962</imgrect>
+    </image>
+    <image name="qp_hakase_arm_r_upper">
+      <uvrect __type="4u16">570 830 1576 1960</uvrect>
+      <imgrect __type="4u16">568 832 1574 1962</imgrect>
+    </image>
+    <image name="qp_hakase_arm_r_lower">
+      <uvrect __type="4u16">834 1094 1576 1960</uvrect>
+      <imgrect __type="4u16">832 1096 1574 1962</imgrect>
+    </image>
+    <image name="qp_hakase_arm_l_upper">
+      <uvrect __type="4u16">1098 1378 1576 1960</uvrect>
+      <imgrect __type="4u16">1096 1380 1574 1962</imgrect>
+    </image>
+    <image name="qp_hakase_arm_l_lower">
+      <uvrect __type="4u16">1382 1662 1576 1960</uvrect>
+      <imgrect __type="4u16">1380 1664 1574 1962</imgrect>
+    </image>
+    <image name="inazuma30">
+      <uvrect __type="4u16">1666 2046 1576 1956</uvrect>
+      <imgrect __type="4u16">1664 2048 1574 1958</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex012" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="qp_hakase_hair_b">
+      <uvrect __type="4u16">2 522 2 702</uvrect>
+      <imgrect __type="4u16">0 524 0 704</imgrect>
+    </image>
+    <image name="qp_hakase_body_f">
+      <uvrect __type="4u16">526 1042 2 702</uvrect>
+      <imgrect __type="4u16">524 1044 0 704</imgrect>
+    </image>
+    <image name="bg_bell01">
+      <uvrect __type="4u16">1046 1508 2 666</uvrect>
+      <imgrect __type="4u16">1044 1510 0 668</imgrect>
+    </image>
+    <image name="bg_bell03">
+      <uvrect __type="4u16">1512 1980 2 564</uvrect>
+      <imgrect __type="4u16">1510 1982 0 566</imgrect>
+    </image>
+    <image name="boss_crs02">
+      <uvrect __type="4u16">1512 1912 568 1068</uvrect>
+      <imgrect __type="4u16">1510 1914 566 1070</imgrect>
+    </image>
+    <image name="boss_crs01">
+      <uvrect __type="4u16">1046 1446 670 1170</uvrect>
+      <imgrect __type="4u16">1044 1448 668 1172</imgrect>
+    </image>
+    <image name="inazuma29">
+      <uvrect __type="4u16">2 382 706 1086</uvrect>
+      <imgrect __type="4u16">0 384 704 1088</imgrect>
+    </image>
+    <image name="inazuma28">
+      <uvrect __type="4u16">386 766 706 1086</uvrect>
+      <imgrect __type="4u16">384 768 704 1088</imgrect>
+    </image>
+    <image name="inazuma27">
+      <uvrect __type="4u16">1450 1830 1072 1452</uvrect>
+      <imgrect __type="4u16">1448 1832 1070 1454</imgrect>
+    </image>
+    <image name="inazuma26">
+      <uvrect __type="4u16">2 382 1090 1470</uvrect>
+      <imgrect __type="4u16">0 384 1088 1472</imgrect>
+    </image>
+    <image name="inazuma25">
+      <uvrect __type="4u16">386 766 1090 1470</uvrect>
+      <imgrect __type="4u16">384 768 1088 1472</imgrect>
+    </image>
+    <image name="inazuma24">
+      <uvrect __type="4u16">770 1150 1174 1554</uvrect>
+      <imgrect __type="4u16">768 1152 1172 1556</imgrect>
+    </image>
+    <image name="inazuma23">
+      <uvrect __type="4u16">1154 1534 1456 1836</uvrect>
+      <imgrect __type="4u16">1152 1536 1454 1838</imgrect>
+    </image>
+    <image name="inazuma22">
+      <uvrect __type="4u16">1538 1918 1456 1836</uvrect>
+      <imgrect __type="4u16">1536 1920 1454 1838</imgrect>
+    </image>
+    <image name="inazuma21">
+      <uvrect __type="4u16">2 382 1474 1854</uvrect>
+      <imgrect __type="4u16">0 384 1472 1856</imgrect>
+    </image>
+    <image name="inazuma20">
+      <uvrect __type="4u16">386 766 1474 1854</uvrect>
+      <imgrect __type="4u16">384 768 1472 1856</imgrect>
+    </image>
+    <image name="inazuma19">
+      <uvrect __type="4u16">770 1150 1558 1938</uvrect>
+      <imgrect __type="4u16">768 1152 1556 1940</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex013" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="inazuma18">
+      <uvrect __type="4u16">2 382 2 382</uvrect>
+      <imgrect __type="4u16">0 384 0 384</imgrect>
+    </image>
+    <image name="inazuma17">
+      <uvrect __type="4u16">386 766 2 382</uvrect>
+      <imgrect __type="4u16">384 768 0 384</imgrect>
+    </image>
+    <image name="inazuma16">
+      <uvrect __type="4u16">2 382 386 766</uvrect>
+      <imgrect __type="4u16">0 384 384 768</imgrect>
+    </image>
+    <image name="inazuma15">
+      <uvrect __type="4u16">386 766 386 766</uvrect>
+      <imgrect __type="4u16">384 768 384 768</imgrect>
+    </image>
+    <image name="inazuma14">
+      <uvrect __type="4u16">770 1150 2 382</uvrect>
+      <imgrect __type="4u16">768 1152 0 384</imgrect>
+    </image>
+    <image name="inazuma13">
+      <uvrect __type="4u16">1154 1534 2 382</uvrect>
+      <imgrect __type="4u16">1152 1536 0 384</imgrect>
+    </image>
+    <image name="inazuma12">
+      <uvrect __type="4u16">1538 1918 2 382</uvrect>
+      <imgrect __type="4u16">1536 1920 0 384</imgrect>
+    </image>
+    <image name="inazuma11">
+      <uvrect __type="4u16">770 1150 386 766</uvrect>
+      <imgrect __type="4u16">768 1152 384 768</imgrect>
+    </image>
+    <image name="inazuma10">
+      <uvrect __type="4u16">1154 1534 386 766</uvrect>
+      <imgrect __type="4u16">1152 1536 384 768</imgrect>
+    </image>
+    <image name="inazuma09">
+      <uvrect __type="4u16">1538 1918 386 766</uvrect>
+      <imgrect __type="4u16">1536 1920 384 768</imgrect>
+    </image>
+    <image name="inazuma08">
+      <uvrect __type="4u16">2 382 770 1150</uvrect>
+      <imgrect __type="4u16">0 384 768 1152</imgrect>
+    </image>
+    <image name="inazuma07">
+      <uvrect __type="4u16">386 766 770 1150</uvrect>
+      <imgrect __type="4u16">384 768 768 1152</imgrect>
+    </image>
+    <image name="inazuma06">
+      <uvrect __type="4u16">770 1150 770 1150</uvrect>
+      <imgrect __type="4u16">768 1152 768 1152</imgrect>
+    </image>
+    <image name="inazuma05">
+      <uvrect __type="4u16">1154 1534 770 1150</uvrect>
+      <imgrect __type="4u16">1152 1536 768 1152</imgrect>
+    </image>
+    <image name="inazuma04">
+      <uvrect __type="4u16">1538 1918 770 1150</uvrect>
+      <imgrect __type="4u16">1536 1920 768 1152</imgrect>
+    </image>
+    <image name="inazuma03">
+      <uvrect __type="4u16">2 382 1154 1534</uvrect>
+      <imgrect __type="4u16">0 384 1152 1536</imgrect>
+    </image>
+    <image name="inazuma02">
+      <uvrect __type="4u16">386 766 1154 1534</uvrect>
+      <imgrect __type="4u16">384 768 1152 1536</imgrect>
+    </image>
+    <image name="inazuma01">
+      <uvrect __type="4u16">770 1150 1154 1534</uvrect>
+      <imgrect __type="4u16">768 1152 1152 1536</imgrect>
+    </image>
+    <image name="qp_hakase_face_damage">
+      <uvrect __type="4u16">1154 1450 1154 1466</uvrect>
+      <imgrect __type="4u16">1152 1452 1152 1468</imgrect>
+    </image>
+    <image name="qp_hakase_face_banzai">
+      <uvrect __type="4u16">1454 1750 1154 1466</uvrect>
+      <imgrect __type="4u16">1452 1752 1152 1468</imgrect>
+    </image>
+    <image name="qp_hakase_face_attack">
+      <uvrect __type="4u16">1154 1450 1470 1782</uvrect>
+      <imgrect __type="4u16">1152 1452 1468 1784</imgrect>
+    </image>
+  </texture>
+</texturelist>

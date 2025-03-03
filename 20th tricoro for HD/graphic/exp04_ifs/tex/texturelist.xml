@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="exp04_15">
+      <uvrect __type="4u16">2 498 2 426</uvrect>
+      <imgrect __type="4u16">0 500 0 428</imgrect>
+    </image>
+    <image name="exp04_14">
+      <uvrect __type="4u16">502 998 2 426</uvrect>
+      <imgrect __type="4u16">500 1000 0 428</imgrect>
+    </image>
+    <image name="exp04_13">
+      <uvrect __type="4u16">2 498 430 854</uvrect>
+      <imgrect __type="4u16">0 500 428 856</imgrect>
+    </image>
+    <image name="exp04_12">
+      <uvrect __type="4u16">502 998 430 854</uvrect>
+      <imgrect __type="4u16">500 1000 428 856</imgrect>
+    </image>
+    <image name="exp04_11">
+      <uvrect __type="4u16">1002 1498 2 426</uvrect>
+      <imgrect __type="4u16">1000 1500 0 428</imgrect>
+    </image>
+    <image name="exp04_10">
+      <uvrect __type="4u16">1502 1998 2 426</uvrect>
+      <imgrect __type="4u16">1500 2000 0 428</imgrect>
+    </image>
+    <image name="exp04_09">
+      <uvrect __type="4u16">1002 1498 430 854</uvrect>
+      <imgrect __type="4u16">1000 1500 428 856</imgrect>
+    </image>
+    <image name="exp04_08">
+      <uvrect __type="4u16">1502 1998 430 854</uvrect>
+      <imgrect __type="4u16">1500 2000 428 856</imgrect>
+    </image>
+    <image name="exp04_07">
+      <uvrect __type="4u16">2 498 858 1282</uvrect>
+      <imgrect __type="4u16">0 500 856 1284</imgrect>
+    </image>
+    <image name="exp04_06">
+      <uvrect __type="4u16">502 998 858 1282</uvrect>
+      <imgrect __type="4u16">500 1000 856 1284</imgrect>
+    </image>
+    <image name="exp04_05">
+      <uvrect __type="4u16">1002 1498 858 1282</uvrect>
+      <imgrect __type="4u16">1000 1500 856 1284</imgrect>
+    </image>
+    <image name="exp04_04">
+      <uvrect __type="4u16">1502 1998 858 1282</uvrect>
+      <imgrect __type="4u16">1500 2000 856 1284</imgrect>
+    </image>
+    <image name="exp04_03">
+      <uvrect __type="4u16">2 498 1286 1710</uvrect>
+      <imgrect __type="4u16">0 500 1284 1712</imgrect>
+    </image>
+    <image name="exp04_02">
+      <uvrect __type="4u16">502 998 1286 1710</uvrect>
+      <imgrect __type="4u16">500 1000 1284 1712</imgrect>
+    </image>
+    <image name="exp04_01">
+      <uvrect __type="4u16">1002 1498 1286 1710</uvrect>
+      <imgrect __type="4u16">1000 1500 1284 1712</imgrect>
+    </image>
+    <image name="exp04_00">
+      <uvrect __type="4u16">1502 1998 1286 1710</uvrect>
+      <imgrect __type="4u16">1500 2000 1284 1712</imgrect>
+    </image>
+  </texture>
+</texturelist>

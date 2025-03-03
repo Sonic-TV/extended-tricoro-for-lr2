@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="bg_textbg">
+      <uvrect __type="4u16">2 1282 2 208</uvrect>
+      <imgrect __type="4u16">0 1284 0 210</imgrect>
+    </image>
+    <image name="paseli_window">
+      <uvrect __type="4u16">2 1126 212 972</uvrect>
+      <imgrect __type="4u16">0 1128 210 974</imgrect>
+    </image>
+    <image name="paseli_bg_yelow">
+      <uvrect __type="4u16">2 1126 976 1736</uvrect>
+      <imgrect __type="4u16">0 1128 974 1738</imgrect>
+    </image>
+    <image name="panel_credit">
+      <uvrect __type="4u16">2 1070 1740 2020</uvrect>
+      <imgrect __type="4u16">0 1072 1738 2022</imgrect>
+    </image>
+    <image name="bg_bgwindow">
+      <uvrect __type="4u16">1286 1486 2 1058</uvrect>
+      <imgrect __type="4u16">1284 1488 0 1060</imgrect>
+    </image>
+    <image name="panel_paseli">
+      <uvrect __type="4u16">1074 2046 1740 1946</uvrect>
+      <imgrect __type="4u16">1072 2048 1738 1948</imgrect>
+    </image>
+    <image name="panel_waku2">
+      <uvrect __type="4u16">1130 1932 1062 1204</uvrect>
+      <imgrect __type="4u16">1128 1934 1060 1206</imgrect>
+    </image>
+    <image name="panel_no_entry">
+      <uvrect __type="4u16">1130 1840 1208 1286</uvrect>
+      <imgrect __type="4u16">1128 1842 1206 1288</imgrect>
+    </image>
+    <image name="text_setsumei">
+      <uvrect __type="4u16">1130 1778 1290 1330</uvrect>
+      <imgrect __type="4u16">1128 1780 1288 1332</imgrect>
+    </image>
+    <image name="text_push_key">
+      <uvrect __type="4u16">1490 1970 2 56</uvrect>
+      <imgrect __type="4u16">1488 1972 0 58</imgrect>
+    </image>
+    <image name="kyotai">
+      <uvrect __type="4u16">1490 1752 60 526</uvrect>
+      <imgrect __type="4u16">1488 1754 58 528</imgrect>
+    </image>
+    <image name="bg_bgwindow_txt">
+      <uvrect __type="4u16">1490 1952 530 552</uvrect>
+      <imgrect __type="4u16">1488 1954 528 554</imgrect>
+    </image>
+    <image name="text_paseli_use">
+      <uvrect __type="4u16">1490 1922 556 592</uvrect>
+      <imgrect __type="4u16">1488 1924 554 594</imgrect>
+    </image>
+    <image name="ato_x_credits">
+      <uvrect __type="4u16">1490 1902 596 638</uvrect>
+      <imgrect __type="4u16">1488 1904 594 640</imgrect>
+    </image>
+    <image name="ato_x_credit">
+      <uvrect __type="4u16">1490 1902 642 684</uvrect>
+      <imgrect __type="4u16">1488 1904 640 686</imgrect>
+    </image>
+    <image name="coin_boke_black">
+      <uvrect __type="4u16">1490 1880 688 984</uvrect>
+      <imgrect __type="4u16">1488 1882 686 986</imgrect>
+    </image>
+    <image name="human">
+      <uvrect __type="4u16">1756 1922 60 362</uvrect>
+      <imgrect __type="4u16">1754 1924 58 364</imgrect>
+    </image>
+    <image name="a_yes">
+      <uvrect __type="4u16">1130 1428 1334 1464</uvrect>
+      <imgrect __type="4u16">1128 1430 1332 1466</imgrect>
+    </image>
+    <image name="a_no">
+      <uvrect __type="4u16">1432 1730 1334 1464</uvrect>
+      <imgrect __type="4u16">1430 1732 1332 1466</imgrect>
+    </image>
+    <image name="a_cursor">
+      <uvrect __type="4u16">1756 2042 366 484</uvrect>
+      <imgrect __type="4u16">1754 2044 364 486</imgrect>
+    </image>
+    <image name="use_paseli">
+      <uvrect __type="4u16">1734 2002 1334 1602</uvrect>
+      <imgrect __type="4u16">1732 2004 1332 1604</imgrect>
+    </image>
+    <image name="panel_money_credits">
+      <uvrect __type="4u16">1490 1690 988 1028</uvrect>
+      <imgrect __type="4u16">1488 1692 986 1030</imgrect>
+    </image>
+    <image name="panel_money_credit">
+      <uvrect __type="4u16">1694 1894 988 1028</uvrect>
+      <imgrect __type="4u16">1692 1896 986 1030</imgrect>
+    </image>
+    <image name="bg_bggrd">
+      <uvrect __type="4u16">1130 1330 1468 1614</uvrect>
+      <imgrect __type="4u16">1128 1332 1466 1616</imgrect>
+    </image>
+    <image name="p_player02">
+      <uvrect __type="4u16">1844 2036 1208 1298</uvrect>
+      <imgrect __type="4u16">1842 2038 1206 1300</imgrect>
+    </image>
+    <image name="p_player01">
+      <uvrect __type="4u16">1334 1502 1468 1558</uvrect>
+      <imgrect __type="4u16">1332 1504 1466 1560</imgrect>
+    </image>
+    <image name="limit">
+      <uvrect __type="4u16">1506 1670 1468 1524</uvrect>
+      <imgrect __type="4u16">1504 1672 1466 1526</imgrect>
+    </image>
+    <image name="pay_09">
+      <uvrect __type="4u16">1974 2042 2 90</uvrect>
+      <imgrect __type="4u16">1972 2044 0 92</imgrect>
+    </image>
+    <image name="pay_08">
+      <uvrect __type="4u16">1926 1994 94 182</uvrect>
+      <imgrect __type="4u16">1924 1996 92 184</imgrect>
+    </image>
+    <image name="pay_07">
+      <uvrect __type="4u16">1926 1994 186 274</uvrect>
+      <imgrect __type="4u16">1924 1996 184 276</imgrect>
+    </image>
+    <image name="pay_06">
+      <uvrect __type="4u16">1130 1198 212 300</uvrect>
+      <imgrect __type="4u16">1128 1200 210 302</imgrect>
+    </image>
+    <image name="pay_05">
+      <uvrect __type="4u16">1202 1270 212 300</uvrect>
+      <imgrect __type="4u16">1200 1272 210 302</imgrect>
+    </image>
+    <image name="pay_04">
+      <uvrect __type="4u16">1130 1198 304 392</uvrect>
+      <imgrect __type="4u16">1128 1200 302 394</imgrect>
+    </image>
+    <image name="pay_03">
+      <uvrect __type="4u16">1202 1270 304 392</uvrect>
+      <imgrect __type="4u16">1200 1272 302 394</imgrect>
+    </image>
+    <image name="pay_02">
+      <uvrect __type="4u16">1130 1198 396 484</uvrect>
+      <imgrect __type="4u16">1128 1200 394 486</imgrect>
+    </image>
+    <image name="pay_01">
+      <uvrect __type="4u16">1202 1270 396 484</uvrect>
+      <imgrect __type="4u16">1200 1272 394 486</imgrect>
+    </image>
+    <image name="pay_00">
+      <uvrect __type="4u16">1130 1198 488 576</uvrect>
+      <imgrect __type="4u16">1128 1200 486 578</imgrect>
+    </image>
+    <image name="paseli_hyphen">
+      <uvrect __type="4u16">1202 1268 488 576</uvrect>
+      <imgrect __type="4u16">1200 1270 486 578</imgrect>
+    </image>
+    <image name="time_bg9">
+      <uvrect __type="4u16">1926 2008 278 346</uvrect>
+      <imgrect __type="4u16">1924 2010 276 348</imgrect>
+    </image>
+    <image name="time_bg8">
+      <uvrect __type="4u16">1956 2038 488 556</uvrect>
+      <imgrect __type="4u16">1954 2040 486 558</imgrect>
+    </image>
+    <image name="time_bg7">
+      <uvrect __type="4u16">1926 2008 560 628</uvrect>
+      <imgrect __type="4u16">1924 2010 558 630</imgrect>
+    </image>
+    <image name="time_bg6">
+      <uvrect __type="4u16">1130 1212 580 648</uvrect>
+      <imgrect __type="4u16">1128 1214 578 650</imgrect>
+    </image>
+    <image name="time_bg5">
+      <uvrect __type="4u16">1906 1988 632 700</uvrect>
+      <imgrect __type="4u16">1904 1990 630 702</imgrect>
+    </image>
+    <image name="time_bg4">
+      <uvrect __type="4u16">1130 1212 652 720</uvrect>
+      <imgrect __type="4u16">1128 1214 650 722</imgrect>
+    </image>
+    <image name="time_bg3">
+      <uvrect __type="4u16">1884 1966 704 772</uvrect>
+      <imgrect __type="4u16">1882 1968 702 774</imgrect>
+    </image>
+    <image name="time_bg2">
+      <uvrect __type="4u16">1130 1212 724 792</uvrect>
+      <imgrect __type="4u16">1128 1214 722 794</imgrect>
+    </image>
+    <image name="time_bg1">
+      <uvrect __type="4u16">1884 1966 776 844</uvrect>
+      <imgrect __type="4u16">1882 1968 774 846</imgrect>
+    </image>
+    <image name="time_bg0">
+      <uvrect __type="4u16">1130 1212 796 864</uvrect>
+      <imgrect __type="4u16">1128 1214 794 866</imgrect>
+    </image>
+    <image name="paseli_credit_s">
+      <uvrect __type="4u16">1998 2024 94 126</uvrect>
+      <imgrect __type="4u16">1996 2026 92 128</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex001" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="paseli_bg_red">
+      <uvrect __type="4u16">2 1126 2 762</uvrect>
+      <imgrect __type="4u16">0 1128 0 764</imgrect>
+    </image>
+    <image name="paseli_bg_green">
+      <uvrect __type="4u16">2 1126 766 1526</uvrect>
+      <imgrect __type="4u16">0 1128 764 1528</imgrect>
+    </image>
+    <image name="panel_waku1">
+      <uvrect __type="4u16">2 1064 1530 1798</uvrect>
+      <imgrect __type="4u16">0 1066 1528 1800</imgrect>
+    </image>
+    <image name="text_use_paseli">
+      <uvrect __type="4u16">2 1062 1802 1962</uvrect>
+      <imgrect __type="4u16">0 1064 1800 1964</imgrect>
+    </image>
+    <image name="title_pay_play">
+      <uvrect __type="4u16">2 1042 1966 2046</uvrect>
+      <imgrect __type="4u16">0 1044 1964 2048</imgrect>
+    </image>
+    <image name="paseli_decide_bg">
+      <uvrect __type="4u16">1130 1878 2 586</uvrect>
+      <imgrect __type="4u16">1128 1880 0 588</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex002" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="paseli_bg_gray">
+      <uvrect __type="4u16">2 1126 2 762</uvrect>
+      <imgrect __type="4u16">0 1128 0 764</imgrect>
+    </image>
+    <image name="text_plz_wait">
+      <uvrect __type="4u16">2 1062 766 926</uvrect>
+      <imgrect __type="4u16">0 1064 764 928</imgrect>
+    </image>
+    <image name="text_paseli_ng">
+      <uvrect __type="4u16">2 1062 930 1090</uvrect>
+      <imgrect __type="4u16">0 1064 928 1092</imgrect>
+    </image>
+    <image name="text_paseli_maintenance">
+      <uvrect __type="4u16">2 1062 1094 1254</uvrect>
+      <imgrect __type="4u16">0 1064 1092 1256</imgrect>
+    </image>
+    <image name="text_paseli_check_ng">
+      <uvrect __type="4u16">2 1062 1258 1418</uvrect>
+      <imgrect __type="4u16">0 1064 1256 1420</imgrect>
+    </image>
+    <image name="text_paseli_check">
+      <uvrect __type="4u16">2 1062 1422 1582</uvrect>
+      <imgrect __type="4u16">0 1064 1420 1584</imgrect>
+    </image>
+    <image name="text_entry_ng">
+      <uvrect __type="4u16">2 1062 1586 1746</uvrect>
+      <imgrect __type="4u16">0 1064 1584 1748</imgrect>
+    </image>
+    <image name="text_credit_no">
+      <uvrect __type="4u16">2 1062 1750 1910</uvrect>
+      <imgrect __type="4u16">0 1064 1748 1912</imgrect>
+    </image>
+    <image name="title_paseli_play">
+      <uvrect __type="4u16">2 1042 1914 1994</uvrect>
+      <imgrect __type="4u16">0 1044 1912 1996</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex003" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="text_absence">
+      <uvrect __type="4u16">2 1062 2 162</uvrect>
+      <imgrect __type="4u16">0 1064 0 164</imgrect>
+    </image>
+    <image name="title_credit_play">
+      <uvrect __type="4u16">2 1042 166 246</uvrect>
+      <imgrect __type="4u16">0 1044 164 248</imgrect>
+    </image>
+    <image name="paseli_point_use">
+      <uvrect __type="4u16">2 1020 250 478</uvrect>
+      <imgrect __type="4u16">0 1022 248 480</imgrect>
+    </image>
+    <image name="paseli_point_status">
+      <uvrect __type="4u16">1024 2042 250 464</uvrect>
+      <imgrect __type="4u16">1022 2044 248 466</imgrect>
+    </image>
+    <image name="text_paseli_attention">
+      <uvrect __type="4u16">1024 2022 468 1118</uvrect>
+      <imgrect __type="4u16">1022 2024 466 1120</imgrect>
+    </image>
+  </texture>
+</texturelist>

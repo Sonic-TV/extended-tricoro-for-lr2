@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="basic_status">
+    <geo __type="u16" __count="21">5 8 9 14 19 22 27 36 43 48 51 56 61 66 71 76 81 84 89 106 109</geo>
+  </afp>
+  <afp name="battle">
+    <geo __type="u16" __count="26">5 8 11 16 21 26 31 40 47 52 53 56 59 65 68 71 77 80 148 153 159 162 165 171 174 177</geo>
+  </afp>
+  <afp name="battle_bg">
+    <geo __type="u16" __count="3">5 8 11</geo>
+  </afp>
+  <afp name="bg">
+    <geo __type="u16" __count="9">5 8 11 14 17 20 23 37 40</geo>
+  </afp>
+  <afp name="bonus_critical">
+    <geo __type="u16" __count="9">5 8 11 16 19 22 25 28 31</geo>
+  </afp>
+  <afp name="bonus_damage">
+    <geo __type="u16" __count="9">5 8 11 16 19 22 25 28 31</geo>
+  </afp>
+  <afp name="bonus_dellar">
+    <geo __type="u16" __count="9">5 8 11 16 19 22 25 28 31</geo>
+  </afp>
+  <afp name="bonus_heroic">
+    <geo __type="u16" __count="9">5 8 11 16 19 22 25 28 31</geo>
+  </afp>
+  <afp name="bonus_out">
+    <geo __type="u16" __count="6">5 8 11 14 17 20</geo>
+  </afp>
+  <afp name="boss_icon1">
+    <geo __type="u16" __count="6">5 8 11 16 21 26</geo>
+  </afp>
+  <afp name="boss_icon2">
+    <geo __type="u16" __count="6">5 8 11 16 21 26</geo>
+  </afp>
+  <afp name="boss_icon3">
+    <geo __type="u16" __count="6">5 8 11 16 21 26</geo>
+  </afp>
+  <afp name="boss_icon4">
+    <geo __type="u16" __count="6">5 8 11 16 21 26</geo>
+  </afp>
+  <afp name="boss_icon5">
+    <geo __type="u16" __count="6">5 8 11 16 21 26</geo>
+  </afp>
+  <afp name="boss_icon6">
+    <geo __type="u16" __count="6">5 8 11 16 21 26</geo>
+  </afp>
+  <afp name="boss_icon7">
+    <geo __type="u16" __count="6">5 8 11 16 21 26</geo>
+  </afp>
+  <afp name="boss_sel">
+    <geo __type="u16" __count="11">5 8 11 14 17 20 23 26 29 32 35</geo>
+  </afp>
+  <afp name="cg100">
+    <geo __type="u16" __count="5">5 8 11 14 17</geo>
+  </afp>
+  <afp name="cgup">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="damage">
+    <geo __type="u16" __count="5">5 8 11 16 19</geo>
+  </afp>
+  <afp name="decide">
+    <geo __type="u16" __count="19">5 8 9 10 13 18 23 26 29 32 35 38 41 44 47 54 57 60 63</geo>
+  </afp>
+  <afp name="dellar_num">
+    <geo __type="u16" __count="5">5 8 11 14 23</geo>
+  </afp>
+  <afp name="dget1">
+    <geo __type="u16" __count="6">5 8 11 14 19 43</geo>
+  </afp>
+  <afp name="dget2">
+    <geo __type="u16" __count="6">5 8 11 14 19 43</geo>
+  </afp>
+  <afp name="dget3">
+    <geo __type="u16" __count="6">5 8 11 14 19 43</geo>
+  </afp>
+  <afp name="dget4">
+    <geo __type="u16" __count="6">5 8 11 14 19 43</geo>
+  </afp>
+  <afp name="face_kira">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="fukidashi">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="hgup1">
+    <geo __type="u16" __count="4">5 10 16 22</geo>
+  </afp>
+  <afp name="hgup2">
+    <geo __type="u16" __count="4">5 10 16 22</geo>
+  </afp>
+  <afp name="info">
+    <geo __type="u16" __count="5">5 8 9 14 19</geo>
+  </afp>
+  <afp name="intro1">
+    <geo __type="u16" __count="16">5 8 11 14 17 20 23 29 32 35 38 41 44 47 50 53</geo>
+  </afp>
+  <afp name="lvup">
+    <geo __type="u16" __count="6">5 10 13 16 25 28</geo>
+  </afp>
+  <afp name="mget">
+    <geo __type="u16" __count="6">5 8 11 14 17 20</geo>
+  </afp>
+  <afp name="nextplay">
+    <geo __type="u16" __count="7">5 8 11 14 17 22 23</geo>
+  </afp>
+  <afp name="rader">
+    <geo __type="u16" __count="9">5 8 11 16 21 26 29 32 35</geo>
+  </afp>
+  <afp name="warning">
+    <geo __type="u16" __count="6">5 8 11 14 17 20</geo>
+  </afp>
+  <afp name="x_attack">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_aura">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_bg1">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_bg2">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_boss">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_boss_hp">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="x_boss_icon01">
+    <geo __type="u16" __count="5">5 10 15 20 25</geo>
+  </afp>
+  <afp name="x_boss_icon02">
+    <geo __type="u16" __count="5">5 10 15 20 25</geo>
+  </afp>
+  <afp name="x_boss_icon03">
+    <geo __type="u16" __count="5">5 10 15 20 25</geo>
+  </afp>
+  <afp name="x_boss_icon04">
+    <geo __type="u16" __count="5">5 10 15 20 25</geo>
+  </afp>
+  <afp name="x_boss_icon05">
+    <geo __type="u16" __count="5">5 10 15 20 25</geo>
+  </afp>
+  <afp name="x_boss_icon06">
+    <geo __type="u16" __count="5">5 10 15 20 25</geo>
+  </afp>
+  <afp name="x_boss_icon07">
+    <geo __type="u16" __count="5">5 10 15 20 25</geo>
+  </afp>
+  <afp name="x_boss_in">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_boss_status">
+    <geo __type="u16" __count="10">5 10 15 20 25 30 35 40 43 48</geo>
+  </afp>
+  <afp name="x_damage">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_damage1">
+    <geo __type="u16" __count="4">5 10 15 18</geo>
+  </afp>
+  <afp name="x_damage2">
+    <geo __type="u16" __count="4">5 10 15 18</geo>
+  </afp>
+  <afp name="x_damage3">
+    <geo __type="u16" __count="4">5 10 15 18</geo>
+  </afp>
+  <afp name="x_damage4">
+    <geo __type="u16" __count="4">5 10 15 18</geo>
+  </afp>
+  <afp name="x_damage5">
+    <geo __type="u16" __count="4">5 10 15 18</geo>
+  </afp>
+  <afp name="x_damage6">
+    <geo __type="u16" __count="4">5 10 15 18</geo>
+  </afp>
+  <afp name="x_dellar">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_dellar1">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_dellar2">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_dellar3">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_dellar4">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_dellar5">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_dellar6">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_dellar7">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_destroy">
+    <geo __type="u16" __count="9">5 8 11 14 20 23 26 32 35</geo>
+  </afp>
+  <afp name="x_exp">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_face_up">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_hairline">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_heroic1g">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="x_heroic2g">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="x_hgup_txt">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_micon">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="x_particle_b">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_particle_y">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_qpro00">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro01">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro02">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro03">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro04">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro05">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro06">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro07">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro08">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro09">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro10">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_qpro11">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="x_shiplight">
+    <geo __type="u16" __count="6">5 10 13 16 19 22</geo>
+  </afp>
+  <afp name="x_sp_attack">
+    <geo __type="u16" __count="11">5 8 13 19 22 25 28 34 37 40 47</geo>
+  </afp>
+  <afp name="x_spg_loop">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_upyaji">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+</afplist>

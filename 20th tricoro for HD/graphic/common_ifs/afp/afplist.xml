@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="cafe">
+    <geo __type="u16" __count="13">5 10 13 18 23 26 29 34 37 40 45 48 51</geo>
+  </afp>
+  <afp name="x_cafe">
+    <geo __type="u16" __count="13">5 10 13 18 23 26 29 34 37 40 45 48 51</geo>
+  </afp>
+  <afp name="deller">
+    <geo __type="u16" __count="5">5 8 13 16 19</geo>
+  </afp>
+  <afp name="effector">
+    <geo __type="u16" __count="4">5 8 11 16</geo>
+  </afp>
+  <afp name="help_button_first">
+    <geo __type="u16" __count="10">5 10 13 16 19 22 25 28 44 49</geo>
+  </afp>
+  <afp name="help_button_normal">
+    <geo __type="u16" __count="3">5 8 11</geo>
+  </afp>
+  <afp name="x_help_bg01">
+    <geo __type="u16" __count="4">5 10 13 16</geo>
+  </afp>
+  <afp name="x_help_in01">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="x_help_in02">
+    <geo __type="u16" __count="8">5 10 13 16 19 22 25 28</geo>
+  </afp>
+  <afp name="x_w_maru">
+    <geo __type="u16" __count="1">5</geo>
+  </afp>
+  <afp name="medal">
+    <geo __type="u16" __count="5">5 8 13 18 21</geo>
+  </afp>
+  <afp name="p_free">
+    <geo __type="u16" __count="8">5 10 13 18 21 24 27 28</geo>
+  </afp>
+  <afp name="player_1p">
+    <geo __type="u16" __count="24">5 8 9 14 17 20 23 26 29 32 35 38 41 44 47 50 53 56 59 63 66 69 72 75</geo>
+  </afp>
+  <afp name="player_1p_2p">
+    <geo __type="u16" __count="24">5 8 9 14 17 20 23 26 29 32 35 38 41 44 47 50 53 56 59 63 66 69 72 75</geo>
+  </afp>
+  <afp name="player_2p">
+    <geo __type="u16" __count="24">5 8 9 14 17 20 23 26 29 32 35 38 41 44 47 50 53 56 59 63 66 69 72 75</geo>
+  </afp>
+  <afp name="player_dp">
+    <geo __type="u16" __count="24">5 8 9 14 17 20 23 26 29 32 35 38 41 44 47 50 53 56 59 63 66 69 72 75</geo>
+  </afp>
+  <afp name="x_player_waku_01">
+    <geo __type="u16" __count="22">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 59 62 65 68 71</geo>
+  </afp>
+  <afp name="x_player_waku_02">
+    <geo __type="u16" __count="22">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 59 62 65 68 71</geo>
+  </afp>
+  <afp name="x_player_waku_1p2">
+    <geo __type="u16" __count="22">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 59 62 65 68 71</geo>
+  </afp>
+  <afp name="x_player_waku_dp_l">
+    <geo __type="u16" __count="22">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 59 62 65 68 71</geo>
+  </afp>
+  <afp name="x_player_waku_dp_r">
+    <geo __type="u16" __count="22">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 59 62 65 68 71</geo>
+  </afp>
+  <afp name="time">
+    <geo __type="u16" __count="10">5 8 11 14 19 24 27 30 33 36</geo>
+  </afp>
+</afplist>

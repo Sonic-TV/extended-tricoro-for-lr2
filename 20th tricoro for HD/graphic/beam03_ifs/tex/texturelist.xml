@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">128 512</size>
+    <image name="playm_bar_white">
+      <uvrect __type="4u16">2 70 2 966</uvrect>
+      <imgrect __type="4u16">0 72 0 968</imgrect>
+    </image>
+    <image name="playm_bar_turn">
+      <uvrect __type="4u16">74 194 2 966</uvrect>
+      <imgrect __type="4u16">72 196 0 968</imgrect>
+    </image>
+    <image name="playm_bar_black">
+      <uvrect __type="4u16">198 250 2 966</uvrect>
+      <imgrect __type="4u16">196 252 0 968</imgrect>
+    </image>
+  </texture>
+</texturelist>

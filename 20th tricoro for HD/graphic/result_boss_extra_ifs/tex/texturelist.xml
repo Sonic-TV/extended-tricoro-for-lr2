@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 512</size>
+    <image name="bg00">
+      <uvrect __type="4u16">2 1282 2 962</uvrect>
+      <imgrect __type="4u16">0 1284 0 964</imgrect>
+    </image>
+  </texture>
+</texturelist>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 512</size>
+    <image name="exp05_13">
+      <uvrect __type="4u16">2 362 2 334</uvrect>
+      <imgrect __type="4u16">0 364 0 336</imgrect>
+    </image>
+    <image name="exp05_12">
+      <uvrect __type="4u16">366 726 2 334</uvrect>
+      <imgrect __type="4u16">364 728 0 336</imgrect>
+    </image>
+    <image name="exp05_11">
+      <uvrect __type="4u16">2 362 338 670</uvrect>
+      <imgrect __type="4u16">0 364 336 672</imgrect>
+    </image>
+    <image name="exp05_10">
+      <uvrect __type="4u16">366 726 338 670</uvrect>
+      <imgrect __type="4u16">364 728 336 672</imgrect>
+    </image>
+    <image name="exp05_09">
+      <uvrect __type="4u16">2 362 674 1006</uvrect>
+      <imgrect __type="4u16">0 364 672 1008</imgrect>
+    </image>
+    <image name="exp05_08">
+      <uvrect __type="4u16">366 726 674 1006</uvrect>
+      <imgrect __type="4u16">364 728 672 1008</imgrect>
+    </image>
+    <image name="exp05_07">
+      <uvrect __type="4u16">730 1090 2 334</uvrect>
+      <imgrect __type="4u16">728 1092 0 336</imgrect>
+    </image>
+    <image name="exp05_06">
+      <uvrect __type="4u16">1094 1454 2 334</uvrect>
+      <imgrect __type="4u16">1092 1456 0 336</imgrect>
+    </image>
+    <image name="exp05_05">
+      <uvrect __type="4u16">1458 1818 2 334</uvrect>
+      <imgrect __type="4u16">1456 1820 0 336</imgrect>
+    </image>
+    <image name="exp05_04">
+      <uvrect __type="4u16">730 1090 338 670</uvrect>
+      <imgrect __type="4u16">728 1092 336 672</imgrect>
+    </image>
+    <image name="exp05_03">
+      <uvrect __type="4u16">1094 1454 338 670</uvrect>
+      <imgrect __type="4u16">1092 1456 336 672</imgrect>
+    </image>
+    <image name="exp05_02">
+      <uvrect __type="4u16">1458 1818 338 670</uvrect>
+      <imgrect __type="4u16">1456 1820 336 672</imgrect>
+    </image>
+    <image name="exp05_01">
+      <uvrect __type="4u16">730 1090 674 1006</uvrect>
+      <imgrect __type="4u16">728 1092 672 1008</imgrect>
+    </image>
+    <image name="exp05_00">
+      <uvrect __type="4u16">1094 1454 674 1006</uvrect>
+      <imgrect __type="4u16">1092 1456 672 1008</imgrect>
+    </image>
+  </texture>
+</texturelist>

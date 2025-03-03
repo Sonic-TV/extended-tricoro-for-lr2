@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 512</size>
+    <image name="ss_20th">
+      <uvrect __type="4u16">2 752 2 254</uvrect>
+      <imgrect __type="4u16">0 754 0 256</imgrect>
+    </image>
+    <image name="en_red">
+      <uvrect __type="4u16">38 510 258 730</uvrect>
+      <imgrect __type="4u16">36 512 256 732</imgrect>
+    </image>
+    <image name="en_blue5">
+      <uvrect __type="4u16">514 986 258 730</uvrect>
+      <imgrect __type="4u16">512 988 256 732</imgrect>
+    </image>
+    <image name="en_blue">
+      <uvrect __type="4u16">990 1462 2 474</uvrect>
+      <imgrect __type="4u16">988 1464 0 476</imgrect>
+    </image>
+  </texture>
+</texturelist>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="y_gra">
+      <uvrect __type="4u16">2 10 2 1286</uvrect>
+      <imgrect __type="4u16">0 12 0 1288</imgrect>
+    </image>
+    <image name="sky">
+      <uvrect __type="4u16">14 590 2 1282</uvrect>
+      <imgrect __type="4u16">12 592 0 1284</imgrect>
+    </image>
+    <image name="blue_wave">
+      <uvrect __type="4u16">594 1874 2 1282</uvrect>
+      <imgrect __type="4u16">592 1876 0 1284</imgrect>
+    </image>
+    <image name="lane_effect">
+      <uvrect __type="4u16">1878 1894 2 966</uvrect>
+      <imgrect __type="4u16">1876 1896 0 968</imgrect>
+    </image>
+    <image name="exp_b_glow">
+      <uvrect __type="4u16">14 930 1286 1588</uvrect>
+      <imgrect __type="4u16">12 932 1284 1590</imgrect>
+    </image>
+    <image name="sonic_wave">
+      <uvrect __type="4u16">934 1670 1286 1894</uvrect>
+      <imgrect __type="4u16">932 1672 1284 1896</imgrect>
+    </image>
+    <image name="fl_laser">
+      <uvrect __type="4u16">1898 1902 2 696</uvrect>
+      <imgrect __type="4u16">1896 1904 0 698</imgrect>
+    </image>
+    <image name="txt_combo">
+      <uvrect __type="4u16">2 550 1592 1684</uvrect>
+      <imgrect __type="4u16">0 552 1590 1686</imgrect>
+    </image>
+    <image name="txt_combo_flash">
+      <uvrect __type="4u16">2 490 1688 1736</uvrect>
+      <imgrect __type="4u16">0 492 1686 1738</imgrect>
+    </image>
+    <image name="txt_full">
+      <uvrect __type="4u16">494 928 1688 1780</uvrect>
+      <imgrect __type="4u16">492 930 1686 1782</imgrect>
+    </image>
+    <image name="ef_txtmini2">
+      <uvrect __type="4u16">2 386 1740 1764</uvrect>
+      <imgrect __type="4u16">0 388 1738 1766</imgrect>
+    </image>
+    <image name="txt_full_flash">
+      <uvrect __type="4u16">2 382 1768 1816</uvrect>
+      <imgrect __type="4u16">0 384 1766 1818</imgrect>
+    </image>
+    <image name="up_yaji">
+      <uvrect __type="4u16">1898 2046 700 814</uvrect>
+      <imgrect __type="4u16">1896 2048 698 816</imgrect>
+    </image>
+    <image name="txt_flash_u">
+      <uvrect __type="4u16">1906 2026 2 66</uvrect>
+      <imgrect __type="4u16">1904 2028 0 68</imgrect>
+    </image>
+    <image name="txt_flash_o">
+      <uvrect __type="4u16">1906 2026 70 134</uvrect>
+      <imgrect __type="4u16">1904 2028 68 136</imgrect>
+    </image>
+    <image name="txt_flash_m">
+      <uvrect __type="4u16">1906 2026 138 202</uvrect>
+      <imgrect __type="4u16">1904 2028 136 204</imgrect>
+    </image>
+    <image name="txt_flash_f">
+      <uvrect __type="4u16">1906 2026 206 270</uvrect>
+      <imgrect __type="4u16">1904 2028 204 272</imgrect>
+    </image>
+    <image name="txt_flash_c">
+      <uvrect __type="4u16">1906 2026 274 338</uvrect>
+      <imgrect __type="4u16">1904 2028 272 340</imgrect>
+    </image>
+    <image name="txt_flash_b">
+      <uvrect __type="4u16">1906 2022 342 406</uvrect>
+      <imgrect __type="4u16">1904 2024 340 408</imgrect>
+    </image>
+    <image name="txt_flash_l">
+      <uvrect __type="4u16">1906 2014 410 474</uvrect>
+      <imgrect __type="4u16">1904 2016 408 476</imgrect>
+    </image>
+    <image name="particle_mini_blue">
+      <uvrect __type="4u16">1906 1960 478 540</uvrect>
+      <imgrect __type="4u16">1904 1962 476 542</imgrect>
+    </image>
+    <image name="tx_y">
+      <uvrect __type="4u16">1964 2024 478 518</uvrect>
+      <imgrect __type="4u16">1962 2026 476 520</imgrect>
+    </image>
+    <image name="tx_p">
+      <uvrect __type="4u16">1964 2024 522 562</uvrect>
+      <imgrect __type="4u16">1962 2026 520 564</imgrect>
+    </image>
+    <image name="tx_h">
+      <uvrect __type="4u16">1906 1966 566 606</uvrect>
+      <imgrect __type="4u16">1904 1968 564 608</imgrect>
+    </image>
+    <image name="tx_a">
+      <uvrect __type="4u16">1970 2030 566 606</uvrect>
+      <imgrect __type="4u16">1968 2032 564 608</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex001" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">256 256</size>
+    <image name="exp_effect">
+      <uvrect __type="4u16">2 402 2 348</uvrect>
+      <imgrect __type="4u16">0 404 0 350</imgrect>
+    </image>
+  </texture>
+</texturelist>

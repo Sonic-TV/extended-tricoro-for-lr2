@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="exp05">
+    <geo __type="u16" __count="15">5 10 13 16 19 22 25 28 31 34 37 40 43 46 49</geo>
+  </afp>
+</afplist>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<afplist>
+  <afp name="bpm">
+    <geo __type="u16" __count="5">5 8 13 16 21</geo>
+  </afp>
+  <afp name="category_change">
+    <geo __type="u16" __count="3">5 10 15</geo>
+  </afp>
+  <afp name="clearrate">
+    <geo __type="u16" __count="8">5 8 13 19 24 29 34 39</geo>
+  </afp>
+  <afp name="clearrate_2pp">
+    <geo __type="u16" __count="10">5 8 13 16 21 26 31 36 39 42</geo>
+  </afp>
+  <afp name="diff_base">
+    <geo __type="u16" __count="13">5 8 13 19 25 31 37 40 43 46 49 52 55</geo>
+  </afp>
+  <afp name="mlist_sel">
+    <geo __type="u16" __count="3">5 8 11</geo>
+  </afp>
+  <afp name="music_in_top">
+    <geo __type="u16" __count="6">5 10 13 16 19 29</geo>
+  </afp>
+  <afp name="music_number">
+    <geo __type="u16" __count="3">5 10 13</geo>
+  </afp>
+  <afp name="number_in">
+    <geo __type="u16" __count="3">5 8 13</geo>
+  </afp>
+  <afp name="select_diff">
+    <geo __type="u16" __count="6">5 8 11 14 19 30</geo>
+  </afp>
+  <afp name="select_diff_1p">
+    <geo __type="u16" __count="6">5 8 11 14 19 30</geo>
+  </afp>
+  <afp name="select_diff_2p">
+    <geo __type="u16" __count="6">5 8 11 14 19 30</geo>
+  </afp>
+  <afp name="select_diff_2pp">
+    <geo __type="u16" __count="6">5 8 11 14 19 30</geo>
+  </afp>
+  <afp name="sound_info">
+    <geo __type="u16" __count="3">5 8 11</geo>
+  </afp>
+  <afp name="x_clearrate">
+    <geo __type="u16" __count="6">5 10 15 20 25 30</geo>
+  </afp>
+  <afp name="x_clearrate_1p_line">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_clearrate_2pp">
+    <geo __type="u16" __count="8">5 10 15 20 25 30 33 36</geo>
+  </afp>
+  <afp name="x_diff_frame">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_difficulty">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_music_sel">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_sel_waku_in">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_timer_frame">
+    <geo __type="u16" __count="5">5 10 13 16 19</geo>
+  </afp>
+  <afp name="x_txt_another">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_txt_hyper">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_txt_normal">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+  <afp name="x_waku_normal_flash">
+    <geo __type="u16" __count="2">5 10</geo>
+  </afp>
+</afplist>

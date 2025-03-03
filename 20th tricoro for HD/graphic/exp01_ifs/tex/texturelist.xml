@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 512</size>
+    <image name="exp01_07">
+      <uvrect __type="4u16">2 330 2 354</uvrect>
+      <imgrect __type="4u16">0 332 0 356</imgrect>
+    </image>
+    <image name="exp01_06">
+      <uvrect __type="4u16">334 662 2 354</uvrect>
+      <imgrect __type="4u16">332 664 0 356</imgrect>
+    </image>
+    <image name="exp01_05">
+      <uvrect __type="4u16">666 994 2 354</uvrect>
+      <imgrect __type="4u16">664 996 0 356</imgrect>
+    </image>
+    <image name="exp01_04">
+      <uvrect __type="4u16">2 330 358 710</uvrect>
+      <imgrect __type="4u16">0 332 356 712</imgrect>
+    </image>
+    <image name="exp01_03">
+      <uvrect __type="4u16">334 662 358 710</uvrect>
+      <imgrect __type="4u16">332 664 356 712</imgrect>
+    </image>
+    <image name="exp01_02">
+      <uvrect __type="4u16">666 994 358 710</uvrect>
+      <imgrect __type="4u16">664 996 356 712</imgrect>
+    </image>
+    <image name="exp01_01">
+      <uvrect __type="4u16">998 1326 2 354</uvrect>
+      <imgrect __type="4u16">996 1328 0 356</imgrect>
+    </image>
+    <image name="exp01_00">
+      <uvrect __type="4u16">1330 1658 2 354</uvrect>
+      <imgrect __type="4u16">1328 1660 0 356</imgrect>
+    </image>
+  </texture>
+</texturelist>

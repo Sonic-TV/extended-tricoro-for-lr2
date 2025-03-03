@@ -1,0 +1,530 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="basicframe_parts02_y">
+      <uvrect __type="4u16">2 2918 2 226</uvrect>
+      <imgrect __type="4u16">0 2920 0 228</imgrect>
+    </image>
+    <image name="basicframe_parts02_r">
+      <uvrect __type="4u16">2 2918 230 454</uvrect>
+      <imgrect __type="4u16">0 2920 228 456</imgrect>
+    </image>
+    <image name="basicframe_parts02_b">
+      <uvrect __type="4u16">2 2918 458 682</uvrect>
+      <imgrect __type="4u16">0 2920 456 684</imgrect>
+    </image>
+    <image name="basicframe_parts02">
+      <uvrect __type="4u16">2 2918 686 910</uvrect>
+      <imgrect __type="4u16">0 2920 684 912</imgrect>
+    </image>
+    <image name="laser3_y">
+      <uvrect __type="4u16">2 2562 914 1048</uvrect>
+      <imgrect __type="4u16">0 2564 912 1050</imgrect>
+    </image>
+    <image name="laser3_r">
+      <uvrect __type="4u16">2 2562 1052 1186</uvrect>
+      <imgrect __type="4u16">0 2564 1050 1188</imgrect>
+    </image>
+    <image name="laser3_b">
+      <uvrect __type="4u16">2 2562 1190 1324</uvrect>
+      <imgrect __type="4u16">0 2564 1188 1326</imgrect>
+    </image>
+    <image name="laser2_y">
+      <uvrect __type="4u16">2 2562 1328 1472</uvrect>
+      <imgrect __type="4u16">0 2564 1326 1474</imgrect>
+    </image>
+    <image name="laser2_r">
+      <uvrect __type="4u16">2 2562 1476 1620</uvrect>
+      <imgrect __type="4u16">0 2564 1474 1622</imgrect>
+    </image>
+    <image name="laser2_b">
+      <uvrect __type="4u16">2 2562 1624 1768</uvrect>
+      <imgrect __type="4u16">0 2564 1622 1770</imgrect>
+    </image>
+    <image name="laser1_y">
+      <uvrect __type="4u16">2 2562 1772 1964</uvrect>
+      <imgrect __type="4u16">0 2564 1770 1966</imgrect>
+    </image>
+    <image name="basicframe_parts07">
+      <uvrect __type="4u16">2 1674 1968 2022</uvrect>
+      <imgrect __type="4u16">0 1676 1966 2024</imgrect>
+    </image>
+    <image name="help_t02_2p">
+      <uvrect __type="4u16">2922 4090 2 78</uvrect>
+      <imgrect __type="4u16">2920 4092 0 80</imgrect>
+    </image>
+    <image name="txt_info_code1">
+      <uvrect __type="4u16">2922 4086 82 132</uvrect>
+      <imgrect __type="4u16">2920 4088 80 134</imgrect>
+    </image>
+    <image name="help_t02">
+      <uvrect __type="4u16">2922 4066 136 212</uvrect>
+      <imgrect __type="4u16">2920 4068 134 214</imgrect>
+    </image>
+    <image name="txt_info_diff_2pp">
+      <uvrect __type="4u16">2922 3962 216 266</uvrect>
+      <imgrect __type="4u16">2920 3964 214 268</imgrect>
+    </image>
+    <image name="basicframe_parts09">
+      <uvrect __type="4u16">2922 3954 270 406</uvrect>
+      <imgrect __type="4u16">2920 3956 268 408</imgrect>
+    </image>
+    <image name="decide_ring5">
+      <uvrect __type="4u16">2922 3894 410 1382</uvrect>
+      <imgrect __type="4u16">2920 3896 408 1384</imgrect>
+    </image>
+    <image name="decide_p_waku">
+      <uvrect __type="4u16">2566 3428 1386 1560</uvrect>
+      <imgrect __type="4u16">2564 3430 1384 1562</imgrect>
+    </image>
+    <image name="txt_info_gameoption">
+      <uvrect __type="4u16">2566 3412 1564 1614</uvrect>
+      <imgrect __type="4u16">2564 3414 1562 1616</imgrect>
+    </image>
+    <image name="t_yellowboss_sel">
+      <uvrect __type="4u16">2566 3246 1618 1724</uvrect>
+      <imgrect __type="4u16">2564 3248 1616 1726</imgrect>
+    </image>
+    <image name="t_redboss_sel">
+      <uvrect __type="4u16">3250 3930 1618 1724</uvrect>
+      <imgrect __type="4u16">3248 3932 1616 1726</imgrect>
+    </image>
+    <image name="txt_info_diff">
+      <uvrect __type="4u16">3416 4088 1564 1614</uvrect>
+      <imgrect __type="4u16">3414 4090 1562 1616</imgrect>
+    </image>
+    <image name="lens_f_blue">
+      <uvrect __type="4u16">2566 3234 1728 1928</uvrect>
+      <imgrect __type="4u16">2564 3236 1726 1930</imgrect>
+    </image>
+    <image name="t_blueboss_sel">
+      <uvrect __type="4u16">3432 4072 1386 1530</uvrect>
+      <imgrect __type="4u16">3430 4074 1384 1532</imgrect>
+    </image>
+    <image name="style_sp">
+      <uvrect __type="4u16">3238 3858 1728 1856</uvrect>
+      <imgrect __type="4u16">3236 3860 1726 1858</imgrect>
+    </image>
+    <image name="style_dp">
+      <uvrect __type="4u16">3238 3858 1860 1988</uvrect>
+      <imgrect __type="4u16">3236 3860 1858 1990</imgrect>
+    </image>
+    <image name="t_music_sel">
+      <uvrect __type="4u16">2566 3176 1932 2038</uvrect>
+      <imgrect __type="4u16">2564 3178 1930 2040</imgrect>
+    </image>
+    <image name="txt_ult">
+      <uvrect __type="4u16">3432 4040 1534 1554</uvrect>
+      <imgrect __type="4u16">3430 4042 1532 1556</imgrect>
+    </image>
+    <image name="txt_info_code2">
+      <uvrect __type="4u16">1678 2274 1968 2020</uvrect>
+      <imgrect __type="4u16">1676 2276 1966 2022</imgrect>
+    </image>
+    <image name="txt_info_operation">
+      <uvrect __type="4u16">3180 3756 1992 2042</uvrect>
+      <imgrect __type="4u16">3178 3758 1990 2044</imgrect>
+    </image>
+    <image name="decide_diff_n">
+      <uvrect __type="4u16">2566 2910 914 1018</uvrect>
+      <imgrect __type="4u16">2564 2912 912 1020</imgrect>
+    </image>
+    <image name="decide_diff_h">
+      <uvrect __type="4u16">2566 2910 1022 1126</uvrect>
+      <imgrect __type="4u16">2564 2912 1020 1128</imgrect>
+    </image>
+    <image name="decide_diff_a">
+      <uvrect __type="4u16">2566 2910 1130 1234</uvrect>
+      <imgrect __type="4u16">2564 2912 1128 1236</imgrect>
+    </image>
+    <image name="txt_info">
+      <uvrect __type="4u16">2566 2908 1238 1290</uvrect>
+      <imgrect __type="4u16">2564 2910 1236 1292</imgrect>
+    </image>
+    <image name="red_grade">
+      <uvrect __type="4u16">4070 4086 136 468</uvrect>
+      <imgrect __type="4u16">4068 4088 134 470</imgrect>
+    </image>
+    <image name="txt_vefx_sector_flash">
+      <uvrect __type="4u16">2566 2886 1294 1342</uvrect>
+      <imgrect __type="4u16">2564 2888 1292 1344</imgrect>
+    </image>
+    <image name="frame_shadow">
+      <uvrect __type="4u16">3966 3982 216 516</uvrect>
+      <imgrect __type="4u16">3964 3984 214 518</imgrect>
+    </image>
+    <image name="help_bg02">
+      <uvrect __type="4u16">3986 4050 216 464</uvrect>
+      <imgrect __type="4u16">3984 4052 214 466</imgrect>
+    </image>
+    <image name="txt_info_diff_flash">
+      <uvrect __type="4u16">3862 4080 1728 1778</uvrect>
+      <imgrect __type="4u16">3860 4082 1726 1780</imgrect>
+    </image>
+    <image name="txt_info_code1_flash">
+      <uvrect __type="4u16">3862 4066 1782 1834</uvrect>
+      <imgrect __type="4u16">3860 4068 1780 1836</imgrect>
+    </image>
+    <image name="basicframe_parts04_joint">
+      <uvrect __type="4u16">3898 4090 520 548</uvrect>
+      <imgrect __type="4u16">3896 4092 518 550</imgrect>
+    </image>
+    <image name="t_flash_omega">
+      <uvrect __type="4u16">3898 4030 552 680</uvrect>
+      <imgrect __type="4u16">3896 4032 550 682</imgrect>
+    </image>
+    <image name="t_flash_m">
+      <uvrect __type="4u16">3898 3996 684 768</uvrect>
+      <imgrect __type="4u16">3896 3998 682 770</imgrect>
+    </image>
+    <image name="t_flash_d">
+      <uvrect __type="4u16">3898 3996 772 856</uvrect>
+      <imgrect __type="4u16">3896 3998 770 858</imgrect>
+    </image>
+    <image name="t_flash_c">
+      <uvrect __type="4u16">3898 3996 860 944</uvrect>
+      <imgrect __type="4u16">3896 3998 858 946</imgrect>
+    </image>
+    <image name="op_key_mini_glow">
+      <uvrect __type="4u16">4000 4088 684 772</uvrect>
+      <imgrect __type="4u16">3998 4090 682 774</imgrect>
+    </image>
+    <image name="counter_14">
+      <uvrect __type="4u16">3986 4074 472 488</uvrect>
+      <imgrect __type="4u16">3984 4076 470 490</imgrect>
+    </image>
+    <image name="counter_13">
+      <uvrect __type="4u16">3986 4074 492 508</uvrect>
+      <imgrect __type="4u16">3984 4076 490 510</imgrect>
+    </image>
+    <image name="counter_12">
+      <uvrect __type="4u16">4000 4088 776 792</uvrect>
+      <imgrect __type="4u16">3998 4090 774 794</imgrect>
+    </image>
+    <image name="counter_11">
+      <uvrect __type="4u16">4000 4088 796 812</uvrect>
+      <imgrect __type="4u16">3998 4090 794 814</imgrect>
+    </image>
+    <image name="counter_10">
+      <uvrect __type="4u16">4000 4088 816 832</uvrect>
+      <imgrect __type="4u16">3998 4090 814 834</imgrect>
+    </image>
+    <image name="counter_09">
+      <uvrect __type="4u16">4000 4088 836 852</uvrect>
+      <imgrect __type="4u16">3998 4090 834 854</imgrect>
+    </image>
+    <image name="counter_08">
+      <uvrect __type="4u16">4000 4088 856 872</uvrect>
+      <imgrect __type="4u16">3998 4090 854 874</imgrect>
+    </image>
+    <image name="counter_07">
+      <uvrect __type="4u16">4000 4088 876 892</uvrect>
+      <imgrect __type="4u16">3998 4090 874 894</imgrect>
+    </image>
+    <image name="counter_06">
+      <uvrect __type="4u16">4000 4088 896 912</uvrect>
+      <imgrect __type="4u16">3998 4090 894 914</imgrect>
+    </image>
+    <image name="counter_05">
+      <uvrect __type="4u16">4000 4088 916 932</uvrect>
+      <imgrect __type="4u16">3998 4090 914 934</imgrect>
+    </image>
+    <image name="counter_04">
+      <uvrect __type="4u16">4000 4088 936 952</uvrect>
+      <imgrect __type="4u16">3998 4090 934 954</imgrect>
+    </image>
+    <image name="counter_03">
+      <uvrect __type="4u16">3898 3986 948 964</uvrect>
+      <imgrect __type="4u16">3896 3988 946 966</imgrect>
+    </image>
+    <image name="counter_02">
+      <uvrect __type="4u16">3990 4078 956 972</uvrect>
+      <imgrect __type="4u16">3988 4080 954 974</imgrect>
+    </image>
+    <image name="counter_01">
+      <uvrect __type="4u16">3898 3986 968 984</uvrect>
+      <imgrect __type="4u16">3896 3988 966 986</imgrect>
+    </image>
+    <image name="counter_00">
+      <uvrect __type="4u16">3990 4078 976 992</uvrect>
+      <imgrect __type="4u16">3988 4080 974 994</imgrect>
+    </image>
+    <image name="t_sel_dot_yellow">
+      <uvrect __type="4u16">3898 3970 988 1020</uvrect>
+      <imgrect __type="4u16">3896 3972 986 1022</imgrect>
+    </image>
+    <image name="t_sel_dot_blue">
+      <uvrect __type="4u16">3974 4046 996 1028</uvrect>
+      <imgrect __type="4u16">3972 4048 994 1030</imgrect>
+    </image>
+    <image name="t_sel_dot">
+      <uvrect __type="4u16">3898 3970 1024 1056</uvrect>
+      <imgrect __type="4u16">3896 3972 1022 1058</imgrect>
+    </image>
+    <image name="t_redboss_sel_dot">
+      <uvrect __type="4u16">3974 4046 1032 1064</uvrect>
+      <imgrect __type="4u16">3972 4048 1030 1066</imgrect>
+    </image>
+    <image name="3laser_y">
+      <uvrect __type="4u16">3898 3946 410 466</uvrect>
+      <imgrect __type="4u16">3896 3948 408 468</imgrect>
+    </image>
+    <image name="3laser_r">
+      <uvrect __type="4u16">4034 4082 552 608</uvrect>
+      <imgrect __type="4u16">4032 4084 550 610</imgrect>
+    </image>
+    <image name="3laser_b">
+      <uvrect __type="4u16">4034 4082 612 668</uvrect>
+      <imgrect __type="4u16">4032 4084 610 670</imgrect>
+    </image>
+    <image name="t_flash_dot_b">
+      <uvrect __type="4u16">3898 3948 470 486</uvrect>
+      <imgrect __type="4u16">3896 3950 468 488</imgrect>
+    </image>
+    <image name="t_flash_dot">
+      <uvrect __type="4u16">3898 3948 490 510</uvrect>
+      <imgrect __type="4u16">3896 3950 488 512</imgrect>
+    </image>
+    <image name="3laser_w">
+      <uvrect __type="4u16">4050 4090 996 1044</uvrect>
+      <imgrect __type="4u16">4048 4092 994 1046</imgrect>
+    </image>
+    <image name="op_key_mini">
+      <uvrect __type="4u16">4050 4094 1048 1094</uvrect>
+      <imgrect __type="4u16">4048 4096 1046 1096</imgrect>
+    </image>
+    <image name="help_red01">
+      <uvrect __type="4u16">4078 4094 472 500</uvrect>
+      <imgrect __type="4u16">4076 4096 470 502</imgrect>
+    </image>
+    <image name="help_red03">
+      <uvrect __type="4u16">3898 3922 1060 1084</uvrect>
+      <imgrect __type="4u16">3896 3924 1058 1086</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex001" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="laser1_r">
+      <uvrect __type="4u16">2 2562 2 194</uvrect>
+      <imgrect __type="4u16">0 2564 0 196</imgrect>
+    </image>
+    <image name="laser1_b">
+      <uvrect __type="4u16">2 2562 198 390</uvrect>
+      <imgrect __type="4u16">0 2564 196 392</imgrect>
+    </image>
+    <image name="hex_field">
+      <uvrect __type="4u16">2 2562 394 1834</uvrect>
+      <imgrect __type="4u16">0 2564 392 1836</imgrect>
+    </image>
+    <image name="basicframe_parts01_y">
+      <uvrect __type="4u16">2 2298 1838 2046</uvrect>
+      <imgrect __type="4u16">0 2300 1836 2048</imgrect>
+    </image>
+    <image name="basicframe_parts03">
+      <uvrect __type="4u16">2302 4046 1838 2022</uvrect>
+      <imgrect __type="4u16">2300 4048 1836 2024</imgrect>
+    </image>
+    <image name="decide_ring8">
+      <uvrect __type="4u16">2566 3804 2 1240</uvrect>
+      <imgrect __type="4u16">2564 3806 0 1242</imgrect>
+    </image>
+    <image name="basicframe_parts00_y">
+      <uvrect __type="4u16">2566 3218 1244 1606</uvrect>
+      <imgrect __type="4u16">2564 3220 1242 1608</imgrect>
+    </image>
+    <image name="basicframe_parts00_b">
+      <uvrect __type="4u16">3222 3874 1244 1606</uvrect>
+      <imgrect __type="4u16">3220 3876 1242 1608</imgrect>
+    </image>
+    <image name="style_2p">
+      <uvrect __type="4u16">2566 3186 1610 1738</uvrect>
+      <imgrect __type="4u16">2564 3188 1608 1740</imgrect>
+    </image>
+    <image name="stage_sector_b">
+      <uvrect __type="4u16">3190 3810 1610 1738</uvrect>
+      <imgrect __type="4u16">3188 3812 1608 1740</imgrect>
+    </image>
+    <image name="txt_vefx_sector">
+      <uvrect __type="4u16">2566 3114 1742 1794</uvrect>
+      <imgrect __type="4u16">2564 3116 1740 1796</imgrect>
+    </image>
+    <image name="help_close02">
+      <uvrect __type="4u16">3118 3610 1742 1826</uvrect>
+      <imgrect __type="4u16">3116 3612 1740 1828</imgrect>
+    </image>
+    <image name="txt_info_end">
+      <uvrect __type="4u16">3614 4090 1742 1792</uvrect>
+      <imgrect __type="4u16">3612 4092 1740 1794</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex002" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="basicframe_parts01_r">
+      <uvrect __type="4u16">2 2298 2 210</uvrect>
+      <imgrect __type="4u16">0 2300 0 212</imgrect>
+    </image>
+    <image name="basicframe_parts01_b">
+      <uvrect __type="4u16">2 2298 214 422</uvrect>
+      <imgrect __type="4u16">0 2300 212 424</imgrect>
+    </image>
+    <image name="basicframe_parts01">
+      <uvrect __type="4u16">2 2298 426 634</uvrect>
+      <imgrect __type="4u16">0 2300 424 636</imgrect>
+    </image>
+    <image name="basicframe_parts05_y">
+      <uvrect __type="4u16">2 1922 638 850</uvrect>
+      <imgrect __type="4u16">0 1924 636 852</imgrect>
+    </image>
+    <image name="basicframe_parts05_r">
+      <uvrect __type="4u16">1926 3846 638 850</uvrect>
+      <imgrect __type="4u16">1924 3848 636 852</imgrect>
+    </image>
+    <image name="basicframe_parts05_b">
+      <uvrect __type="4u16">2 1922 854 1066</uvrect>
+      <imgrect __type="4u16">0 1924 852 1068</imgrect>
+    </image>
+    <image name="basicframe_parts05">
+      <uvrect __type="4u16">1926 3846 854 1066</uvrect>
+      <imgrect __type="4u16">1924 3848 852 1068</imgrect>
+    </image>
+    <image name="basicframe_parts04_y">
+      <uvrect __type="4u16">2 1898 1070 1310</uvrect>
+      <imgrect __type="4u16">0 1900 1068 1312</imgrect>
+    </image>
+    <image name="basicframe_parts04_r">
+      <uvrect __type="4u16">1902 3798 1070 1310</uvrect>
+      <imgrect __type="4u16">1900 3800 1068 1312</imgrect>
+    </image>
+    <image name="basicframe_parts04_b">
+      <uvrect __type="4u16">2 1898 1314 1554</uvrect>
+      <imgrect __type="4u16">0 1900 1312 1556</imgrect>
+    </image>
+    <image name="basicframe_parts04">
+      <uvrect __type="4u16">1902 3798 1314 1554</uvrect>
+      <imgrect __type="4u16">1900 3800 1312 1556</imgrect>
+    </image>
+    <image name="basicframe_parts10">
+      <uvrect __type="4u16">2302 3932 2 172</uvrect>
+      <imgrect __type="4u16">2300 3934 0 174</imgrect>
+    </image>
+    <image name="basicframe_parts08">
+      <uvrect __type="4u16">2302 3932 176 318</uvrect>
+      <imgrect __type="4u16">2300 3934 174 320</imgrect>
+    </image>
+    <image name="basicframe_parts06">
+      <uvrect __type="4u16">2302 3898 322 526</uvrect>
+      <imgrect __type="4u16">2300 3900 320 528</imgrect>
+    </image>
+    <image name="basicframe_parts00">
+      <uvrect __type="4u16">2 654 1558 1920</uvrect>
+      <imgrect __type="4u16">0 656 1556 1922</imgrect>
+    </image>
+    <image name="stage_sector_a">
+      <uvrect __type="4u16">658 1278 1558 1686</uvrect>
+      <imgrect __type="4u16">656 1280 1556 1688</imgrect>
+    </image>
+    <image name="stage_final">
+      <uvrect __type="4u16">1282 1902 1558 1686</uvrect>
+      <imgrect __type="4u16">1280 1904 1556 1688</imgrect>
+    </image>
+    <image name="stage_extra">
+      <uvrect __type="4u16">1906 2526 1558 1686</uvrect>
+      <imgrect __type="4u16">1904 2528 1556 1688</imgrect>
+    </image>
+    <image name="stage_4th">
+      <uvrect __type="4u16">2530 3150 1558 1686</uvrect>
+      <imgrect __type="4u16">2528 3152 1556 1688</imgrect>
+    </image>
+    <image name="stage_3rd">
+      <uvrect __type="4u16">3154 3774 1558 1686</uvrect>
+      <imgrect __type="4u16">3152 3776 1556 1688</imgrect>
+    </image>
+    <image name="stage_2nd">
+      <uvrect __type="4u16">658 1278 1690 1818</uvrect>
+      <imgrect __type="4u16">656 1280 1688 1820</imgrect>
+    </image>
+    <image name="stage_1st">
+      <uvrect __type="4u16">1282 1902 1690 1818</uvrect>
+      <imgrect __type="4u16">1280 1904 1688 1820</imgrect>
+    </image>
+    <image name="t_dan_sel">
+      <uvrect __type="4u16">1906 2516 1690 1796</uvrect>
+      <imgrect __type="4u16">1904 2518 1688 1798</imgrect>
+    </image>
+    <image name="t_vip">
+      <uvrect __type="4u16">2302 2906 530 630</uvrect>
+      <imgrect __type="4u16">2300 2908 528 632</imgrect>
+    </image>
+    <image name="t_mode">
+      <uvrect __type="4u16">2910 3514 530 630</uvrect>
+      <imgrect __type="4u16">2908 3516 528 632</imgrect>
+    </image>
+    <image name="txt_info_change_flash">
+      <uvrect __type="4u16">3518 3958 530 580</uvrect>
+      <imgrect __type="4u16">3516 3960 528 582</imgrect>
+    </image>
+    <image name="help_t03">
+      <uvrect __type="4u16">2520 2960 1690 1766</uvrect>
+      <imgrect __type="4u16">2518 2962 1688 1768</imgrect>
+    </image>
+    <image name="txt_info_gameoption_flash">
+      <uvrect __type="4u16">3518 3888 584 634</uvrect>
+      <imgrect __type="4u16">3516 3890 582 636</imgrect>
+    </image>
+    <image name="txt_info_code2_flash">
+      <uvrect __type="4u16">2964 3320 1690 1742</uvrect>
+      <imgrect __type="4u16">2962 3322 1688 1744</imgrect>
+    </image>
+    <image name="decide_ring3">
+      <uvrect __type="4u16">3324 3656 1690 2022</uvrect>
+      <imgrect __type="4u16">3322 3658 1688 2024</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex003" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 2048</size>
+    <image name="decide_ring9">
+      <uvrect __type="4u16">2 2050 2 2050</uvrect>
+      <imgrect __type="4u16">0 2052 0 2052</imgrect>
+    </image>
+    <image name="decide_ring11">
+      <uvrect __type="4u16">2054 4054 2 2002</uvrect>
+      <imgrect __type="4u16">2052 4056 0 2004</imgrect>
+    </image>
+    <image name="decide_ring10">
+      <uvrect __type="4u16">2054 4054 2006 4006</uvrect>
+      <imgrect __type="4u16">2052 4056 2004 4008</imgrect>
+    </image>
+    <image name="glow_3c">
+      <uvrect __type="4u16">2 1570 2054 3620</uvrect>
+      <imgrect __type="4u16">0 1572 2052 3622</imgrect>
+    </image>
+    <image name="decide_ring2">
+      <uvrect __type="4u16">1574 2002 2054 2482</uvrect>
+      <imgrect __type="4u16">1572 2004 2052 2484</imgrect>
+    </image>
+    <image name="decide_ring7">
+      <uvrect __type="4u16">1574 1954 2486 2866</uvrect>
+      <imgrect __type="4u16">1572 1956 2484 2868</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex004" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="decide_ring6">
+      <uvrect __type="4u16">2 898 2 898</uvrect>
+      <imgrect __type="4u16">0 900 0 900</imgrect>
+    </image>
+    <image name="decide_ring4">
+      <uvrect __type="4u16">902 1774 2 874</uvrect>
+      <imgrect __type="4u16">900 1776 0 876</imgrect>
+    </image>
+    <image name="decide_ring1">
+      <uvrect __type="4u16">902 1502 878 1478</uvrect>
+      <imgrect __type="4u16">900 1504 876 1480</imgrect>
+    </image>
+    <image name="naname_txt1">
+      <uvrect __type="4u16">2 578 902 1410</uvrect>
+      <imgrect __type="4u16">0 580 900 1412</imgrect>
+    </image>
+  </texture>
+</texturelist>

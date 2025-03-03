@@ -1,0 +1,2421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">2048 1024</size>
+    <image name="story_blue00_bg">
+      <uvrect __type="4u16">2 2562 2 1442</uvrect>
+      <imgrect __type="4u16">0 2564 0 1444</imgrect>
+    </image>
+    <image name="bg_prg_grd">
+      <uvrect __type="4u16">2566 2586 2 1442</uvrect>
+      <imgrect __type="4u16">2564 2588 0 1444</imgrect>
+    </image>
+    <image name="information_window">
+      <uvrect __type="4u16">2590 3928 2 626</uvrect>
+      <imgrect __type="4u16">2588 3930 0 628</imgrect>
+    </image>
+    <image name="bg_pcroom_win00_01">
+      <uvrect __type="4u16">2590 3888 630 1582</uvrect>
+      <imgrect __type="4u16">2588 3890 628 1584</imgrect>
+    </image>
+    <image name="bg_pcroom_yuka">
+      <uvrect __type="4u16">2 1282 1446 1780</uvrect>
+      <imgrect __type="4u16">0 1284 1444 1782</imgrect>
+    </image>
+    <image name="info_tx01_06">
+      <uvrect __type="4u16">1286 2554 1446 1502</uvrect>
+      <imgrect __type="4u16">1284 2556 1444 1504</imgrect>
+    </image>
+    <image name="info_tx06_07">
+      <uvrect __type="4u16">1286 2542 1506 1562</uvrect>
+      <imgrect __type="4u16">1284 2544 1504 1564</imgrect>
+    </image>
+    <image name="info_tx03_07">
+      <uvrect __type="4u16">1286 2530 1566 1622</uvrect>
+      <imgrect __type="4u16">1284 2532 1564 1624</imgrect>
+    </image>
+    <image name="info_tx00_08">
+      <uvrect __type="4u16">2534 3766 1586 1642</uvrect>
+      <imgrect __type="4u16">2532 3768 1584 1644</imgrect>
+    </image>
+    <image name="info_tx05_04">
+      <uvrect __type="4u16">1286 2514 1626 1682</uvrect>
+      <imgrect __type="4u16">1284 2516 1624 1684</imgrect>
+    </image>
+    <image name="info_tx03_04">
+      <uvrect __type="4u16">2518 3738 1646 1702</uvrect>
+      <imgrect __type="4u16">2516 3740 1644 1704</imgrect>
+    </image>
+    <image name="info_tx06_05">
+      <uvrect __type="4u16">1286 2502 1686 1742</uvrect>
+      <imgrect __type="4u16">1284 2504 1684 1744</imgrect>
+    </image>
+    <image name="info_tx06_01">
+      <uvrect __type="4u16">2506 3722 1706 1762</uvrect>
+      <imgrect __type="4u16">2504 3724 1704 1764</imgrect>
+    </image>
+    <image name="info_tx00_05">
+      <uvrect __type="4u16">1286 2500 1746 1802</uvrect>
+      <imgrect __type="4u16">1284 2502 1744 1804</imgrect>
+    </image>
+    <image name="info_tx05_01">
+      <uvrect __type="4u16">2504 3696 1766 1822</uvrect>
+      <imgrect __type="4u16">2502 3698 1764 1824</imgrect>
+    </image>
+    <image name="info_tx00_03">
+      <uvrect __type="4u16">2 1176 1784 1840</uvrect>
+      <imgrect __type="4u16">0 1178 1782 1842</imgrect>
+    </image>
+    <image name="info_tx00_06">
+      <uvrect __type="4u16">1180 2352 1806 1862</uvrect>
+      <imgrect __type="4u16">1178 2354 1804 1864</imgrect>
+    </image>
+    <image name="info_tx00_02">
+      <uvrect __type="4u16">2356 3524 1826 1882</uvrect>
+      <imgrect __type="4u16">2354 3526 1824 1884</imgrect>
+    </image>
+    <image name="serif04_63">
+      <uvrect __type="4u16">2 1150 1844 1898</uvrect>
+      <imgrect __type="4u16">0 1152 1842 1900</imgrect>
+    </image>
+    <image name="info_tx01_09">
+      <uvrect __type="4u16">1154 2290 1866 1922</uvrect>
+      <imgrect __type="4u16">1152 2292 1864 1924</imgrect>
+    </image>
+    <image name="info_tx06_02">
+      <uvrect __type="4u16">2294 3426 1886 1942</uvrect>
+      <imgrect __type="4u16">2292 3428 1884 1944</imgrect>
+    </image>
+    <image name="info_tx02_02">
+      <uvrect __type="4u16">2 1134 1902 1958</uvrect>
+      <imgrect __type="4u16">0 1136 1900 1960</imgrect>
+    </image>
+    <image name="info_tx01_08">
+      <uvrect __type="4u16">1138 2270 1926 1982</uvrect>
+      <imgrect __type="4u16">1136 2272 1924 1984</imgrect>
+    </image>
+    <image name="info_tx04_04">
+      <uvrect __type="4u16">2274 3398 1946 2002</uvrect>
+      <imgrect __type="4u16">2272 3400 1944 2004</imgrect>
+    </image>
+    <image name="info_tx01_11">
+      <uvrect __type="4u16">2 1114 1962 2018</uvrect>
+      <imgrect __type="4u16">0 1116 1960 2020</imgrect>
+    </image>
+    <image name="info_tx03_05">
+      <uvrect __type="4u16">1118 2222 1986 2042</uvrect>
+      <imgrect __type="4u16">1116 2224 1984 2044</imgrect>
+    </image>
+    <image name="serif04_07">
+      <uvrect __type="4u16">3402 4094 1946 2014</uvrect>
+      <imgrect __type="4u16">3400 4096 1944 2016</imgrect>
+    </image>
+    <image name="info_tx05_03">
+      <uvrect __type="4u16">3430 4066 1886 1942</uvrect>
+      <imgrect __type="4u16">3428 4068 1884 1944</imgrect>
+    </image>
+    <image name="info_tx01_14">
+      <uvrect __type="4u16">3528 4016 1826 1882</uvrect>
+      <imgrect __type="4u16">3526 4018 1824 1884</imgrect>
+    </image>
+    <image name="info_tx04_01">
+      <uvrect __type="4u16">3700 4072 1766 1822</uvrect>
+      <imgrect __type="4u16">3698 4074 1764 1824</imgrect>
+    </image>
+    <image name="info_tx06_08">
+      <uvrect __type="4u16">3726 4082 1706 1762</uvrect>
+      <imgrect __type="4u16">3724 4084 1704 1764</imgrect>
+    </image>
+    <image name="info_tx01_15">
+      <uvrect __type="4u16">3742 4090 1646 1702</uvrect>
+      <imgrect __type="4u16">3740 4092 1644 1704</imgrect>
+    </image>
+    <image name="bg_pcroom_win09_tex02">
+      <uvrect __type="4u16">3770 4080 1586 1608</uvrect>
+      <imgrect __type="4u16">3768 4082 1584 1610</imgrect>
+    </image>
+    <image name="qp_rupika_leg_r_upper">
+      <uvrect __type="4u16">3892 4092 630 890</uvrect>
+      <imgrect __type="4u16">3890 4094 628 892</imgrect>
+    </image>
+    <image name="qp_rupika_leg_r_lower">
+      <uvrect __type="4u16">3892 4092 894 1154</uvrect>
+      <imgrect __type="4u16">3890 4094 892 1156</imgrect>
+    </image>
+    <image name="qp_rupika_leg_l_upper">
+      <uvrect __type="4u16">3892 4092 1158 1418</uvrect>
+      <imgrect __type="4u16">3890 4094 1156 1420</imgrect>
+    </image>
+    <image name="action_01">
+      <uvrect __type="4u16">3932 4052 2 242</uvrect>
+      <imgrect __type="4u16">3930 4054 0 244</imgrect>
+    </image>
+    <image name="action_06">
+      <uvrect __type="4u16">3932 4016 246 482</uvrect>
+      <imgrect __type="4u16">3930 4018 244 484</imgrect>
+    </image>
+    <image name="serif05_23">
+      <uvrect __type="4u16">3892 4092 1422 1490</uvrect>
+      <imgrect __type="4u16">3890 4094 1420 1492</imgrect>
+    </image>
+    <image name="serif01_15">
+      <uvrect __type="4u16">3892 4088 1494 1562</uvrect>
+      <imgrect __type="4u16">3890 4090 1492 1564</imgrect>
+    </image>
+    <image name="bg_pcroom_win09_grd">
+      <uvrect __type="4u16">4056 4076 2 172</uvrect>
+      <imgrect __type="4u16">4054 4078 0 174</imgrect>
+    </image>
+    <image name="serif02_08">
+      <uvrect __type="4u16">3932 4092 486 554</uvrect>
+      <imgrect __type="4u16">3930 4094 484 556</imgrect>
+    </image>
+    <image name="serif01_55">
+      <uvrect __type="4u16">3932 4092 558 626</uvrect>
+      <imgrect __type="4u16">3930 4094 556 628</imgrect>
+    </image>
+    <image name="bg_pc_back_title2">
+      <uvrect __type="4u16">3770 3910 1612 1630</uvrect>
+      <imgrect __type="4u16">3768 3912 1610 1632</imgrect>
+    </image>
+    <image name="bg_pc_bikkuri">
+      <uvrect __type="4u16">4020 4094 246 314</uvrect>
+      <imgrect __type="4u16">4018 4096 244 316</imgrect>
+    </image>
+    <image name="serif01_70">
+      <uvrect __type="4u16">4020 4056 318 386</uvrect>
+      <imgrect __type="4u16">4018 4058 316 388</imgrect>
+    </image>
+    <image name="serif00_24">
+      <uvrect __type="4u16">4020 4084 390 458</uvrect>
+      <imgrect __type="4u16">4018 4086 388 460</imgrect>
+    </image>
+    <image name="qp_hakase_face_namida">
+      <uvrect __type="4u16">4020 4076 1826 1882</uvrect>
+      <imgrect __type="4u16">4018 4078 1824 1884</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex001" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="bg_pcroom_win00_02">
+      <uvrect __type="4u16">2 1114 2 804</uvrect>
+      <imgrect __type="4u16">0 1116 0 806</imgrect>
+    </image>
+    <image name="info_tx00_09">
+      <uvrect __type="4u16">2 1106 808 864</uvrect>
+      <imgrect __type="4u16">0 1108 806 866</imgrect>
+    </image>
+    <image name="info_tx04_02">
+      <uvrect __type="4u16">2 1084 868 922</uvrect>
+      <imgrect __type="4u16">0 1086 866 924</imgrect>
+    </image>
+    <image name="info_tx02_05">
+      <uvrect __type="4u16">2 1074 926 982</uvrect>
+      <imgrect __type="4u16">0 1076 924 984</imgrect>
+    </image>
+    <image name="info_tx05_05">
+      <uvrect __type="4u16">2 1062 986 1042</uvrect>
+      <imgrect __type="4u16">0 1064 984 1044</imgrect>
+    </image>
+    <image name="info_tx05_02">
+      <uvrect __type="4u16">2 1054 1046 1102</uvrect>
+      <imgrect __type="4u16">0 1056 1044 1104</imgrect>
+    </image>
+    <image name="info_tx00_07">
+      <uvrect __type="4u16">2 1042 1106 1162</uvrect>
+      <imgrect __type="4u16">0 1044 1104 1164</imgrect>
+    </image>
+    <image name="info_tx03_03">
+      <uvrect __type="4u16">2 1030 1166 1222</uvrect>
+      <imgrect __type="4u16">0 1032 1164 1224</imgrect>
+    </image>
+    <image name="info_tx01_02">
+      <uvrect __type="4u16">2 1020 1226 1282</uvrect>
+      <imgrect __type="4u16">0 1022 1224 1284</imgrect>
+    </image>
+    <image name="info_tx01_01">
+      <uvrect __type="4u16">1034 2046 1166 1222</uvrect>
+      <imgrect __type="4u16">1032 2048 1164 1224</imgrect>
+    </image>
+    <image name="info_tx04_05_mosaic">
+      <uvrect __type="4u16">1046 2046 1106 1162</uvrect>
+      <imgrect __type="4u16">1044 2048 1104 1164</imgrect>
+    </image>
+    <image name="info_tx04_05">
+      <uvrect __type="4u16">1024 2024 1226 1282</uvrect>
+      <imgrect __type="4u16">1022 2026 1224 1284</imgrect>
+    </image>
+    <image name="info_tx03_01">
+      <uvrect __type="4u16">2 1002 1286 1342</uvrect>
+      <imgrect __type="4u16">0 1004 1284 1344</imgrect>
+    </image>
+    <image name="boss_img">
+      <uvrect __type="4u16">1118 2028 2 1002</uvrect>
+      <imgrect __type="4u16">1116 2030 0 1004</imgrect>
+    </image>
+    <image name="info_tx03_02">
+      <uvrect __type="4u16">1006 1998 1286 1342</uvrect>
+      <imgrect __type="4u16">1004 2000 1284 1344</imgrect>
+    </image>
+    <image name="info_tx06_09">
+      <uvrect __type="4u16">1058 2046 1046 1102</uvrect>
+      <imgrect __type="4u16">1056 2048 1044 1104</imgrect>
+    </image>
+    <image name="info_tx06_06">
+      <uvrect __type="4u16">2 986 1346 1402</uvrect>
+      <imgrect __type="4u16">0 988 1344 1404</imgrect>
+    </image>
+    <image name="balloon_01">
+      <uvrect __type="4u16">990 1926 1346 1722</uvrect>
+      <imgrect __type="4u16">988 1928 1344 1724</imgrect>
+    </image>
+    <image name="balloon_lupika">
+      <uvrect __type="4u16">2 936 1406 1728</uvrect>
+      <imgrect __type="4u16">0 938 1404 1730</imgrect>
+    </image>
+    <image name="info_tx01_05">
+      <uvrect __type="4u16">940 1848 1726 1782</uvrect>
+      <imgrect __type="4u16">938 1850 1724 1784</imgrect>
+    </image>
+    <image name="info_tx02_03">
+      <uvrect __type="4u16">2 882 1732 1788</uvrect>
+      <imgrect __type="4u16">0 884 1730 1790</imgrect>
+    </image>
+    <image name="info_tx02_07">
+      <uvrect __type="4u16">886 1754 1786 1842</uvrect>
+      <imgrect __type="4u16">884 1756 1784 1844</imgrect>
+    </image>
+    <image name="info_tx00_01">
+      <uvrect __type="4u16">2 862 1792 1848</uvrect>
+      <imgrect __type="4u16">0 864 1790 1850</imgrect>
+    </image>
+    <image name="info_tx01_03">
+      <uvrect __type="4u16">866 1722 1846 1902</uvrect>
+      <imgrect __type="4u16">864 1724 1844 1904</imgrect>
+    </image>
+    <image name="info_tx03_06">
+      <uvrect __type="4u16">2 850 1852 1908</uvrect>
+      <imgrect __type="4u16">0 852 1850 1910</imgrect>
+    </image>
+    <image name="serif06_47">
+      <uvrect __type="4u16">854 1686 1906 1974</uvrect>
+      <imgrect __type="4u16">852 1688 1904 1976</imgrect>
+    </image>
+    <image name="serif06_43">
+      <uvrect __type="4u16">2 834 1912 1980</uvrect>
+      <imgrect __type="4u16">0 836 1910 1982</imgrect>
+    </image>
+    <image name="serif06_39">
+      <uvrect __type="4u16">838 1670 1978 2046</uvrect>
+      <imgrect __type="4u16">836 1672 1976 2048</imgrect>
+    </image>
+    <image name="info_tx04_07">
+      <uvrect __type="4u16">2 830 1984 2040</uvrect>
+      <imgrect __type="4u16">0 832 1982 2042</imgrect>
+    </image>
+    <image name="serif05_30">
+      <uvrect __type="4u16">1674 2046 1978 2046</uvrect>
+      <imgrect __type="4u16">1672 2048 1976 2048</imgrect>
+    </image>
+    <image name="serif05_11">
+      <uvrect __type="4u16">1690 2046 1906 1974</uvrect>
+      <imgrect __type="4u16">1688 2048 1904 1976</imgrect>
+    </image>
+    <image name="serif02_26">
+      <uvrect __type="4u16">1758 2046 1786 1854</uvrect>
+      <imgrect __type="4u16">1756 2048 1784 1856</imgrect>
+    </image>
+    <image name="info_tx00_04">
+      <uvrect __type="4u16">1852 2040 1726 1782</uvrect>
+      <imgrect __type="4u16">1850 2042 1724 1784</imgrect>
+    </image>
+    <image name="bg_pcroom_win09_tex01">
+      <uvrect __type="4u16">1726 1900 1858 1902</uvrect>
+      <imgrect __type="4u16">1724 1902 1856 1904</imgrect>
+    </image>
+    <image name="kirari">
+      <uvrect __type="4u16">1930 2046 1346 1482</uvrect>
+      <imgrect __type="4u16">1928 2048 1344 1484</imgrect>
+    </image>
+    <image name="action_05a">
+      <uvrect __type="4u16">1930 2014 1486 1618</uvrect>
+      <imgrect __type="4u16">1928 2016 1484 1620</imgrect>
+    </image>
+    <image name="serif02_41">
+      <uvrect __type="4u16">1930 2046 1622 1690</uvrect>
+      <imgrect __type="4u16">1928 2048 1620 1692</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex002" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="balloon_lepika">
+      <uvrect __type="4u16">2 936 2 324</uvrect>
+      <imgrect __type="4u16">0 938 0 326</imgrect>
+    </image>
+    <image name="serif06_25">
+      <uvrect __type="4u16">2 834 328 396</uvrect>
+      <imgrect __type="4u16">0 836 326 398</imgrect>
+    </image>
+    <image name="serif06_11">
+      <uvrect __type="4u16">2 834 400 468</uvrect>
+      <imgrect __type="4u16">0 836 398 470</imgrect>
+    </image>
+    <image name="serif06_02">
+      <uvrect __type="4u16">2 834 472 540</uvrect>
+      <imgrect __type="4u16">0 836 470 542</imgrect>
+    </image>
+    <image name="serif05_29">
+      <uvrect __type="4u16">2 834 544 612</uvrect>
+      <imgrect __type="4u16">0 836 542 614</imgrect>
+    </image>
+    <image name="serif05_20">
+      <uvrect __type="4u16">2 834 616 684</uvrect>
+      <imgrect __type="4u16">0 836 614 686</imgrect>
+    </image>
+    <image name="serif05_08">
+      <uvrect __type="4u16">2 834 688 756</uvrect>
+      <imgrect __type="4u16">0 836 686 758</imgrect>
+    </image>
+    <image name="serif04_43">
+      <uvrect __type="4u16">2 834 760 828</uvrect>
+      <imgrect __type="4u16">0 836 758 830</imgrect>
+    </image>
+    <image name="serif04_03">
+      <uvrect __type="4u16">2 834 832 900</uvrect>
+      <imgrect __type="4u16">0 836 830 902</imgrect>
+    </image>
+    <image name="serif03_58">
+      <uvrect __type="4u16">2 834 904 972</uvrect>
+      <imgrect __type="4u16">0 836 902 974</imgrect>
+    </image>
+    <image name="serif03_43">
+      <uvrect __type="4u16">940 1772 2 70</uvrect>
+      <imgrect __type="4u16">938 1774 0 72</imgrect>
+    </image>
+    <image name="serif03_35">
+      <uvrect __type="4u16">940 1772 74 142</uvrect>
+      <imgrect __type="4u16">938 1774 72 144</imgrect>
+    </image>
+    <image name="serif03_23">
+      <uvrect __type="4u16">940 1772 146 214</uvrect>
+      <imgrect __type="4u16">938 1774 144 216</imgrect>
+    </image>
+    <image name="serif03_07">
+      <uvrect __type="4u16">940 1772 218 286</uvrect>
+      <imgrect __type="4u16">938 1774 216 288</imgrect>
+    </image>
+    <image name="serif02_23">
+      <uvrect __type="4u16">940 1772 290 358</uvrect>
+      <imgrect __type="4u16">938 1774 288 360</imgrect>
+    </image>
+    <image name="serif02_19">
+      <uvrect __type="4u16">838 1670 362 430</uvrect>
+      <imgrect __type="4u16">836 1672 360 432</imgrect>
+    </image>
+    <image name="serif02_18">
+      <uvrect __type="4u16">838 1670 434 502</uvrect>
+      <imgrect __type="4u16">836 1672 432 504</imgrect>
+    </image>
+    <image name="serif02_16">
+      <uvrect __type="4u16">838 1670 506 574</uvrect>
+      <imgrect __type="4u16">836 1672 504 576</imgrect>
+    </image>
+    <image name="serif02_07">
+      <uvrect __type="4u16">838 1670 578 646</uvrect>
+      <imgrect __type="4u16">836 1672 576 648</imgrect>
+    </image>
+    <image name="serif01_58">
+      <uvrect __type="4u16">838 1670 650 718</uvrect>
+      <imgrect __type="4u16">836 1672 648 720</imgrect>
+    </image>
+    <image name="serif01_57">
+      <uvrect __type="4u16">838 1670 722 790</uvrect>
+      <imgrect __type="4u16">836 1672 720 792</imgrect>
+    </image>
+    <image name="serif01_45">
+      <uvrect __type="4u16">838 1670 794 862</uvrect>
+      <imgrect __type="4u16">836 1672 792 864</imgrect>
+    </image>
+    <image name="serif01_28">
+      <uvrect __type="4u16">838 1670 866 934</uvrect>
+      <imgrect __type="4u16">836 1672 864 936</imgrect>
+    </image>
+    <image name="serif01_13">
+      <uvrect __type="4u16">838 1670 938 1006</uvrect>
+      <imgrect __type="4u16">836 1672 936 1008</imgrect>
+    </image>
+    <image name="serif01_12">
+      <uvrect __type="4u16">2 834 976 1044</uvrect>
+      <imgrect __type="4u16">0 836 974 1046</imgrect>
+    </image>
+    <image name="serif00_43">
+      <uvrect __type="4u16">838 1670 1010 1078</uvrect>
+      <imgrect __type="4u16">836 1672 1008 1080</imgrect>
+    </image>
+    <image name="serif00_29">
+      <uvrect __type="4u16">2 834 1048 1116</uvrect>
+      <imgrect __type="4u16">0 836 1046 1118</imgrect>
+    </image>
+    <image name="serif00_28">
+      <uvrect __type="4u16">838 1670 1082 1150</uvrect>
+      <imgrect __type="4u16">836 1672 1080 1152</imgrect>
+    </image>
+    <image name="serif00_10">
+      <uvrect __type="4u16">2 834 1120 1188</uvrect>
+      <imgrect __type="4u16">0 836 1118 1190</imgrect>
+    </image>
+    <image name="serif00_09">
+      <uvrect __type="4u16">838 1670 1154 1222</uvrect>
+      <imgrect __type="4u16">836 1672 1152 1224</imgrect>
+    </image>
+    <image name="serif01_50">
+      <uvrect __type="4u16">2 814 1192 1260</uvrect>
+      <imgrect __type="4u16">0 816 1190 1262</imgrect>
+    </image>
+    <image name="serif01_33">
+      <uvrect __type="4u16">818 1630 1226 1294</uvrect>
+      <imgrect __type="4u16">816 1632 1224 1296</imgrect>
+    </image>
+    <image name="info_tx02_10">
+      <uvrect __type="4u16">2 814 1264 1320</uvrect>
+      <imgrect __type="4u16">0 816 1262 1322</imgrect>
+    </image>
+    <image name="info_tx01_12">
+      <uvrect __type="4u16">818 1630 1298 1354</uvrect>
+      <imgrect __type="4u16">816 1632 1296 1356</imgrect>
+    </image>
+    <image name="serif06_38">
+      <uvrect __type="4u16">2 810 1324 1392</uvrect>
+      <imgrect __type="4u16">0 812 1322 1394</imgrect>
+    </image>
+    <image name="serif05_28">
+      <uvrect __type="4u16">814 1622 1358 1426</uvrect>
+      <imgrect __type="4u16">812 1624 1356 1428</imgrect>
+    </image>
+    <image name="serif03_13">
+      <uvrect __type="4u16">2 810 1396 1464</uvrect>
+      <imgrect __type="4u16">0 812 1394 1466</imgrect>
+    </image>
+    <image name="serif06_29">
+      <uvrect __type="4u16">814 1618 1430 1498</uvrect>
+      <imgrect __type="4u16">812 1620 1428 1500</imgrect>
+    </image>
+    <image name="serif04_39">
+      <uvrect __type="4u16">2 806 1468 1536</uvrect>
+      <imgrect __type="4u16">0 808 1466 1538</imgrect>
+    </image>
+    <image name="serif01_56">
+      <uvrect __type="4u16">810 1614 1502 1570</uvrect>
+      <imgrect __type="4u16">808 1616 1500 1572</imgrect>
+    </image>
+    <image name="serif01_16">
+      <uvrect __type="4u16">2 806 1540 1608</uvrect>
+      <imgrect __type="4u16">0 808 1538 1610</imgrect>
+    </image>
+    <image name="info_tx01_10">
+      <uvrect __type="4u16">810 1614 1574 1630</uvrect>
+      <imgrect __type="4u16">808 1616 1572 1632</imgrect>
+    </image>
+    <image name="serif06_37">
+      <uvrect __type="4u16">2 802 1612 1680</uvrect>
+      <imgrect __type="4u16">0 804 1610 1682</imgrect>
+    </image>
+    <image name="serif05_16">
+      <uvrect __type="4u16">806 1606 1634 1702</uvrect>
+      <imgrect __type="4u16">804 1608 1632 1704</imgrect>
+    </image>
+    <image name="serif04_52">
+      <uvrect __type="4u16">2 802 1684 1752</uvrect>
+      <imgrect __type="4u16">0 804 1682 1754</imgrect>
+    </image>
+    <image name="serif04_32">
+      <uvrect __type="4u16">806 1606 1706 1774</uvrect>
+      <imgrect __type="4u16">804 1608 1704 1776</imgrect>
+    </image>
+    <image name="serif01_52">
+      <uvrect __type="4u16">2 802 1756 1824</uvrect>
+      <imgrect __type="4u16">0 804 1754 1826</imgrect>
+    </image>
+    <image name="serif01_49">
+      <uvrect __type="4u16">806 1606 1778 1846</uvrect>
+      <imgrect __type="4u16">804 1608 1776 1848</imgrect>
+    </image>
+    <image name="serif01_17">
+      <uvrect __type="4u16">2 802 1828 1896</uvrect>
+      <imgrect __type="4u16">0 804 1826 1898</imgrect>
+    </image>
+    <image name="serif04_40">
+      <uvrect __type="4u16">806 1602 1850 1918</uvrect>
+      <imgrect __type="4u16">804 1604 1848 1920</imgrect>
+    </image>
+    <image name="serif04_11">
+      <uvrect __type="4u16">2 798 1900 1968</uvrect>
+      <imgrect __type="4u16">0 800 1898 1970</imgrect>
+    </image>
+    <image name="serif03_28">
+      <uvrect __type="4u16">802 1598 1922 1990</uvrect>
+      <imgrect __type="4u16">800 1600 1920 1992</imgrect>
+    </image>
+    <image name="serif02_33">
+      <uvrect __type="4u16">2 798 1972 2040</uvrect>
+      <imgrect __type="4u16">0 800 1970 2042</imgrect>
+    </image>
+    <image name="action_negoto">
+      <uvrect __type="4u16">802 1590 1994 2046</uvrect>
+      <imgrect __type="4u16">800 1592 1992 2048</imgrect>
+    </image>
+    <image name="serif05_17">
+      <uvrect __type="4u16">1602 2046 1922 1990</uvrect>
+      <imgrect __type="4u16">1600 2048 1920 1992</imgrect>
+    </image>
+    <image name="serif06_05">
+      <uvrect __type="4u16">1610 2042 1634 1702</uvrect>
+      <imgrect __type="4u16">1608 2044 1632 1704</imgrect>
+    </image>
+    <image name="serif05_06">
+      <uvrect __type="4u16">1610 2042 1706 1774</uvrect>
+      <imgrect __type="4u16">1608 2044 1704 1776</imgrect>
+    </image>
+    <image name="serif03_32">
+      <uvrect __type="4u16">1618 2046 1502 1570</uvrect>
+      <imgrect __type="4u16">1616 2048 1500 1572</imgrect>
+    </image>
+    <image name="serif00_15">
+      <uvrect __type="4u16">1610 2038 1778 1846</uvrect>
+      <imgrect __type="4u16">1608 2040 1776 1848</imgrect>
+    </image>
+    <image name="serif02_03">
+      <uvrect __type="4u16">1622 2046 1430 1498</uvrect>
+      <imgrect __type="4u16">1620 2048 1428 1500</imgrect>
+    </image>
+    <image name="serif01_32">
+      <uvrect __type="4u16">1606 2030 1850 1918</uvrect>
+      <imgrect __type="4u16">1604 2032 1848 1920</imgrect>
+    </image>
+    <image name="serif01_18">
+      <uvrect __type="4u16">1626 2046 1358 1426</uvrect>
+      <imgrect __type="4u16">1624 2048 1356 1428</imgrect>
+    </image>
+    <image name="serif04_21">
+      <uvrect __type="4u16">1634 2046 1226 1294</uvrect>
+      <imgrect __type="4u16">1632 2048 1224 1296</imgrect>
+    </image>
+    <image name="info_tx02_09">
+      <uvrect __type="4u16">1634 2030 1298 1354</uvrect>
+      <imgrect __type="4u16">1632 2032 1296 1356</imgrect>
+    </image>
+    <image name="info_tx01_13">
+      <uvrect __type="4u16">1618 2014 1574 1630</uvrect>
+      <imgrect __type="4u16">1616 2016 1572 1632</imgrect>
+    </image>
+    <image name="qp_rupika_arm_r_upper">
+      <uvrect __type="4u16">1776 2036 2 386</uvrect>
+      <imgrect __type="4u16">1774 2038 0 388</imgrect>
+    </image>
+    <image name="qp_rupika_arm_r_lower">
+      <uvrect __type="4u16">1674 1934 390 774</uvrect>
+      <imgrect __type="4u16">1672 1936 388 776</imgrect>
+    </image>
+    <image name="qp_rupika_arm_l_upper">
+      <uvrect __type="4u16">1674 1954 778 1162</uvrect>
+      <imgrect __type="4u16">1672 1956 776 1164</imgrect>
+    </image>
+    <image name="serif03_49">
+      <uvrect __type="4u16">1938 2046 390 458</uvrect>
+      <imgrect __type="4u16">1936 2048 388 460</imgrect>
+    </image>
+    <image name="serif06_34">
+      <uvrect __type="4u16">1938 2042 462 530</uvrect>
+      <imgrect __type="4u16">1936 2044 460 532</imgrect>
+    </image>
+    <image name="serif02_10">
+      <uvrect __type="4u16">1938 2042 534 602</uvrect>
+      <imgrect __type="4u16">1936 2044 532 604</imgrect>
+    </image>
+    <image name="serif01_68">
+      <uvrect __type="4u16">1938 2042 606 674</uvrect>
+      <imgrect __type="4u16">1936 2044 604 676</imgrect>
+    </image>
+    <image name="serif01_35">
+      <uvrect __type="4u16">1938 2042 678 746</uvrect>
+      <imgrect __type="4u16">1936 2044 676 748</imgrect>
+    </image>
+    <image name="action_zzz">
+      <uvrect __type="4u16">1958 2038 750 850</uvrect>
+      <imgrect __type="4u16">1956 2040 748 852</imgrect>
+    </image>
+    <image name="qp_hakase_face_kirakira">
+      <uvrect __type="4u16">1958 2014 854 910</uvrect>
+      <imgrect __type="4u16">1956 2016 852 912</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex003" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="serif01_39">
+      <uvrect __type="4u16">2 798 2 70</uvrect>
+      <imgrect __type="4u16">0 800 0 72</imgrect>
+    </image>
+    <image name="serif01_07">
+      <uvrect __type="4u16">2 798 74 142</uvrect>
+      <imgrect __type="4u16">0 800 72 144</imgrect>
+    </image>
+    <image name="serif00_57">
+      <uvrect __type="4u16">2 798 146 214</uvrect>
+      <imgrect __type="4u16">0 800 144 216</imgrect>
+    </image>
+    <image name="serif00_55">
+      <uvrect __type="4u16">2 798 218 286</uvrect>
+      <imgrect __type="4u16">0 800 216 288</imgrect>
+    </image>
+    <image name="serif00_18">
+      <uvrect __type="4u16">2 798 290 358</uvrect>
+      <imgrect __type="4u16">0 800 288 360</imgrect>
+    </image>
+    <image name="serif00_12">
+      <uvrect __type="4u16">2 798 362 430</uvrect>
+      <imgrect __type="4u16">0 800 360 432</imgrect>
+    </image>
+    <image name="serif06_19">
+      <uvrect __type="4u16">2 794 434 502</uvrect>
+      <imgrect __type="4u16">0 796 432 504</imgrect>
+    </image>
+    <image name="serif06_14">
+      <uvrect __type="4u16">2 794 506 574</uvrect>
+      <imgrect __type="4u16">0 796 504 576</imgrect>
+    </image>
+    <image name="serif04_59">
+      <uvrect __type="4u16">2 794 578 646</uvrect>
+      <imgrect __type="4u16">0 796 576 648</imgrect>
+    </image>
+    <image name="serif03_50">
+      <uvrect __type="4u16">2 794 650 718</uvrect>
+      <imgrect __type="4u16">0 796 648 720</imgrect>
+    </image>
+    <image name="serif03_48">
+      <uvrect __type="4u16">2 794 722 790</uvrect>
+      <imgrect __type="4u16">0 796 720 792</imgrect>
+    </image>
+    <image name="serif03_45">
+      <uvrect __type="4u16">2 794 794 862</uvrect>
+      <imgrect __type="4u16">0 796 792 864</imgrect>
+    </image>
+    <image name="serif03_10">
+      <uvrect __type="4u16">2 794 866 934</uvrect>
+      <imgrect __type="4u16">0 796 864 936</imgrect>
+    </image>
+    <image name="serif02_36">
+      <uvrect __type="4u16">2 794 938 1006</uvrect>
+      <imgrect __type="4u16">0 796 936 1008</imgrect>
+    </image>
+    <image name="serif01_25">
+      <uvrect __type="4u16">802 1594 2 70</uvrect>
+      <imgrect __type="4u16">800 1596 0 72</imgrect>
+    </image>
+    <image name="serif01_09">
+      <uvrect __type="4u16">802 1594 74 142</uvrect>
+      <imgrect __type="4u16">800 1596 72 144</imgrect>
+    </image>
+    <image name="serif00_53">
+      <uvrect __type="4u16">802 1594 146 214</uvrect>
+      <imgrect __type="4u16">800 1596 144 216</imgrect>
+    </image>
+    <image name="serif00_48">
+      <uvrect __type="4u16">802 1594 218 286</uvrect>
+      <imgrect __type="4u16">800 1596 216 288</imgrect>
+    </image>
+    <image name="serif01_67">
+      <uvrect __type="4u16">802 1590 290 358</uvrect>
+      <imgrect __type="4u16">800 1592 288 360</imgrect>
+    </image>
+    <image name="serif01_36">
+      <uvrect __type="4u16">802 1590 362 430</uvrect>
+      <imgrect __type="4u16">800 1592 360 432</imgrect>
+    </image>
+    <image name="serif00_67">
+      <uvrect __type="4u16">798 1586 434 502</uvrect>
+      <imgrect __type="4u16">796 1588 432 504</imgrect>
+    </image>
+    <image name="serif05_26">
+      <uvrect __type="4u16">798 1582 506 574</uvrect>
+      <imgrect __type="4u16">796 1584 504 576</imgrect>
+    </image>
+    <image name="serif04_27">
+      <uvrect __type="4u16">798 1582 578 646</uvrect>
+      <imgrect __type="4u16">796 1584 576 648</imgrect>
+    </image>
+    <image name="serif04_17">
+      <uvrect __type="4u16">798 1582 650 718</uvrect>
+      <imgrect __type="4u16">796 1584 648 720</imgrect>
+    </image>
+    <image name="serif03_22">
+      <uvrect __type="4u16">798 1582 722 790</uvrect>
+      <imgrect __type="4u16">796 1584 720 792</imgrect>
+    </image>
+    <image name="serif02_32">
+      <uvrect __type="4u16">798 1582 794 862</uvrect>
+      <imgrect __type="4u16">796 1584 792 864</imgrect>
+    </image>
+    <image name="serif01_41">
+      <uvrect __type="4u16">798 1582 866 934</uvrect>
+      <imgrect __type="4u16">796 1584 864 936</imgrect>
+    </image>
+    <image name="serif00_70">
+      <uvrect __type="4u16">798 1582 938 1006</uvrect>
+      <imgrect __type="4u16">796 1584 936 1008</imgrect>
+    </image>
+    <image name="serif00_52">
+      <uvrect __type="4u16">2 786 1010 1078</uvrect>
+      <imgrect __type="4u16">0 788 1008 1080</imgrect>
+    </image>
+    <image name="serif00_35">
+      <uvrect __type="4u16">790 1574 1010 1078</uvrect>
+      <imgrect __type="4u16">788 1576 1008 1080</imgrect>
+    </image>
+    <image name="serif00_25">
+      <uvrect __type="4u16">2 786 1082 1150</uvrect>
+      <imgrect __type="4u16">0 788 1080 1152</imgrect>
+    </image>
+    <image name="info_tx00_10">
+      <uvrect __type="4u16">790 1574 1082 1138</uvrect>
+      <imgrect __type="4u16">788 1576 1080 1140</imgrect>
+    </image>
+    <image name="serif04_58">
+      <uvrect __type="4u16">790 1570 1142 1210</uvrect>
+      <imgrect __type="4u16">788 1572 1140 1212</imgrect>
+    </image>
+    <image name="serif04_15">
+      <uvrect __type="4u16">2 782 1154 1222</uvrect>
+      <imgrect __type="4u16">0 784 1152 1224</imgrect>
+    </image>
+    <image name="serif03_15">
+      <uvrect __type="4u16">786 1566 1214 1282</uvrect>
+      <imgrect __type="4u16">784 1568 1212 1284</imgrect>
+    </image>
+    <image name="serif01_31">
+      <uvrect __type="4u16">2 782 1226 1294</uvrect>
+      <imgrect __type="4u16">0 784 1224 1296</imgrect>
+    </image>
+    <image name="serif01_27">
+      <uvrect __type="4u16">786 1566 1286 1354</uvrect>
+      <imgrect __type="4u16">784 1568 1284 1356</imgrect>
+    </image>
+    <image name="serif00_14">
+      <uvrect __type="4u16">2 782 1298 1366</uvrect>
+      <imgrect __type="4u16">0 784 1296 1368</imgrect>
+    </image>
+    <image name="serif00_08">
+      <uvrect __type="4u16">786 1566 1358 1426</uvrect>
+      <imgrect __type="4u16">784 1568 1356 1428</imgrect>
+    </image>
+    <image name="serif00_22">
+      <uvrect __type="4u16">2 780 1370 1438</uvrect>
+      <imgrect __type="4u16">0 782 1368 1440</imgrect>
+    </image>
+    <image name="serif06_45">
+      <uvrect __type="4u16">784 1560 1430 1498</uvrect>
+      <imgrect __type="4u16">782 1562 1428 1500</imgrect>
+    </image>
+    <image name="serif06_32">
+      <uvrect __type="4u16">2 778 1442 1510</uvrect>
+      <imgrect __type="4u16">0 780 1440 1512</imgrect>
+    </image>
+    <image name="serif04_55">
+      <uvrect __type="4u16">782 1558 1502 1570</uvrect>
+      <imgrect __type="4u16">780 1560 1500 1572</imgrect>
+    </image>
+    <image name="serif04_50">
+      <uvrect __type="4u16">2 778 1514 1582</uvrect>
+      <imgrect __type="4u16">0 780 1512 1584</imgrect>
+    </image>
+    <image name="serif04_48">
+      <uvrect __type="4u16">782 1558 1574 1642</uvrect>
+      <imgrect __type="4u16">780 1560 1572 1644</imgrect>
+    </image>
+    <image name="serif01_42">
+      <uvrect __type="4u16">2 778 1586 1654</uvrect>
+      <imgrect __type="4u16">0 780 1584 1656</imgrect>
+    </image>
+    <image name="serif06_50">
+      <uvrect __type="4u16">782 1554 1646 1714</uvrect>
+      <imgrect __type="4u16">780 1556 1644 1716</imgrect>
+    </image>
+    <image name="serif04_47">
+      <uvrect __type="4u16">2 774 1658 1726</uvrect>
+      <imgrect __type="4u16">0 776 1656 1728</imgrect>
+    </image>
+    <image name="serif02_42">
+      <uvrect __type="4u16">778 1550 1718 1786</uvrect>
+      <imgrect __type="4u16">776 1552 1716 1788</imgrect>
+    </image>
+    <image name="serif02_34">
+      <uvrect __type="4u16">2 774 1730 1798</uvrect>
+      <imgrect __type="4u16">0 776 1728 1800</imgrect>
+    </image>
+    <image name="serif00_61">
+      <uvrect __type="4u16">778 1550 1790 1858</uvrect>
+      <imgrect __type="4u16">776 1552 1788 1860</imgrect>
+    </image>
+    <image name="serif00_40">
+      <uvrect __type="4u16">2 774 1802 1870</uvrect>
+      <imgrect __type="4u16">0 776 1800 1872</imgrect>
+    </image>
+    <image name="serif06_49">
+      <uvrect __type="4u16">778 1546 1862 1930</uvrect>
+      <imgrect __type="4u16">776 1548 1860 1932</imgrect>
+    </image>
+    <image name="serif06_09">
+      <uvrect __type="4u16">2 770 1874 1942</uvrect>
+      <imgrect __type="4u16">0 772 1872 1944</imgrect>
+    </image>
+    <image name="serif05_22">
+      <uvrect __type="4u16">774 1542 1934 2002</uvrect>
+      <imgrect __type="4u16">772 1544 1932 2004</imgrect>
+    </image>
+    <image name="serif05_12">
+      <uvrect __type="4u16">2 770 1946 2014</uvrect>
+      <imgrect __type="4u16">0 772 1944 2016</imgrect>
+    </image>
+    <image name="qp_rupika_hand_r">
+      <uvrect __type="4u16">1598 2018 2 702</uvrect>
+      <imgrect __type="4u16">1596 2020 0 704</imgrect>
+    </image>
+    <image name="qp_repika_hand_r">
+      <uvrect __type="4u16">1586 2006 706 1406</uvrect>
+      <imgrect __type="4u16">1584 2008 704 1408</imgrect>
+    </image>
+    <image name="serif03_57">
+      <uvrect __type="4u16">1546 2046 1934 2002</uvrect>
+      <imgrect __type="4u16">1544 2048 1932 2004</imgrect>
+    </image>
+    <image name="serif01_24">
+      <uvrect __type="4u16">1550 2046 1862 1930</uvrect>
+      <imgrect __type="4u16">1548 2048 1860 1932</imgrect>
+    </image>
+    <image name="serif06_22">
+      <uvrect __type="4u16">1558 2046 1646 1714</uvrect>
+      <imgrect __type="4u16">1556 2048 1644 1716</imgrect>
+    </image>
+    <image name="serif05_15">
+      <uvrect __type="4u16">1554 2042 1718 1786</uvrect>
+      <imgrect __type="4u16">1552 2044 1716 1788</imgrect>
+    </image>
+    <image name="serif06_40">
+      <uvrect __type="4u16">1564 2044 1430 1498</uvrect>
+      <imgrect __type="4u16">1562 2046 1428 1500</imgrect>
+    </image>
+    <image name="serif05_27">
+      <uvrect __type="4u16">1562 2042 1502 1570</uvrect>
+      <imgrect __type="4u16">1560 2044 1500 1572</imgrect>
+    </image>
+    <image name="serif01_23">
+      <uvrect __type="4u16">1562 2042 1574 1642</uvrect>
+      <imgrect __type="4u16">1560 2044 1572 1644</imgrect>
+    </image>
+    <image name="serif00_44">
+      <uvrect __type="4u16">1554 2034 1790 1858</uvrect>
+      <imgrect __type="4u16">1552 2036 1788 1860</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex004" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="serif03_17">
+      <uvrect __type="4u16">2 770 2 70</uvrect>
+      <imgrect __type="4u16">0 772 0 72</imgrect>
+    </image>
+    <image name="serif01_64">
+      <uvrect __type="4u16">2 770 74 142</uvrect>
+      <imgrect __type="4u16">0 772 72 144</imgrect>
+    </image>
+    <image name="serif01_26">
+      <uvrect __type="4u16">2 770 146 214</uvrect>
+      <imgrect __type="4u16">0 772 144 216</imgrect>
+    </image>
+    <image name="serif06_46">
+      <uvrect __type="4u16">2 766 218 286</uvrect>
+      <imgrect __type="4u16">0 768 216 288</imgrect>
+    </image>
+    <image name="serif05_01">
+      <uvrect __type="4u16">2 766 290 358</uvrect>
+      <imgrect __type="4u16">0 768 288 360</imgrect>
+    </image>
+    <image name="serif04_12">
+      <uvrect __type="4u16">2 766 362 430</uvrect>
+      <imgrect __type="4u16">0 768 360 432</imgrect>
+    </image>
+    <image name="serif02_09">
+      <uvrect __type="4u16">2 766 434 502</uvrect>
+      <imgrect __type="4u16">0 768 432 504</imgrect>
+    </image>
+    <image name="serif00_58">
+      <uvrect __type="4u16">2 766 506 574</uvrect>
+      <imgrect __type="4u16">0 768 504 576</imgrect>
+    </image>
+    <image name="info_tx05_06">
+      <uvrect __type="4u16">2 766 578 634</uvrect>
+      <imgrect __type="4u16">0 768 576 636</imgrect>
+    </image>
+    <image name="info_tx04_08">
+      <uvrect __type="4u16">2 766 638 694</uvrect>
+      <imgrect __type="4u16">0 768 636 696</imgrect>
+    </image>
+    <image name="serif06_35">
+      <uvrect __type="4u16">2 762 698 766</uvrect>
+      <imgrect __type="4u16">0 764 696 768</imgrect>
+    </image>
+    <image name="serif05_21">
+      <uvrect __type="4u16">2 762 770 838</uvrect>
+      <imgrect __type="4u16">0 764 768 840</imgrect>
+    </image>
+    <image name="serif04_05">
+      <uvrect __type="4u16">2 762 842 910</uvrect>
+      <imgrect __type="4u16">0 764 840 912</imgrect>
+    </image>
+    <image name="serif02_21">
+      <uvrect __type="4u16">2 762 914 982</uvrect>
+      <imgrect __type="4u16">0 764 912 984</imgrect>
+    </image>
+    <image name="serif01_10">
+      <uvrect __type="4u16">774 1534 2 70</uvrect>
+      <imgrect __type="4u16">772 1536 0 72</imgrect>
+    </image>
+    <image name="serif00_45">
+      <uvrect __type="4u16">774 1534 74 142</uvrect>
+      <imgrect __type="4u16">772 1536 72 144</imgrect>
+    </image>
+    <image name="serif00_21">
+      <uvrect __type="4u16">774 1532 146 214</uvrect>
+      <imgrect __type="4u16">772 1534 144 216</imgrect>
+    </image>
+    <image name="serif04_18">
+      <uvrect __type="4u16">770 1526 218 286</uvrect>
+      <imgrect __type="4u16">768 1528 216 288</imgrect>
+    </image>
+    <image name="serif03_51">
+      <uvrect __type="4u16">770 1526 290 358</uvrect>
+      <imgrect __type="4u16">768 1528 288 360</imgrect>
+    </image>
+    <image name="serif04_08">
+      <uvrect __type="4u16">770 1522 362 430</uvrect>
+      <imgrect __type="4u16">768 1524 360 432</imgrect>
+    </image>
+    <image name="serif03_46">
+      <uvrect __type="4u16">770 1522 434 502</uvrect>
+      <imgrect __type="4u16">768 1524 432 504</imgrect>
+    </image>
+    <image name="serif02_12">
+      <uvrect __type="4u16">770 1522 506 574</uvrect>
+      <imgrect __type="4u16">768 1524 504 576</imgrect>
+    </image>
+    <image name="serif02_04">
+      <uvrect __type="4u16">770 1522 578 646</uvrect>
+      <imgrect __type="4u16">768 1524 576 648</imgrect>
+    </image>
+    <image name="serif05_04">
+      <uvrect __type="4u16">770 1518 650 718</uvrect>
+      <imgrect __type="4u16">768 1520 648 720</imgrect>
+    </image>
+    <image name="serif04_37">
+      <uvrect __type="4u16">766 1514 722 790</uvrect>
+      <imgrect __type="4u16">764 1516 720 792</imgrect>
+    </image>
+    <image name="serif04_30">
+      <uvrect __type="4u16">766 1514 794 862</uvrect>
+      <imgrect __type="4u16">764 1516 792 864</imgrect>
+    </image>
+    <image name="serif02_29">
+      <uvrect __type="4u16">766 1514 866 934</uvrect>
+      <imgrect __type="4u16">764 1516 864 936</imgrect>
+    </image>
+    <image name="serif01_22">
+      <uvrect __type="4u16">766 1514 938 1006</uvrect>
+      <imgrect __type="4u16">764 1516 936 1008</imgrect>
+    </image>
+    <image name="serif00_36">
+      <uvrect __type="4u16">2 750 986 1054</uvrect>
+      <imgrect __type="4u16">0 752 984 1056</imgrect>
+    </image>
+    <image name="serif04_01">
+      <uvrect __type="4u16">754 1498 1010 1078</uvrect>
+      <imgrect __type="4u16">752 1500 1008 1080</imgrect>
+    </image>
+    <image name="serif01_19">
+      <uvrect __type="4u16">2 746 1058 1126</uvrect>
+      <imgrect __type="4u16">0 748 1056 1128</imgrect>
+    </image>
+    <image name="serif00_62">
+      <uvrect __type="4u16">750 1494 1082 1150</uvrect>
+      <imgrect __type="4u16">748 1496 1080 1152</imgrect>
+    </image>
+    <image name="serif06_23">
+      <uvrect __type="4u16">2 742 1130 1198</uvrect>
+      <imgrect __type="4u16">0 744 1128 1200</imgrect>
+    </image>
+    <image name="serif06_53">
+      <uvrect __type="4u16">746 1482 1154 1222</uvrect>
+      <imgrect __type="4u16">744 1484 1152 1224</imgrect>
+    </image>
+    <image name="serif06_31">
+      <uvrect __type="4u16">2 738 1202 1270</uvrect>
+      <imgrect __type="4u16">0 740 1200 1272</imgrect>
+    </image>
+    <image name="serif00_06">
+      <uvrect __type="4u16">742 1478 1226 1294</uvrect>
+      <imgrect __type="4u16">740 1480 1224 1296</imgrect>
+    </image>
+    <image name="serif06_44">
+      <uvrect __type="4u16">2 734 1274 1342</uvrect>
+      <imgrect __type="4u16">0 736 1272 1344</imgrect>
+    </image>
+    <image name="serif01_60">
+      <uvrect __type="4u16">738 1470 1298 1366</uvrect>
+      <imgrect __type="4u16">736 1472 1296 1368</imgrect>
+    </image>
+    <image name="serif01_38">
+      <uvrect __type="4u16">2 734 1346 1414</uvrect>
+      <imgrect __type="4u16">0 736 1344 1416</imgrect>
+    </image>
+    <image name="serif00_05">
+      <uvrect __type="4u16">738 1470 1370 1438</uvrect>
+      <imgrect __type="4u16">736 1472 1368 1440</imgrect>
+    </image>
+    <image name="serif06_06">
+      <uvrect __type="4u16">2 730 1418 1486</uvrect>
+      <imgrect __type="4u16">0 732 1416 1488</imgrect>
+    </image>
+    <image name="serif05_10">
+      <uvrect __type="4u16">734 1462 1442 1510</uvrect>
+      <imgrect __type="4u16">732 1464 1440 1512</imgrect>
+    </image>
+    <image name="serif02_27">
+      <uvrect __type="4u16">2 726 1490 1558</uvrect>
+      <imgrect __type="4u16">0 728 1488 1560</imgrect>
+    </image>
+    <image name="serif01_44">
+      <uvrect __type="4u16">730 1454 1514 1582</uvrect>
+      <imgrect __type="4u16">728 1456 1512 1584</imgrect>
+    </image>
+    <image name="serif04_29">
+      <uvrect __type="4u16">2 722 1562 1630</uvrect>
+      <imgrect __type="4u16">0 724 1560 1632</imgrect>
+    </image>
+    <image name="serif03_33">
+      <uvrect __type="4u16">726 1446 1586 1654</uvrect>
+      <imgrect __type="4u16">724 1448 1584 1656</imgrect>
+    </image>
+    <image name="serif00_32">
+      <uvrect __type="4u16">2 722 1634 1702</uvrect>
+      <imgrect __type="4u16">0 724 1632 1704</imgrect>
+    </image>
+    <image name="serif04_02">
+      <uvrect __type="4u16">726 1442 1658 1726</uvrect>
+      <imgrect __type="4u16">724 1444 1656 1728</imgrect>
+    </image>
+    <image name="serif01_30">
+      <uvrect __type="4u16">2 718 1706 1774</uvrect>
+      <imgrect __type="4u16">0 720 1704 1776</imgrect>
+    </image>
+    <image name="serif00_37">
+      <uvrect __type="4u16">722 1438 1730 1798</uvrect>
+      <imgrect __type="4u16">720 1440 1728 1800</imgrect>
+    </image>
+    <image name="serif01_61">
+      <uvrect __type="4u16">2 714 1778 1846</uvrect>
+      <imgrect __type="4u16">0 716 1776 1848</imgrect>
+    </image>
+    <image name="serif03_42">
+      <uvrect __type="4u16">718 1426 1802 1870</uvrect>
+      <imgrect __type="4u16">716 1428 1800 1872</imgrect>
+    </image>
+    <image name="serif03_41">
+      <uvrect __type="4u16">2 710 1850 1918</uvrect>
+      <imgrect __type="4u16">0 712 1848 1920</imgrect>
+    </image>
+    <image name="info_tx04_06_mosaic">
+      <uvrect __type="4u16">714 1418 1874 1930</uvrect>
+      <imgrect __type="4u16">712 1420 1872 1932</imgrect>
+    </image>
+    <image name="info_tx04_06">
+      <uvrect __type="4u16">2 706 1922 1978</uvrect>
+      <imgrect __type="4u16">0 708 1920 1980</imgrect>
+    </image>
+    <image name="serif05_25">
+      <uvrect __type="4u16">710 1410 1934 2002</uvrect>
+      <imgrect __type="4u16">708 1412 1932 2004</imgrect>
+    </image>
+    <image name="qp_rupika_hair_f_sakebi">
+      <uvrect __type="4u16">1526 2046 362 1062</uvrect>
+      <imgrect __type="4u16">1524 2048 360 1064</imgrect>
+    </image>
+    <image name="qp_rupika_hair_f_hatena">
+      <uvrect __type="4u16">1502 2022 1066 1766</uvrect>
+      <imgrect __type="4u16">1500 2024 1064 1768</imgrect>
+    </image>
+    <image name="info_tx02_04">
+      <uvrect __type="4u16">2 686 1982 2038</uvrect>
+      <imgrect __type="4u16">0 688 1980 2040</imgrect>
+    </image>
+    <image name="noise_bg10">
+      <uvrect __type="4u16">1414 2046 1934 1990</uvrect>
+      <imgrect __type="4u16">1412 2048 1932 1992</imgrect>
+    </image>
+    <image name="info_tx01_07">
+      <uvrect __type="4u16">1422 2042 1874 1930</uvrect>
+      <imgrect __type="4u16">1420 2044 1872 1932</imgrect>
+    </image>
+    <image name="serif00_01">
+      <uvrect __type="4u16">1430 2046 1802 1870</uvrect>
+      <imgrect __type="4u16">1428 2048 1800 1872</imgrect>
+    </image>
+    <image name="serif05_07">
+      <uvrect __type="4u16">1530 2046 218 286</uvrect>
+      <imgrect __type="4u16">1528 2048 216 288</imgrect>
+    </image>
+    <image name="serif01_03">
+      <uvrect __type="4u16">1530 2046 290 358</uvrect>
+      <imgrect __type="4u16">1528 2048 288 360</imgrect>
+    </image>
+    <image name="serif04_51">
+      <uvrect __type="4u16">1538 2046 2 70</uvrect>
+      <imgrect __type="4u16">1536 2048 0 72</imgrect>
+    </image>
+    <image name="serif06_24">
+      <uvrect __type="4u16">1538 2042 74 142</uvrect>
+      <imgrect __type="4u16">1536 2044 72 144</imgrect>
+    </image>
+    <image name="serif02_25">
+      <uvrect __type="4u16">1536 2040 146 214</uvrect>
+      <imgrect __type="4u16">1534 2042 144 216</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex005" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="serif04_06">
+      <uvrect __type="4u16">2 702 2 70</uvrect>
+      <imgrect __type="4u16">0 704 0 72</imgrect>
+    </image>
+    <image name="serif01_20">
+      <uvrect __type="4u16">2 702 74 142</uvrect>
+      <imgrect __type="4u16">0 704 72 144</imgrect>
+    </image>
+    <image name="qp_rupika_hair_f_damage">
+      <uvrect __type="4u16">2 522 146 846</uvrect>
+      <imgrect __type="4u16">0 524 144 848</imgrect>
+    </image>
+    <image name="qp_rupika_hair_f_ayaturi">
+      <uvrect __type="4u16">706 1226 2 702</uvrect>
+      <imgrect __type="4u16">704 1228 0 704</imgrect>
+    </image>
+    <image name="qp_rupika_hair_f">
+      <uvrect __type="4u16">1230 1750 2 702</uvrect>
+      <imgrect __type="4u16">1228 1752 0 704</imgrect>
+    </image>
+    <image name="qp_rupika_hair_b">
+      <uvrect __type="4u16">526 1046 706 1406</uvrect>
+      <imgrect __type="4u16">524 1048 704 1408</imgrect>
+    </image>
+    <image name="qp_rupika_body_f">
+      <uvrect __type="4u16">1050 1566 706 1406</uvrect>
+      <imgrect __type="4u16">1048 1568 704 1408</imgrect>
+    </image>
+    <image name="qp_rupika_body_b">
+      <uvrect __type="4u16">2 518 850 1550</uvrect>
+      <imgrect __type="4u16">0 520 848 1552</imgrect>
+    </image>
+    <image name="qp_hakase_hand_r">
+      <uvrect __type="4u16">1570 1990 706 1406</uvrect>
+      <imgrect __type="4u16">1568 1992 704 1408</imgrect>
+    </image>
+    <image name="serif00_04">
+      <uvrect __type="4u16">522 1218 1410 1478</uvrect>
+      <imgrect __type="4u16">520 1220 1408 1480</imgrect>
+    </image>
+    <image name="serif03_56">
+      <uvrect __type="4u16">1222 1914 1410 1478</uvrect>
+      <imgrect __type="4u16">1220 1916 1408 1480</imgrect>
+    </image>
+    <image name="serif04_25">
+      <uvrect __type="4u16">522 1210 1482 1550</uvrect>
+      <imgrect __type="4u16">520 1212 1480 1552</imgrect>
+    </image>
+    <image name="serif00_23">
+      <uvrect __type="4u16">1214 1898 1482 1550</uvrect>
+      <imgrect __type="4u16">1212 1900 1480 1552</imgrect>
+    </image>
+    <image name="serif05_18">
+      <uvrect __type="4u16">2 678 1554 1622</uvrect>
+      <imgrect __type="4u16">0 680 1552 1624</imgrect>
+    </image>
+    <image name="info_tx06_03">
+      <uvrect __type="4u16">682 1358 1554 1610</uvrect>
+      <imgrect __type="4u16">680 1360 1552 1612</imgrect>
+    </image>
+    <image name="serif03_54">
+      <uvrect __type="4u16">1362 2034 1554 1622</uvrect>
+      <imgrect __type="4u16">1360 2036 1552 1624</imgrect>
+    </image>
+    <image name="serif01_37">
+      <uvrect __type="4u16">682 1354 1614 1682</uvrect>
+      <imgrect __type="4u16">680 1356 1612 1684</imgrect>
+    </image>
+    <image name="serif00_73">
+      <uvrect __type="4u16">2 674 1626 1694</uvrect>
+      <imgrect __type="4u16">0 676 1624 1696</imgrect>
+    </image>
+    <image name="serif04_49">
+      <uvrect __type="4u16">1358 2026 1626 1694</uvrect>
+      <imgrect __type="4u16">1356 2028 1624 1696</imgrect>
+    </image>
+    <image name="serif00_75">
+      <uvrect __type="4u16">678 1346 1686 1754</uvrect>
+      <imgrect __type="4u16">676 1348 1684 1756</imgrect>
+    </image>
+    <image name="info_tx02_08">
+      <uvrect __type="4u16">2 670 1698 1754</uvrect>
+      <imgrect __type="4u16">0 672 1696 1756</imgrect>
+    </image>
+    <image name="serif06_18">
+      <uvrect __type="4u16">1350 2014 1698 1766</uvrect>
+      <imgrect __type="4u16">1348 2016 1696 1768</imgrect>
+    </image>
+    <image name="serif03_01">
+      <uvrect __type="4u16">2 666 1758 1826</uvrect>
+      <imgrect __type="4u16">0 668 1756 1828</imgrect>
+    </image>
+    <image name="serif00_34">
+      <uvrect __type="4u16">670 1334 1758 1826</uvrect>
+      <imgrect __type="4u16">668 1336 1756 1828</imgrect>
+    </image>
+    <image name="serif06_42">
+      <uvrect __type="4u16">1338 1998 1770 1838</uvrect>
+      <imgrect __type="4u16">1336 2000 1768 1840</imgrect>
+    </image>
+    <image name="serif04_53">
+      <uvrect __type="4u16">2 662 1830 1898</uvrect>
+      <imgrect __type="4u16">0 664 1828 1900</imgrect>
+    </image>
+    <image name="serif02_28">
+      <uvrect __type="4u16">666 1326 1830 1898</uvrect>
+      <imgrect __type="4u16">664 1328 1828 1900</imgrect>
+    </image>
+    <image name="serif04_56">
+      <uvrect __type="4u16">1330 1986 1842 1910</uvrect>
+      <imgrect __type="4u16">1328 1988 1840 1912</imgrect>
+    </image>
+    <image name="serif01_29">
+      <uvrect __type="4u16">2 658 1902 1970</uvrect>
+      <imgrect __type="4u16">0 660 1900 1972</imgrect>
+    </image>
+    <image name="serif04_41">
+      <uvrect __type="4u16">662 1314 1902 1970</uvrect>
+      <imgrect __type="4u16">660 1316 1900 1972</imgrect>
+    </image>
+    <image name="serif04_46">
+      <uvrect __type="4u16">1318 1966 1914 1982</uvrect>
+      <imgrect __type="4u16">1316 1968 1912 1984</imgrect>
+    </image>
+    <image name="serif03_04">
+      <uvrect __type="4u16">2 646 1974 2042</uvrect>
+      <imgrect __type="4u16">0 648 1972 2044</imgrect>
+    </image>
+    <image name="serif00_69">
+      <uvrect __type="4u16">650 1286 1974 2042</uvrect>
+      <imgrect __type="4u16">648 1288 1972 2044</imgrect>
+    </image>
+    <image name="info_tx00_11">
+      <uvrect __type="4u16">1290 1922 1986 2042</uvrect>
+      <imgrect __type="4u16">1288 1924 1984 2044</imgrect>
+    </image>
+    <image name="qp_rupika_arm_l_lower">
+      <uvrect __type="4u16">1754 2034 2 386</uvrect>
+      <imgrect __type="4u16">1752 2036 0 388</imgrect>
+    </image>
+    <image name="serif03_16">
+      <uvrect __type="4u16">1754 2046 390 458</uvrect>
+      <imgrect __type="4u16">1752 2048 388 460</imgrect>
+    </image>
+    <image name="serif00_51">
+      <uvrect __type="4u16">1754 2046 462 530</uvrect>
+      <imgrect __type="4u16">1752 2048 460 532</imgrect>
+    </image>
+    <image name="serif00_39">
+      <uvrect __type="4u16">1754 2046 534 602</uvrect>
+      <imgrect __type="4u16">1752 2048 532 604</imgrect>
+    </image>
+    <image name="serif03_03">
+      <uvrect __type="4u16">1754 2038 606 674</uvrect>
+      <imgrect __type="4u16">1752 2040 604 676</imgrect>
+    </image>
+    <image name="action_03">
+      <uvrect __type="4u16">526 658 146 346</uvrect>
+      <imgrect __type="4u16">524 660 144 348</imgrect>
+    </image>
+    <image name="serif03_31">
+      <uvrect __type="4u16">526 702 350 418</uvrect>
+      <imgrect __type="4u16">524 704 348 420</imgrect>
+    </image>
+    <image name="serif04_44">
+      <uvrect __type="4u16">526 698 422 490</uvrect>
+      <imgrect __type="4u16">524 700 420 492</imgrect>
+    </image>
+    <image name="serif03_18">
+      <uvrect __type="4u16">526 698 494 562</uvrect>
+      <imgrect __type="4u16">524 700 492 564</imgrect>
+    </image>
+    <image name="serif03_08">
+      <uvrect __type="4u16">526 698 566 634</uvrect>
+      <imgrect __type="4u16">524 700 564 636</imgrect>
+    </image>
+    <image name="serif06_54">
+      <uvrect __type="4u16">1902 2042 1482 1550</uvrect>
+      <imgrect __type="4u16">1900 2044 1480 1552</imgrect>
+    </image>
+    <image name="serif06_17">
+      <uvrect __type="4u16">1918 2042 1410 1478</uvrect>
+      <imgrect __type="4u16">1916 2044 1408 1480</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex006" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="qp_repika_hair_f_warai">
+      <uvrect __type="4u16">2 522 2 702</uvrect>
+      <imgrect __type="4u16">0 524 0 704</imgrect>
+    </image>
+    <image name="qp_repika_hair_f_damage">
+      <uvrect __type="4u16">526 1046 2 702</uvrect>
+      <imgrect __type="4u16">524 1048 0 704</imgrect>
+    </image>
+    <image name="qp_repika_hair_f_ayaturi">
+      <uvrect __type="4u16">1050 1570 2 702</uvrect>
+      <imgrect __type="4u16">1048 1572 0 704</imgrect>
+    </image>
+    <image name="qp_repika_hair_f">
+      <uvrect __type="4u16">2 522 706 1406</uvrect>
+      <imgrect __type="4u16">0 524 704 1408</imgrect>
+    </image>
+    <image name="qp_repika_hair_b">
+      <uvrect __type="4u16">526 1046 706 1406</uvrect>
+      <imgrect __type="4u16">524 1048 704 1408</imgrect>
+    </image>
+    <image name="qp_repika_body_f">
+      <uvrect __type="4u16">1050 1566 706 1406</uvrect>
+      <imgrect __type="4u16">1048 1568 704 1408</imgrect>
+    </image>
+    <image name="serif01_48">
+      <uvrect __type="4u16">2 630 1410 1478</uvrect>
+      <imgrect __type="4u16">0 632 1408 1480</imgrect>
+    </image>
+    <image name="serif03_38">
+      <uvrect __type="4u16">634 1258 1410 1478</uvrect>
+      <imgrect __type="4u16">632 1260 1408 1480</imgrect>
+    </image>
+    <image name="serif06_41">
+      <uvrect __type="4u16">1262 1882 1410 1478</uvrect>
+      <imgrect __type="4u16">1260 1884 1408 1480</imgrect>
+    </image>
+    <image name="serif04_57">
+      <uvrect __type="4u16">2 622 1482 1550</uvrect>
+      <imgrect __type="4u16">0 624 1480 1552</imgrect>
+    </image>
+    <image name="serif00_76">
+      <uvrect __type="4u16">626 1246 1482 1550</uvrect>
+      <imgrect __type="4u16">624 1248 1480 1552</imgrect>
+    </image>
+    <image name="serif05_36">
+      <uvrect __type="4u16">1250 1858 1482 1550</uvrect>
+      <imgrect __type="4u16">1248 1860 1480 1552</imgrect>
+    </image>
+    <image name="serif04_62">
+      <uvrect __type="4u16">2 610 1554 1622</uvrect>
+      <imgrect __type="4u16">0 612 1552 1624</imgrect>
+    </image>
+    <image name="serif03_53">
+      <uvrect __type="4u16">614 1222 1554 1622</uvrect>
+      <imgrect __type="4u16">612 1224 1552 1624</imgrect>
+    </image>
+    <image name="serif02_02">
+      <uvrect __type="4u16">1226 1834 1554 1622</uvrect>
+      <imgrect __type="4u16">1224 1836 1552 1624</imgrect>
+    </image>
+    <image name="serif00_27">
+      <uvrect __type="4u16">2 610 1626 1694</uvrect>
+      <imgrect __type="4u16">0 612 1624 1696</imgrect>
+    </image>
+    <image name="info_tx04_03">
+      <uvrect __type="4u16">614 1218 1626 1682</uvrect>
+      <imgrect __type="4u16">612 1220 1624 1684</imgrect>
+    </image>
+    <image name="serif05_13">
+      <uvrect __type="4u16">1222 1822 1626 1694</uvrect>
+      <imgrect __type="4u16">1220 1824 1624 1696</imgrect>
+    </image>
+    <image name="serif00_17">
+      <uvrect __type="4u16">614 1214 1686 1754</uvrect>
+      <imgrect __type="4u16">612 1216 1684 1756</imgrect>
+    </image>
+    <image name="info_tx06_04">
+      <uvrect __type="4u16">2 602 1698 1754</uvrect>
+      <imgrect __type="4u16">0 604 1696 1756</imgrect>
+    </image>
+    <image name="serif04_36">
+      <uvrect __type="4u16">1218 1814 1698 1766</uvrect>
+      <imgrect __type="4u16">1216 1816 1696 1768</imgrect>
+    </image>
+    <image name="serif03_36">
+      <uvrect __type="4u16">2 594 1758 1826</uvrect>
+      <imgrect __type="4u16">0 596 1756 1828</imgrect>
+    </image>
+    <image name="serif00_60">
+      <uvrect __type="4u16">598 1186 1758 1826</uvrect>
+      <imgrect __type="4u16">596 1188 1756 1828</imgrect>
+    </image>
+    <image name="serif00_20">
+      <uvrect __type="4u16">1190 1778 1770 1838</uvrect>
+      <imgrect __type="4u16">1188 1780 1768 1840</imgrect>
+    </image>
+    <image name="serif02_11">
+      <uvrect __type="4u16">2 586 1830 1898</uvrect>
+      <imgrect __type="4u16">0 588 1828 1900</imgrect>
+    </image>
+    <image name="serif00_13">
+      <uvrect __type="4u16">590 1174 1830 1898</uvrect>
+      <imgrect __type="4u16">588 1176 1828 1900</imgrect>
+    </image>
+    <image name="info_tx01_04">
+      <uvrect __type="4u16">1178 1762 1842 1898</uvrect>
+      <imgrect __type="4u16">1176 1764 1840 1900</imgrect>
+    </image>
+    <image name="serif02_14">
+      <uvrect __type="4u16">2 582 1902 1970</uvrect>
+      <imgrect __type="4u16">0 584 1900 1972</imgrect>
+    </image>
+    <image name="serif05_03">
+      <uvrect __type="4u16">586 1162 1902 1970</uvrect>
+      <imgrect __type="4u16">584 1164 1900 1972</imgrect>
+    </image>
+    <image name="serif03_37">
+      <uvrect __type="4u16">1166 1742 1902 1970</uvrect>
+      <imgrect __type="4u16">1164 1744 1900 1972</imgrect>
+    </image>
+    <image name="serif03_24">
+      <uvrect __type="4u16">2 578 1974 2042</uvrect>
+      <imgrect __type="4u16">0 580 1972 2044</imgrect>
+    </image>
+    <image name="serif04_42">
+      <uvrect __type="4u16">582 1154 1974 2042</uvrect>
+      <imgrect __type="4u16">580 1156 1972 2044</imgrect>
+    </image>
+    <image name="serif04_16">
+      <uvrect __type="4u16">1158 1730 1974 2042</uvrect>
+      <imgrect __type="4u16">1156 1732 1972 2044</imgrect>
+    </image>
+    <image name="serif05_31">
+      <uvrect __type="4u16">1570 2046 706 774</uvrect>
+      <imgrect __type="4u16">1568 2048 704 776</imgrect>
+    </image>
+    <image name="serif02_20">
+      <uvrect __type="4u16">1570 2046 778 846</uvrect>
+      <imgrect __type="4u16">1568 2048 776 848</imgrect>
+    </image>
+    <image name="serif01_06">
+      <uvrect __type="4u16">1570 2046 850 918</uvrect>
+      <imgrect __type="4u16">1568 2048 848 920</imgrect>
+    </image>
+    <image name="kage">
+      <uvrect __type="4u16">1570 2046 922 994</uvrect>
+      <imgrect __type="4u16">1568 2048 920 996</imgrect>
+    </image>
+    <image name="serif06_15">
+      <uvrect __type="4u16">1574 2046 2 70</uvrect>
+      <imgrect __type="4u16">1572 2048 0 72</imgrect>
+    </image>
+    <image name="serif03_05">
+      <uvrect __type="4u16">1574 2046 74 142</uvrect>
+      <imgrect __type="4u16">1572 2048 72 144</imgrect>
+    </image>
+    <image name="serif03_29">
+      <uvrect __type="4u16">1574 2042 146 214</uvrect>
+      <imgrect __type="4u16">1572 2044 144 216</imgrect>
+    </image>
+    <image name="serif05_33">
+      <uvrect __type="4u16">1574 2038 218 286</uvrect>
+      <imgrect __type="4u16">1572 2040 216 288</imgrect>
+    </image>
+    <image name="serif03_09">
+      <uvrect __type="4u16">1574 2034 290 358</uvrect>
+      <imgrect __type="4u16">1572 2036 288 360</imgrect>
+    </image>
+    <image name="serif06_33">
+      <uvrect __type="4u16">1574 2022 362 430</uvrect>
+      <imgrect __type="4u16">1572 2024 360 432</imgrect>
+    </image>
+    <image name="serif06_30">
+      <uvrect __type="4u16">1574 2022 434 502</uvrect>
+      <imgrect __type="4u16">1572 2024 432 504</imgrect>
+    </image>
+    <image name="serif04_61">
+      <uvrect __type="4u16">1574 2022 506 574</uvrect>
+      <imgrect __type="4u16">1572 2024 504 576</imgrect>
+    </image>
+    <image name="info_tx02_06">
+      <uvrect __type="4u16">1574 2022 578 634</uvrect>
+      <imgrect __type="4u16">1572 2024 576 636</imgrect>
+    </image>
+    <image name="serif00_56">
+      <uvrect __type="4u16">1570 1994 998 1066</uvrect>
+      <imgrect __type="4u16">1568 1996 996 1068</imgrect>
+    </image>
+    <image name="serif01_11">
+      <uvrect __type="4u16">1570 1990 1070 1138</uvrect>
+      <imgrect __type="4u16">1568 1992 1068 1140</imgrect>
+    </image>
+    <image name="serif01_02">
+      <uvrect __type="4u16">1570 1990 1142 1210</uvrect>
+      <imgrect __type="4u16">1568 1992 1140 1212</imgrect>
+    </image>
+    <image name="serif04_04">
+      <uvrect __type="4u16">1570 1982 1214 1282</uvrect>
+      <imgrect __type="4u16">1568 1984 1212 1284</imgrect>
+    </image>
+    <image name="serif03_44">
+      <uvrect __type="4u16">1570 1982 1286 1354</uvrect>
+      <imgrect __type="4u16">1568 1984 1284 1356</imgrect>
+    </image>
+    <image name="serif06_27">
+      <uvrect __type="4u16">1734 2046 1974 2042</uvrect>
+      <imgrect __type="4u16">1732 2048 1972 2044</imgrect>
+    </image>
+    <image name="serif01_69">
+      <uvrect __type="4u16">1746 2046 1902 1970</uvrect>
+      <imgrect __type="4u16">1744 2048 1900 1972</imgrect>
+    </image>
+    <image name="serif01_46">
+      <uvrect __type="4u16">1782 2046 1770 1838</uvrect>
+      <imgrect __type="4u16">1780 2048 1768 1840</imgrect>
+    </image>
+    <image name="action_02">
+      <uvrect __type="4u16">1862 2042 1482 1722</uvrect>
+      <imgrect __type="4u16">1860 2044 1480 1724</imgrect>
+    </image>
+    <image name="serif00_74">
+      <uvrect __type="4u16">1886 2046 1358 1426</uvrect>
+      <imgrect __type="4u16">1884 2048 1356 1428</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex007" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="qp_repika_body_b">
+      <uvrect __type="4u16">2 518 2 702</uvrect>
+      <imgrect __type="4u16">0 520 0 704</imgrect>
+    </image>
+    <image name="qp_hakase_head_f">
+      <uvrect __type="4u16">522 1042 2 702</uvrect>
+      <imgrect __type="4u16">520 1044 0 704</imgrect>
+    </image>
+    <image name="qp_hakase_head_b">
+      <uvrect __type="4u16">1046 1566 2 702</uvrect>
+      <imgrect __type="4u16">1044 1568 0 704</imgrect>
+    </image>
+    <image name="qp_hakase_hair_f">
+      <uvrect __type="4u16">2 522 706 1406</uvrect>
+      <imgrect __type="4u16">0 524 704 1408</imgrect>
+    </image>
+    <image name="qp_hakase_hair_b">
+      <uvrect __type="4u16">526 1046 706 1406</uvrect>
+      <imgrect __type="4u16">524 1048 704 1408</imgrect>
+    </image>
+    <image name="qp_hakase_body_f">
+      <uvrect __type="4u16">1050 1566 706 1406</uvrect>
+      <imgrect __type="4u16">1048 1568 704 1408</imgrect>
+    </image>
+    <image name="serif00_16">
+      <uvrect __type="4u16">2 574 1410 1478</uvrect>
+      <imgrect __type="4u16">0 576 1408 1480</imgrect>
+    </image>
+    <image name="serif01_08">
+      <uvrect __type="4u16">578 1146 1410 1478</uvrect>
+      <imgrect __type="4u16">576 1148 1408 1480</imgrect>
+    </image>
+    <image name="info_tx02_01">
+      <uvrect __type="4u16">1150 1718 1410 1466</uvrect>
+      <imgrect __type="4u16">1148 1720 1408 1468</imgrect>
+    </image>
+    <image name="serif02_22">
+      <uvrect __type="4u16">1150 1714 1470 1538</uvrect>
+      <imgrect __type="4u16">1148 1716 1468 1540</imgrect>
+    </image>
+    <image name="serif06_16">
+      <uvrect __type="4u16">2 562 1482 1550</uvrect>
+      <imgrect __type="4u16">0 564 1480 1552</imgrect>
+    </image>
+    <image name="serif04_28">
+      <uvrect __type="4u16">566 1126 1482 1550</uvrect>
+      <imgrect __type="4u16">564 1128 1480 1552</imgrect>
+    </image>
+    <image name="serif01_72">
+      <uvrect __type="4u16">1130 1686 1542 1610</uvrect>
+      <imgrect __type="4u16">1128 1688 1540 1612</imgrect>
+    </image>
+    <image name="serif02_30">
+      <uvrect __type="4u16">2 550 1554 1622</uvrect>
+      <imgrect __type="4u16">0 552 1552 1624</imgrect>
+    </image>
+    <image name="serif06_04">
+      <uvrect __type="4u16">554 1086 1554 1622</uvrect>
+      <imgrect __type="4u16">552 1088 1552 1624</imgrect>
+    </image>
+    <image name="serif03_34">
+      <uvrect __type="4u16">1090 1622 1614 1682</uvrect>
+      <imgrect __type="4u16">1088 1624 1612 1684</imgrect>
+    </image>
+    <image name="serif00_33">
+      <uvrect __type="4u16">2 532 1626 1694</uvrect>
+      <imgrect __type="4u16">0 534 1624 1696</imgrect>
+    </image>
+    <image name="serif04_38">
+      <uvrect __type="4u16">536 1064 1626 1694</uvrect>
+      <imgrect __type="4u16">534 1066 1624 1696</imgrect>
+    </image>
+    <image name="serif00_49">
+      <uvrect __type="4u16">1068 1588 1686 1754</uvrect>
+      <imgrect __type="4u16">1066 1590 1684 1756</imgrect>
+    </image>
+    <image name="bg_pc_back2">
+      <uvrect __type="4u16">2 512 1698 2030</uvrect>
+      <imgrect __type="4u16">0 514 1696 2032</imgrect>
+    </image>
+    <image name="bg_pc_back1">
+      <uvrect __type="4u16">516 1026 1698 2030</uvrect>
+      <imgrect __type="4u16">514 1028 1696 2032</imgrect>
+    </image>
+    <image name="serif01_53">
+      <uvrect __type="4u16">1030 1530 1758 1826</uvrect>
+      <imgrect __type="4u16">1028 1532 1756 1828</imgrect>
+    </image>
+    <image name="serif00_59">
+      <uvrect __type="4u16">1534 2034 1758 1826</uvrect>
+      <imgrect __type="4u16">1532 2036 1756 1828</imgrect>
+    </image>
+    <image name="bg_pcroom_win01_02">
+      <uvrect __type="4u16">1570 1988 2 328</uvrect>
+      <imgrect __type="4u16">1568 1990 0 330</imgrect>
+    </image>
+    <image name="action_ikari">
+      <uvrect __type="4u16">1570 1986 332 746</uvrect>
+      <imgrect __type="4u16">1568 1988 330 748</imgrect>
+    </image>
+    <image name="serif00_19">
+      <uvrect __type="4u16">1570 1978 750 818</uvrect>
+      <imgrect __type="4u16">1568 1980 748 820</imgrect>
+    </image>
+    <image name="serif00_72">
+      <uvrect __type="4u16">1570 1970 822 890</uvrect>
+      <imgrect __type="4u16">1568 1972 820 892</imgrect>
+    </image>
+    <image name="serif06_08">
+      <uvrect __type="4u16">1570 1966 894 962</uvrect>
+      <imgrect __type="4u16">1568 1968 892 964</imgrect>
+    </image>
+    <image name="serif02_37">
+      <uvrect __type="4u16">1570 1966 966 1034</uvrect>
+      <imgrect __type="4u16">1568 1968 964 1036</imgrect>
+    </image>
+    <image name="serif00_31">
+      <uvrect __type="4u16">1570 1962 1038 1106</uvrect>
+      <imgrect __type="4u16">1568 1964 1036 1108</imgrect>
+    </image>
+    <image name="serif00_03">
+      <uvrect __type="4u16">1570 1962 1110 1178</uvrect>
+      <imgrect __type="4u16">1568 1964 1108 1180</imgrect>
+    </image>
+    <image name="serif06_21">
+      <uvrect __type="4u16">1570 1958 1182 1250</uvrect>
+      <imgrect __type="4u16">1568 1960 1180 1252</imgrect>
+    </image>
+    <image name="serif00_65">
+      <uvrect __type="4u16">1570 1958 1254 1322</uvrect>
+      <imgrect __type="4u16">1568 1960 1252 1324</imgrect>
+    </image>
+    <image name="serif03_27">
+      <uvrect __type="4u16">1570 1954 1326 1394</uvrect>
+      <imgrect __type="4u16">1568 1956 1324 1396</imgrect>
+    </image>
+    <image name="serif03_25">
+      <uvrect __type="4u16">1626 2010 1614 1682</uvrect>
+      <imgrect __type="4u16">1624 2012 1612 1684</imgrect>
+    </image>
+    <image name="serif03_06">
+      <uvrect __type="4u16">1592 1976 1686 1754</uvrect>
+      <imgrect __type="4u16">1590 1978 1684 1756</imgrect>
+    </image>
+    <image name="serif05_34">
+      <uvrect __type="4u16">1030 1410 1830 1898</uvrect>
+      <imgrect __type="4u16">1028 1412 1828 1900</imgrect>
+    </image>
+    <image name="serif05_14">
+      <uvrect __type="4u16">1414 1790 1830 1898</uvrect>
+      <imgrect __type="4u16">1412 1792 1828 1900</imgrect>
+    </image>
+    <image name="serif03_52">
+      <uvrect __type="4u16">1030 1406 1902 1970</uvrect>
+      <imgrect __type="4u16">1028 1408 1900 1972</imgrect>
+    </image>
+    <image name="serif04_34">
+      <uvrect __type="4u16">1410 1782 1902 1970</uvrect>
+      <imgrect __type="4u16">1408 1784 1900 1972</imgrect>
+    </image>
+    <image name="serif05_19">
+      <uvrect __type="4u16">1030 1390 1974 2042</uvrect>
+      <imgrect __type="4u16">1028 1392 1972 2044</imgrect>
+    </image>
+    <image name="serif06_10">
+      <uvrect __type="4u16">1690 2042 1542 1610</uvrect>
+      <imgrect __type="4u16">1688 2044 1540 1612</imgrect>
+    </image>
+    <image name="serif03_12">
+      <uvrect __type="4u16">1394 1746 1974 2042</uvrect>
+      <imgrect __type="4u16">1392 1748 1972 2044</imgrect>
+    </image>
+    <image name="serif02_39">
+      <uvrect __type="4u16">1718 2046 1470 1538</uvrect>
+      <imgrect __type="4u16">1716 2048 1468 1540</imgrect>
+    </image>
+    <image name="serif05_37">
+      <uvrect __type="4u16">1722 2046 1398 1466</uvrect>
+      <imgrect __type="4u16">1720 2048 1396 1468</imgrect>
+    </image>
+    <image name="serif00_63">
+      <uvrect __type="4u16">1750 2046 1974 2042</uvrect>
+      <imgrect __type="4u16">1748 2048 1972 2044</imgrect>
+    </image>
+    <image name="serif06_51">
+      <uvrect __type="4u16">1786 2046 1902 1970</uvrect>
+      <imgrect __type="4u16">1784 2048 1900 1972</imgrect>
+    </image>
+    <image name="serif05_35">
+      <uvrect __type="4u16">1794 2046 1830 1898</uvrect>
+      <imgrect __type="4u16">1792 2048 1828 1900</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex008" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="bg_pcroom_win01_01">
+      <uvrect __type="4u16">2 502 2 386</uvrect>
+      <imgrect __type="4u16">0 504 0 388</imgrect>
+    </image>
+    <image name="qp_repika_arm_r_upper">
+      <uvrect __type="4u16">506 766 2 386</uvrect>
+      <imgrect __type="4u16">504 768 0 388</imgrect>
+    </image>
+    <image name="qp_repika_arm_r_lower">
+      <uvrect __type="4u16">2 262 390 774</uvrect>
+      <imgrect __type="4u16">0 264 388 776</imgrect>
+    </image>
+    <image name="qp_repika_arm_l_upper">
+      <uvrect __type="4u16">266 546 390 774</uvrect>
+      <imgrect __type="4u16">264 548 388 776</imgrect>
+    </image>
+    <image name="qp_repika_arm_l_lower">
+      <uvrect __type="4u16">550 830 390 774</uvrect>
+      <imgrect __type="4u16">548 832 388 776</imgrect>
+    </image>
+    <image name="qp_hakase_arm_r_upper">
+      <uvrect __type="4u16">770 1030 2 386</uvrect>
+      <imgrect __type="4u16">768 1032 0 388</imgrect>
+    </image>
+    <image name="qp_hakase_arm_r_lower">
+      <uvrect __type="4u16">1034 1294 2 386</uvrect>
+      <imgrect __type="4u16">1032 1296 0 388</imgrect>
+    </image>
+    <image name="qp_hakase_arm_l_upper">
+      <uvrect __type="4u16">1298 1578 2 386</uvrect>
+      <imgrect __type="4u16">1296 1580 0 388</imgrect>
+    </image>
+    <image name="qp_hakase_arm_l_lower">
+      <uvrect __type="4u16">1582 1862 2 386</uvrect>
+      <imgrect __type="4u16">1580 1864 0 388</imgrect>
+    </image>
+    <image name="fire02">
+      <uvrect __type="4u16">834 1216 390 656</uvrect>
+      <imgrect __type="4u16">832 1218 388 658</imgrect>
+    </image>
+    <image name="fire01">
+      <uvrect __type="4u16">1220 1602 390 656</uvrect>
+      <imgrect __type="4u16">1218 1604 388 658</imgrect>
+    </image>
+    <image name="serif01_63">
+      <uvrect __type="4u16">1606 1958 390 458</uvrect>
+      <imgrect __type="4u16">1604 1960 388 460</imgrect>
+    </image>
+    <image name="serif04_26">
+      <uvrect __type="4u16">1606 1954 462 530</uvrect>
+      <imgrect __type="4u16">1604 1956 460 532</imgrect>
+    </image>
+    <image name="serif03_55">
+      <uvrect __type="4u16">1606 1954 534 602</uvrect>
+      <imgrect __type="4u16">1604 1956 532 604</imgrect>
+    </image>
+    <image name="serif03_30">
+      <uvrect __type="4u16">1606 1950 606 674</uvrect>
+      <imgrect __type="4u16">1604 1952 604 676</imgrect>
+    </image>
+    <image name="serif04_09">
+      <uvrect __type="4u16">834 1166 660 728</uvrect>
+      <imgrect __type="4u16">832 1168 658 730</imgrect>
+    </image>
+    <image name="serif03_11">
+      <uvrect __type="4u16">1170 1502 660 728</uvrect>
+      <imgrect __type="4u16">1168 1504 658 730</imgrect>
+    </image>
+    <image name="serif01_66">
+      <uvrect __type="4u16">1506 1838 678 746</uvrect>
+      <imgrect __type="4u16">1504 1840 676 748</imgrect>
+    </image>
+    <image name="serif00_47">
+      <uvrect __type="4u16">834 1166 732 800</uvrect>
+      <imgrect __type="4u16">832 1168 730 802</imgrect>
+    </image>
+    <image name="fire03">
+      <uvrect __type="4u16">1170 1500 732 984</uvrect>
+      <imgrect __type="4u16">1168 1502 730 986</imgrect>
+    </image>
+    <image name="serif01_40">
+      <uvrect __type="4u16">1504 1832 750 818</uvrect>
+      <imgrect __type="4u16">1502 1834 748 820</imgrect>
+    </image>
+    <image name="serif05_24">
+      <uvrect __type="4u16">2 326 778 846</uvrect>
+      <imgrect __type="4u16">0 328 776 848</imgrect>
+    </image>
+    <image name="serif02_38">
+      <uvrect __type="4u16">330 654 778 846</uvrect>
+      <imgrect __type="4u16">328 656 776 848</imgrect>
+    </image>
+    <image name="serif00_38">
+      <uvrect __type="4u16">658 982 804 872</uvrect>
+      <imgrect __type="4u16">656 984 802 874</imgrect>
+    </image>
+    <image name="serif04_45">
+      <uvrect __type="4u16">1504 1824 822 890</uvrect>
+      <imgrect __type="4u16">1502 1826 820 892</imgrect>
+    </image>
+    <image name="serif06_52">
+      <uvrect __type="4u16">2 318 850 918</uvrect>
+      <imgrect __type="4u16">0 320 848 920</imgrect>
+    </image>
+    <image name="serif04_10">
+      <uvrect __type="4u16">322 638 850 918</uvrect>
+      <imgrect __type="4u16">320 640 848 920</imgrect>
+    </image>
+    <image name="serif02_35">
+      <uvrect __type="4u16">642 958 876 944</uvrect>
+      <imgrect __type="4u16">640 960 874 946</imgrect>
+    </image>
+    <image name="serif01_34">
+      <uvrect __type="4u16">1504 1820 894 962</uvrect>
+      <imgrect __type="4u16">1502 1822 892 964</imgrect>
+    </image>
+    <image name="serif00_02">
+      <uvrect __type="4u16">2 318 922 990</uvrect>
+      <imgrect __type="4u16">0 320 920 992</imgrect>
+    </image>
+    <image name="serif04_35">
+      <uvrect __type="4u16">322 634 922 990</uvrect>
+      <imgrect __type="4u16">320 636 920 992</imgrect>
+    </image>
+    <image name="qp_hakase_face_neutral">
+      <uvrect __type="4u16">638 934 948 1260</uvrect>
+      <imgrect __type="4u16">636 936 946 1262</imgrect>
+    </image>
+    <image name="qp_hakase_face_damage">
+      <uvrect __type="4u16">1504 1800 966 1278</uvrect>
+      <imgrect __type="4u16">1502 1802 964 1280</imgrect>
+    </image>
+    <image name="qp_hakase_face_banzai">
+      <uvrect __type="4u16">938 1234 988 1300</uvrect>
+      <imgrect __type="4u16">936 1236 986 1302</imgrect>
+    </image>
+    <image name="qp_hakase_face_attack">
+      <uvrect __type="4u16">2 298 994 1306</uvrect>
+      <imgrect __type="4u16">0 300 992 1308</imgrect>
+    </image>
+    <image name="serif04_31">
+      <uvrect __type="4u16">302 610 994 1062</uvrect>
+      <imgrect __type="4u16">300 612 992 1064</imgrect>
+    </image>
+    <image name="serif04_23">
+      <uvrect __type="4u16">302 610 1066 1134</uvrect>
+      <imgrect __type="4u16">300 612 1064 1136</imgrect>
+    </image>
+    <image name="serif00_07">
+      <uvrect __type="4u16">302 610 1138 1206</uvrect>
+      <imgrect __type="4u16">300 612 1136 1208</imgrect>
+    </image>
+    <image name="serif04_20">
+      <uvrect __type="4u16">302 606 1210 1278</uvrect>
+      <imgrect __type="4u16">300 608 1208 1280</imgrect>
+    </image>
+    <image name="serif02_31">
+      <uvrect __type="4u16">610 914 1264 1332</uvrect>
+      <imgrect __type="4u16">608 916 1262 1334</imgrect>
+    </image>
+    <image name="serif00_71">
+      <uvrect __type="4u16">302 606 1282 1350</uvrect>
+      <imgrect __type="4u16">300 608 1280 1352</imgrect>
+    </image>
+    <image name="serif01_59">
+      <uvrect __type="4u16">1238 1522 1282 1350</uvrect>
+      <imgrect __type="4u16">1236 1524 1280 1352</imgrect>
+    </image>
+    <image name="serif01_65">
+      <uvrect __type="4u16">1526 1808 1282 1350</uvrect>
+      <imgrect __type="4u16">1524 1810 1280 1352</imgrect>
+    </image>
+    <image name="serif02_05">
+      <uvrect __type="4u16">918 1198 1304 1372</uvrect>
+      <imgrect __type="4u16">916 1200 1302 1374</imgrect>
+    </image>
+    <image name="serif01_43">
+      <uvrect __type="4u16">2 282 1310 1378</uvrect>
+      <imgrect __type="4u16">0 284 1308 1380</imgrect>
+    </image>
+    <image name="serif00_26">
+      <uvrect __type="4u16">610 890 1336 1404</uvrect>
+      <imgrect __type="4u16">608 892 1334 1406</imgrect>
+    </image>
+    <image name="bg_prg_bg_win_red">
+      <uvrect __type="4u16">286 566 1354 1598</uvrect>
+      <imgrect __type="4u16">284 568 1352 1600</imgrect>
+    </image>
+    <image name="bg_prg_bg_win_noise">
+      <uvrect __type="4u16">1202 1482 1354 1598</uvrect>
+      <imgrect __type="4u16">1200 1484 1352 1600</imgrect>
+    </image>
+    <image name="bg_prg_bg_win_blue">
+      <uvrect __type="4u16">1486 1766 1354 1598</uvrect>
+      <imgrect __type="4u16">1484 1768 1352 1600</imgrect>
+    </image>
+    <image name="serif03_19">
+      <uvrect __type="4u16">1770 2042 1354 1422</uvrect>
+      <imgrect __type="4u16">1768 2044 1352 1424</imgrect>
+    </image>
+    <image name="serif02_40">
+      <uvrect __type="4u16">894 1166 1376 1444</uvrect>
+      <imgrect __type="4u16">892 1168 1374 1446</imgrect>
+    </image>
+    <image name="serif02_17">
+      <uvrect __type="4u16">2 274 1382 1450</uvrect>
+      <imgrect __type="4u16">0 276 1380 1452</imgrect>
+    </image>
+    <image name="serif02_15">
+      <uvrect __type="4u16">570 842 1408 1476</uvrect>
+      <imgrect __type="4u16">568 844 1406 1478</imgrect>
+    </image>
+    <image name="serif03_47">
+      <uvrect __type="4u16">1770 2038 1426 1494</uvrect>
+      <imgrect __type="4u16">1768 2040 1424 1496</imgrect>
+    </image>
+    <image name="serif00_66">
+      <uvrect __type="4u16">846 1114 1448 1516</uvrect>
+      <imgrect __type="4u16">844 1116 1446 1518</imgrect>
+    </image>
+    <image name="serif06_12">
+      <uvrect __type="4u16">1238 1498 988 1056</uvrect>
+      <imgrect __type="4u16">1236 1500 986 1058</imgrect>
+    </image>
+    <image name="serif01_14">
+      <uvrect __type="4u16">1238 1498 1060 1128</uvrect>
+      <imgrect __type="4u16">1236 1500 1058 1130</imgrect>
+    </image>
+    <image name="qp_rupika_leg_l_lower">
+      <uvrect __type="4u16">1842 2042 678 938</uvrect>
+      <imgrect __type="4u16">1840 2044 676 940</imgrect>
+    </image>
+    <image name="qp_repika_leg_r_upper">
+      <uvrect __type="4u16">1824 2024 942 1202</uvrect>
+      <imgrect __type="4u16">1822 2026 940 1204</imgrect>
+    </image>
+    <image name="qp_repika_leg_r_lower">
+      <uvrect __type="4u16">2 202 1454 1714</uvrect>
+      <imgrect __type="4u16">0 204 1452 1716</imgrect>
+    </image>
+    <image name="qp_repika_leg_l_upper">
+      <uvrect __type="4u16">570 770 1480 1740</uvrect>
+      <imgrect __type="4u16">568 772 1478 1742</imgrect>
+    </image>
+    <image name="qp_repika_leg_l_lower">
+      <uvrect __type="4u16">1770 1970 1498 1758</uvrect>
+      <imgrect __type="4u16">1768 1972 1496 1760</imgrect>
+    </image>
+    <image name="qp_hakase_leg_r_upper">
+      <uvrect __type="4u16">774 974 1520 1780</uvrect>
+      <imgrect __type="4u16">772 976 1518 1782</imgrect>
+    </image>
+    <image name="qp_hakase_leg_r_lower">
+      <uvrect __type="4u16">978 1178 1520 1780</uvrect>
+      <imgrect __type="4u16">976 1180 1518 1782</imgrect>
+    </image>
+    <image name="qp_hakase_leg_l_upper">
+      <uvrect __type="4u16">206 406 1602 1862</uvrect>
+      <imgrect __type="4u16">204 408 1600 1864</imgrect>
+    </image>
+    <image name="qp_hakase_leg_l_lower">
+      <uvrect __type="4u16">1182 1382 1602 1862</uvrect>
+      <imgrect __type="4u16">1180 1384 1600 1864</imgrect>
+    </image>
+    <image name="serif06_01">
+      <uvrect __type="4u16">1238 1494 1132 1200</uvrect>
+      <imgrect __type="4u16">1236 1496 1130 1202</imgrect>
+    </image>
+    <image name="serif02_13">
+      <uvrect __type="4u16">1238 1494 1204 1272</uvrect>
+      <imgrect __type="4u16">1236 1496 1202 1274</imgrect>
+    </image>
+    <image name="serif01_54">
+      <uvrect __type="4u16">1386 1642 1602 1670</uvrect>
+      <imgrect __type="4u16">1384 1644 1600 1672</imgrect>
+    </image>
+    <image name="serif03_40">
+      <uvrect __type="4u16">1386 1638 1674 1742</uvrect>
+      <imgrect __type="4u16">1384 1640 1672 1744</imgrect>
+    </image>
+    <image name="serif04_60">
+      <uvrect __type="4u16">410 658 1744 1812</uvrect>
+      <imgrect __type="4u16">408 660 1742 1814</imgrect>
+    </image>
+    <image name="serif00_46">
+      <uvrect __type="4u16">1386 1634 1746 1814</uvrect>
+      <imgrect __type="4u16">1384 1636 1744 1816</imgrect>
+    </image>
+    <image name="serif02_01">
+      <uvrect __type="4u16">1638 1882 1762 1830</uvrect>
+      <imgrect __type="4u16">1636 1884 1760 1832</imgrect>
+    </image>
+    <image name="serif00_50">
+      <uvrect __type="4u16">662 906 1784 1852</uvrect>
+      <imgrect __type="4u16">660 908 1782 1854</imgrect>
+    </image>
+    <image name="serif06_48">
+      <uvrect __type="4u16">1804 2044 1206 1274</uvrect>
+      <imgrect __type="4u16">1802 2046 1204 1276</imgrect>
+    </image>
+    <image name="serif03_02">
+      <uvrect __type="4u16">910 1150 1784 1852</uvrect>
+      <imgrect __type="4u16">908 1152 1782 1854</imgrect>
+    </image>
+    <image name="serif05_02">
+      <uvrect __type="4u16">410 646 1816 1884</uvrect>
+      <imgrect __type="4u16">408 648 1814 1886</imgrect>
+    </image>
+    <image name="serif04_13">
+      <uvrect __type="4u16">1812 2044 1278 1346</uvrect>
+      <imgrect __type="4u16">1810 2046 1276 1348</imgrect>
+    </image>
+    <image name="serif03_20">
+      <uvrect __type="4u16">1386 1618 1818 1886</uvrect>
+      <imgrect __type="4u16">1384 1620 1816 1888</imgrect>
+    </image>
+    <image name="serif02_24">
+      <uvrect __type="4u16">1622 1854 1834 1902</uvrect>
+      <imgrect __type="4u16">1620 1856 1832 1904</imgrect>
+    </image>
+    <image name="serif05_05">
+      <uvrect __type="4u16">650 878 1856 1924</uvrect>
+      <imgrect __type="4u16">648 880 1854 1926</imgrect>
+    </image>
+    <image name="serif04_19">
+      <uvrect __type="4u16">882 1110 1856 1924</uvrect>
+      <imgrect __type="4u16">880 1112 1854 1926</imgrect>
+    </image>
+    <image name="serif03_39">
+      <uvrect __type="4u16">2 230 1866 1934</uvrect>
+      <imgrect __type="4u16">0 232 1864 1936</imgrect>
+    </image>
+    <image name="serif03_21">
+      <uvrect __type="4u16">1114 1338 1866 1934</uvrect>
+      <imgrect __type="4u16">1112 1340 1864 1936</imgrect>
+    </image>
+    <image name="serif01_05">
+      <uvrect __type="4u16">234 458 1888 1956</uvrect>
+      <imgrect __type="4u16">232 460 1886 1958</imgrect>
+    </image>
+    <image name="serif00_30">
+      <uvrect __type="4u16">1342 1566 1890 1958</uvrect>
+      <imgrect __type="4u16">1340 1568 1888 1960</imgrect>
+    </image>
+    <image name="serif01_51">
+      <uvrect __type="4u16">1570 1790 1906 1974</uvrect>
+      <imgrect __type="4u16">1568 1792 1904 1976</imgrect>
+    </image>
+    <image name="serif06_07">
+      <uvrect __type="4u16">1794 2010 1906 1974</uvrect>
+      <imgrect __type="4u16">1792 2012 1904 1976</imgrect>
+    </image>
+    <image name="serif00_41">
+      <uvrect __type="4u16">462 674 1928 1996</uvrect>
+      <imgrect __type="4u16">460 676 1926 1998</imgrect>
+    </image>
+    <image name="serif06_28">
+      <uvrect __type="4u16">678 886 1928 1996</uvrect>
+      <imgrect __type="4u16">676 888 1926 1998</imgrect>
+    </image>
+    <image name="serif06_26">
+      <uvrect __type="4u16">962 1166 876 944</uvrect>
+      <imgrect __type="4u16">960 1168 874 946</imgrect>
+    </image>
+    <image name="serif00_68">
+      <uvrect __type="4u16">2 198 1718 1786</uvrect>
+      <imgrect __type="4u16">0 200 1716 1788</imgrect>
+    </image>
+    <image name="serif06_03">
+      <uvrect __type="4u16">2 194 1790 1858</uvrect>
+      <imgrect __type="4u16">0 196 1788 1860</imgrect>
+    </image>
+    <image name="serif05_09">
+      <uvrect __type="4u16">890 1082 1928 1996</uvrect>
+      <imgrect __type="4u16">888 1084 1926 1998</imgrect>
+    </image>
+    <image name="serif04_24">
+      <uvrect __type="4u16">2 194 1938 2006</uvrect>
+      <imgrect __type="4u16">0 196 1936 2008</imgrect>
+    </image>
+    <image name="serif00_42">
+      <uvrect __type="4u16">1086 1278 1938 2006</uvrect>
+      <imgrect __type="4u16">1084 1280 1936 2008</imgrect>
+    </image>
+    <image name="serif01_47">
+      <uvrect __type="4u16">1858 2046 1834 1902</uvrect>
+      <imgrect __type="4u16">1856 2048 1832 1904</imgrect>
+    </image>
+    <image name="serif01_01">
+      <uvrect __type="4u16">198 386 1960 2028</uvrect>
+      <imgrect __type="4u16">196 388 1958 2030</imgrect>
+    </image>
+    <image name="serif06_20">
+      <uvrect __type="4u16">1282 1466 1962 2030</uvrect>
+      <imgrect __type="4u16">1280 1468 1960 2032</imgrect>
+    </image>
+    <image name="serif01_21">
+      <uvrect __type="4u16">1470 1654 1978 2046</uvrect>
+      <imgrect __type="4u16">1468 1656 1976 2048</imgrect>
+    </image>
+    <image name="serif01_04">
+      <uvrect __type="4u16">1658 1842 1978 2046</uvrect>
+      <imgrect __type="4u16">1656 1844 1976 2048</imgrect>
+    </image>
+    <image name="serif04_54">
+      <uvrect __type="4u16">1866 2046 2 70</uvrect>
+      <imgrect __type="4u16">1864 2048 0 72</imgrect>
+    </image>
+    <image name="serif04_22">
+      <uvrect __type="4u16">1866 2046 74 142</uvrect>
+      <imgrect __type="4u16">1864 2048 72 144</imgrect>
+    </image>
+    <image name="serif04_14">
+      <uvrect __type="4u16">1866 2046 146 214</uvrect>
+      <imgrect __type="4u16">1864 2048 144 216</imgrect>
+    </image>
+    <image name="serif01_71">
+      <uvrect __type="4u16">1866 2046 218 286</uvrect>
+      <imgrect __type="4u16">1864 2048 216 288</imgrect>
+    </image>
+    <image name="serif06_36">
+      <uvrect __type="4u16">1866 2034 290 358</uvrect>
+      <imgrect __type="4u16">1864 2036 288 360</imgrect>
+    </image>
+    <image name="serif01_73">
+      <uvrect __type="4u16">986 1142 804 872</uvrect>
+      <imgrect __type="4u16">984 1144 802 874</imgrect>
+    </image>
+    <image name="serif02_06">
+      <uvrect __type="4u16">410 562 1602 1670</uvrect>
+      <imgrect __type="4u16">408 564 1600 1672</imgrect>
+    </image>
+    <image name="serif03_26">
+      <uvrect __type="4u16">1886 2034 1762 1830</uvrect>
+      <imgrect __type="4u16">1884 2036 1760 1832</imgrect>
+    </image>
+    <image name="serif03_14">
+      <uvrect __type="4u16">1846 1994 1978 2046</uvrect>
+      <imgrect __type="4u16">1844 1996 1976 2048</imgrect>
+    </image>
+    <image name="serif06_13">
+      <uvrect __type="4u16">1642 1766 1674 1742</uvrect>
+      <imgrect __type="4u16">1640 1768 1672 1744</imgrect>
+    </image>
+    <image name="serif04_33">
+      <uvrect __type="4u16">1646 1758 1602 1670</uvrect>
+      <imgrect __type="4u16">1644 1760 1600 1672</imgrect>
+    </image>
+  </texture>
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex009" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 512</size>
+    <image name="action_07">
+      <uvrect __type="4u16">2 232 2 216</uvrect>
+      <imgrect __type="4u16">0 234 0 218</imgrect>
+    </image>
+    <image name="gate_lock1">
+      <uvrect __type="4u16">236 436 2 202</uvrect>
+      <imgrect __type="4u16">234 438 0 204</imgrect>
+    </image>
+    <image name="inazuma30">
+      <uvrect __type="4u16">236 426 206 396</uvrect>
+      <imgrect __type="4u16">234 428 204 398</imgrect>
+    </image>
+    <image name="inazuma29">
+      <uvrect __type="4u16">2 192 220 410</uvrect>
+      <imgrect __type="4u16">0 194 218 412</imgrect>
+    </image>
+    <image name="inazuma28">
+      <uvrect __type="4u16">440 630 2 192</uvrect>
+      <imgrect __type="4u16">438 632 0 194</imgrect>
+    </image>
+    <image name="inazuma27">
+      <uvrect __type="4u16">634 824 2 192</uvrect>
+      <imgrect __type="4u16">632 826 0 194</imgrect>
+    </image>
+    <image name="inazuma26">
+      <uvrect __type="4u16">828 1018 2 192</uvrect>
+      <imgrect __type="4u16">826 1020 0 194</imgrect>
+    </image>
+    <image name="inazuma25">
+      <uvrect __type="4u16">440 630 196 386</uvrect>
+      <imgrect __type="4u16">438 632 194 388</imgrect>
+    </image>
+    <image name="inazuma24">
+      <uvrect __type="4u16">634 824 196 386</uvrect>
+      <imgrect __type="4u16">632 826 194 388</imgrect>
+    </image>
+    <image name="inazuma23">
+      <uvrect __type="4u16">828 1018 196 386</uvrect>
+      <imgrect __type="4u16">826 1020 194 388</imgrect>
+    </image>
+    <image name="inazuma22">
+      <uvrect __type="4u16">430 620 390 580</uvrect>
+      <imgrect __type="4u16">428 622 388 582</imgrect>
+    </image>
+    <image name="inazuma21">
+      <uvrect __type="4u16">624 814 390 580</uvrect>
+      <imgrect __type="4u16">622 816 388 582</imgrect>
+    </image>
+    <image name="inazuma20">
+      <uvrect __type="4u16">818 1008 390 580</uvrect>
+      <imgrect __type="4u16">816 1010 388 582</imgrect>
+    </image>
+    <image name="inazuma19">
+      <uvrect __type="4u16">196 386 400 590</uvrect>
+      <imgrect __type="4u16">194 388 398 592</imgrect>
+    </image>
+    <image name="inazuma18">
+      <uvrect __type="4u16">2 192 414 604</uvrect>
+      <imgrect __type="4u16">0 194 412 606</imgrect>
+    </image>
+    <image name="inazuma17">
+      <uvrect __type="4u16">390 580 584 774</uvrect>
+      <imgrect __type="4u16">388 582 582 776</imgrect>
+    </image>
+    <image name="inazuma16">
+      <uvrect __type="4u16">584 774 584 774</uvrect>
+      <imgrect __type="4u16">582 776 582 776</imgrect>
+    </image>
+    <image name="inazuma15">
+      <uvrect __type="4u16">778 968 584 774</uvrect>
+      <imgrect __type="4u16">776 970 582 776</imgrect>
+    </image>
+    <image name="inazuma14">
+      <uvrect __type="4u16">196 386 594 784</uvrect>
+      <imgrect __type="4u16">194 388 592 786</imgrect>
+    </image>
+    <image name="inazuma13">
+      <uvrect __type="4u16">2 192 608 798</uvrect>
+      <imgrect __type="4u16">0 194 606 800</imgrect>
+    </image>
+    <image name="inazuma12">
+      <uvrect __type="4u16">390 580 778 968</uvrect>
+      <imgrect __type="4u16">388 582 776 970</imgrect>
+    </image>
+    <image name="inazuma11">
+      <uvrect __type="4u16">584 774 778 968</uvrect>
+      <imgrect __type="4u16">582 776 776 970</imgrect>
+    </image>
+    <image name="inazuma10">
+      <uvrect __type="4u16">778 968 778 968</uvrect>
+      <imgrect __type="4u16">776 970 776 970</imgrect>
+    </image>
+    <image name="inazuma09">
+      <uvrect __type="4u16">196 386 788 978</uvrect>
+      <imgrect __type="4u16">194 388 786 980</imgrect>
+    </image>
+    <image name="inazuma08">
+      <uvrect __type="4u16">2 192 802 992</uvrect>
+      <imgrect __type="4u16">0 194 800 994</imgrect>
+    </image>
+    <image name="inazuma07">
+      <uvrect __type="4u16">1022 1212 2 192</uvrect>
+      <imgrect __type="4u16">1020 1214 0 194</imgrect>
+    </image>
+    <image name="inazuma06">
+      <uvrect __type="4u16">1216 1406 2 192</uvrect>
+      <imgrect __type="4u16">1214 1408 0 194</imgrect>
+    </image>
+    <image name="inazuma05">
+      <uvrect __type="4u16">1410 1600 2 192</uvrect>
+      <imgrect __type="4u16">1408 1602 0 194</imgrect>
+    </image>
+    <image name="inazuma04">
+      <uvrect __type="4u16">1604 1794 2 192</uvrect>
+      <imgrect __type="4u16">1602 1796 0 194</imgrect>
+    </image>
+    <image name="inazuma03">
+      <uvrect __type="4u16">1798 1988 2 192</uvrect>
+      <imgrect __type="4u16">1796 1990 0 194</imgrect>
+    </image>
+    <image name="inazuma02">
+      <uvrect __type="4u16">1022 1212 196 386</uvrect>
+      <imgrect __type="4u16">1020 1214 194 388</imgrect>
+    </image>
+    <image name="inazuma01">
+      <uvrect __type="4u16">1216 1406 196 386</uvrect>
+      <imgrect __type="4u16">1214 1408 194 388</imgrect>
+    </image>
+    <image name="action_05b">
+      <uvrect __type="4u16">1410 1538 196 356</uvrect>
+      <imgrect __type="4u16">1408 1540 194 358</imgrect>
+    </image>
+    <image name="action_05c">
+      <uvrect __type="4u16">1542 1686 196 316</uvrect>
+      <imgrect __type="4u16">1540 1688 194 318</imgrect>
+    </image>
+    <image name="serif00_00">
+      <uvrect __type="4u16">1690 1830 196 264</uvrect>
+      <imgrect __type="4u16">1688 1832 194 266</imgrect>
+    </image>
+    <image name="serif05_32">
+      <uvrect __type="4u16">1834 1966 196 264</uvrect>
+      <imgrect __type="4u16">1832 1968 194 266</imgrect>
+    </image>
+    <image name="serif00_54">
+      <uvrect __type="4u16">1690 1822 268 336</uvrect>
+      <imgrect __type="4u16">1688 1824 266 338</imgrect>
+    </image>
+    <image name="serif00_64">
+      <uvrect __type="4u16">1826 1950 268 336</uvrect>
+      <imgrect __type="4u16">1824 1952 266 338</imgrect>
+    </image>
+    <image name="action_04b">
+      <uvrect __type="4u16">1542 1662 320 440</uvrect>
+      <imgrect __type="4u16">1540 1664 318 442</imgrect>
+    </image>
+    <image name="action_04a">
+      <uvrect __type="4u16">1666 1786 340 460</uvrect>
+      <imgrect __type="4u16">1664 1788 338 462</imgrect>
+    </image>
+    <image name="serif00_11">
+      <uvrect __type="4u16">1790 1894 340 408</uvrect>
+      <imgrect __type="4u16">1788 1896 338 410</imgrect>
+    </image>
+    <image name="serif01_62">
+      <uvrect __type="4u16">1898 1998 340 408</uvrect>
+      <imgrect __type="4u16">1896 2000 338 410</imgrect>
+    </image>
+  </texture>
+</texturelist>

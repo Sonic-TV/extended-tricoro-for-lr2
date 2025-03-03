@@ -1,0 +1,478 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<texturelist compress="avslz">
+  <texture format="argb8888rev" mag_filter="nearest" min_filter="nearest" name="tex000" wrap_s="clamp" wrap_t="clamp">
+    <size __type="2u16">1024 1024</size>
+    <image name="rival_gekitui02">
+      <uvrect __type="4u16">2 842 2 310</uvrect>
+      <imgrect __type="4u16">0 844 0 312</imgrect>
+    </image>
+    <image name="rival_gekitui01">
+      <uvrect __type="4u16">2 842 314 622</uvrect>
+      <imgrect __type="4u16">0 844 312 624</imgrect>
+    </image>
+    <image name="pdata_waku_top">
+      <uvrect __type="4u16">2 814 626 670</uvrect>
+      <imgrect __type="4u16">0 816 624 672</imgrect>
+    </image>
+    <image name="pdata_waku_in">
+      <uvrect __type="4u16">2 814 674 888</uvrect>
+      <imgrect __type="4u16">0 816 672 890</imgrect>
+    </image>
+    <image name="pdata_waku_bottom">
+      <uvrect __type="4u16">2 814 892 906</uvrect>
+      <imgrect __type="4u16">0 816 890 908</imgrect>
+    </image>
+    <image name="pdata_dj_lv">
+      <uvrect __type="4u16">2 806 910 966</uvrect>
+      <imgrect __type="4u16">0 808 908 968</imgrect>
+    </image>
+    <image name="sco_data_bar">
+      <uvrect __type="4u16">2 758 970 1002</uvrect>
+      <imgrect __type="4u16">0 760 968 1004</imgrect>
+    </image>
+    <image name="rival_waku">
+      <uvrect __type="4u16">846 1572 2 358</uvrect>
+      <imgrect __type="4u16">844 1574 0 360</imgrect>
+    </image>
+    <image name="rival_window">
+      <uvrect __type="4u16">846 1490 362 684</uvrect>
+      <imgrect __type="4u16">844 1492 360 686</imgrect>
+    </image>
+    <image name="rival_sco_bar">
+      <uvrect __type="4u16">818 1430 688 728</uvrect>
+      <imgrect __type="4u16">816 1432 686 730</imgrect>
+    </image>
+    <image name="rival_comment">
+      <uvrect __type="4u16">1434 2034 688 928</uvrect>
+      <imgrect __type="4u16">1432 2036 686 930</imgrect>
+    </image>
+    <image name="djpoint_window">
+      <uvrect __type="4u16">1494 2034 362 684</uvrect>
+      <imgrect __type="4u16">1492 2036 360 686</imgrect>
+    </image>
+    <image name="sel_no">
+      <uvrect __type="4u16">1576 2008 2 166</uvrect>
+      <imgrect __type="4u16">1574 2010 0 168</imgrect>
+    </image>
+    <image name="sel_go">
+      <uvrect __type="4u16">1576 2008 170 334</uvrect>
+      <imgrect __type="4u16">1574 2010 168 336</imgrect>
+    </image>
+    <image name="sel_fugo">
+      <uvrect __type="4u16">818 1250 732 896</uvrect>
+      <imgrect __type="4u16">816 1252 730 898</imgrect>
+    </image>
+    <image name="ec_fcw">
+      <uvrect __type="4u16">818 1220 900 936</uvrect>
+      <imgrect __type="4u16">816 1222 898 938</imgrect>
+    </image>
+    <image name="ec_fcr">
+      <uvrect __type="4u16">1224 1626 932 968</uvrect>
+      <imgrect __type="4u16">1222 1628 930 970</imgrect>
+    </image>
+    <image name="ec_fcb">
+      <uvrect __type="4u16">1630 2032 932 968</uvrect>
+      <imgrect __type="4u16">1628 2034 930 970</imgrect>
+    </image>
+    <image name="rival_bg05">
+      <uvrect __type="4u16">810 1130 940 1328</uvrect>
+      <imgrect __type="4u16">808 1132 938 1330</imgrect>
+    </image>
+    <image name="ec_exhcle">
+      <uvrect __type="4u16">1134 1462 972 1008</uvrect>
+      <imgrect __type="4u16">1132 1464 970 1010</imgrect>
+    </image>
+    <image name="ec_5k_ascr_clear">
+      <uvrect __type="4u16">1466 1766 972 1008</uvrect>
+      <imgrect __type="4u16">1464 1768 970 1010</imgrect>
+    </image>
+    <image name="rival_bg04">
+      <uvrect __type="4u16">2 282 1006 1294</uvrect>
+      <imgrect __type="4u16">0 284 1004 1296</imgrect>
+    </image>
+    <image name="rival_bg03">
+      <uvrect __type="4u16">286 566 1006 1294</uvrect>
+      <imgrect __type="4u16">284 568 1004 1296</imgrect>
+    </image>
+    <image name="rival_bg02">
+      <uvrect __type="4u16">1134 1414 1012 1300</uvrect>
+      <imgrect __type="4u16">1132 1416 1010 1302</imgrect>
+    </image>
+    <image name="rival_bg01">
+      <uvrect __type="4u16">1418 1698 1012 1300</uvrect>
+      <imgrect __type="4u16">1416 1700 1010 1302</imgrect>
+    </image>
+    <image name="rival_bg00">
+      <uvrect __type="4u16">1702 1982 1012 1300</uvrect>
+      <imgrect __type="4u16">1700 1984 1010 1302</imgrect>
+    </image>
+    <image name="rival_nichiji">
+      <uvrect __type="4u16">2 282 1298 1334</uvrect>
+      <imgrect __type="4u16">0 284 1296 1336</imgrect>
+    </image>
+    <image name="lv_fs">
+      <uvrect __type="4u16">286 558 1298 1384</uvrect>
+      <imgrect __type="4u16">284 560 1296 1386</imgrect>
+    </image>
+    <image name="lv_es">
+      <uvrect __type="4u16">1134 1406 1304 1390</uvrect>
+      <imgrect __type="4u16">1132 1408 1302 1392</imgrect>
+    </image>
+    <image name="lv_ds">
+      <uvrect __type="4u16">1410 1682 1304 1390</uvrect>
+      <imgrect __type="4u16">1408 1684 1302 1392</imgrect>
+    </image>
+    <image name="lv_cs">
+      <uvrect __type="4u16">1686 1958 1304 1390</uvrect>
+      <imgrect __type="4u16">1684 1960 1302 1392</imgrect>
+    </image>
+    <image name="lv_bs">
+      <uvrect __type="4u16">562 834 1332 1418</uvrect>
+      <imgrect __type="4u16">560 836 1330 1420</imgrect>
+    </image>
+    <image name="lv_as">
+      <uvrect __type="4u16">838 1110 1332 1418</uvrect>
+      <imgrect __type="4u16">836 1112 1330 1420</imgrect>
+    </image>
+    <image name="lv_aas">
+      <uvrect __type="4u16">2 274 1338 1424</uvrect>
+      <imgrect __type="4u16">0 276 1336 1426</imgrect>
+    </image>
+    <image name="lv_aaas">
+      <uvrect __type="4u16">278 550 1388 1474</uvrect>
+      <imgrect __type="4u16">276 552 1386 1476</imgrect>
+    </image>
+    <image name="pdata_txt_miss_count">
+      <uvrect __type="4u16">1770 2034 972 1006</uvrect>
+      <imgrect __type="4u16">1768 2036 970 1008</imgrect>
+    </image>
+    <image name="ec_hdcle">
+      <uvrect __type="4u16">1114 1376 1394 1430</uvrect>
+      <imgrect __type="4u16">1112 1378 1392 1432</imgrect>
+    </image>
+    <image name="reverse">
+      <uvrect __type="4u16">1380 1638 1394 1456</uvrect>
+      <imgrect __type="4u16">1378 1640 1392 1458</imgrect>
+    </image>
+    <image name="new">
+      <uvrect __type="4u16">1642 1900 1394 1456</uvrect>
+      <imgrect __type="4u16">1640 1902 1392 1458</imgrect>
+    </image>
+    <image name="ec_easyc">
+      <uvrect __type="4u16">554 810 1422 1458</uvrect>
+      <imgrect __type="4u16">552 812 1420 1460</imgrect>
+    </image>
+    <image name="rival_comment_tilte">
+      <uvrect __type="4u16">562 802 1298 1326</uvrect>
+      <imgrect __type="4u16">560 804 1296 1328</imgrect>
+    </image>
+    <image name="rival_sabun">
+      <uvrect __type="4u16">570 778 1006 1042</uvrect>
+      <imgrect __type="4u16">568 780 1004 1044</imgrect>
+    </image>
+    <image name="pdata_txt_exscore">
+      <uvrect __type="4u16">570 778 1046 1080</uvrect>
+      <imgrect __type="4u16">568 780 1044 1082</imgrect>
+    </image>
+    <image name="rival_win_shop">
+      <uvrect __type="4u16">1224 1424 900 928</uvrect>
+      <imgrect __type="4u16">1222 1426 898 930</imgrect>
+    </image>
+    <image name="rival_win_score">
+      <uvrect __type="4u16">570 770 1084 1112</uvrect>
+      <imgrect __type="4u16">568 772 1082 1114</imgrect>
+    </image>
+    <image name="rival_win_rival">
+      <uvrect __type="4u16">570 770 1116 1144</uvrect>
+      <imgrect __type="4u16">568 772 1114 1146</imgrect>
+    </image>
+    <image name="ec_nplay">
+      <uvrect __type="4u16">570 754 1148 1184</uvrect>
+      <imgrect __type="4u16">568 756 1146 1186</imgrect>
+    </image>
+    <image name="pdata_txt_score_data">
+      <uvrect __type="4u16">1254 1430 732 756</uvrect>
+      <imgrect __type="4u16">1252 1432 730 758</imgrect>
+    </image>
+    <image name="rival_w_noplay">
+      <uvrect __type="4u16">1254 1418 760 794</uvrect>
+      <imgrect __type="4u16">1252 1420 758 796</imgrect>
+    </image>
+    <image name="rival_w_hdcle">
+      <uvrect __type="4u16">1254 1418 798 832</uvrect>
+      <imgrect __type="4u16">1252 1420 796 834</imgrect>
+    </image>
+    <image name="rival_w_fcw">
+      <uvrect __type="4u16">1254 1418 836 870</uvrect>
+      <imgrect __type="4u16">1252 1420 834 872</imgrect>
+    </image>
+    <image name="rival_w_fcr">
+      <uvrect __type="4u16">570 734 1188 1222</uvrect>
+      <imgrect __type="4u16">568 736 1186 1224</imgrect>
+    </image>
+    <image name="rival_w_fcb">
+      <uvrect __type="4u16">570 734 1226 1260</uvrect>
+      <imgrect __type="4u16">568 736 1224 1262</imgrect>
+    </image>
+    <image name="rival_w_faile">
+      <uvrect __type="4u16">814 978 1422 1456</uvrect>
+      <imgrect __type="4u16">812 980 1420 1458</imgrect>
+    </image>
+    <image name="rival_w_exhdcle">
+      <uvrect __type="4u16">2 166 1428 1462</uvrect>
+      <imgrect __type="4u16">0 168 1426 1464</imgrect>
+    </image>
+    <image name="rival_w_easyc">
+      <uvrect __type="4u16">982 1146 1434 1468</uvrect>
+      <imgrect __type="4u16">980 1148 1432 1470</imgrect>
+    </image>
+    <image name="rival_w_clear">
+      <uvrect __type="4u16">1150 1314 1434 1468</uvrect>
+      <imgrect __type="4u16">1148 1316 1432 1470</imgrect>
+    </image>
+    <image name="rival_w_ascr_clear">
+      <uvrect __type="4u16">814 978 1460 1494</uvrect>
+      <imgrect __type="4u16">812 980 1458 1496</imgrect>
+    </image>
+    <image name="txt_tassei">
+      <uvrect __type="4u16">1318 1474 1460 1520</uvrect>
+      <imgrect __type="4u16">1316 1476 1458 1522</imgrect>
+    </image>
+    <image name="ec_faile">
+      <uvrect __type="4u16">1478 1624 1460 1496</uvrect>
+      <imgrect __type="4u16">1476 1626 1458 1498</imgrect>
+    </image>
+    <image name="rival_title">
+      <uvrect __type="4u16">1628 1772 1460 1520</uvrect>
+      <imgrect __type="4u16">1626 1774 1458 1522</imgrect>
+    </image>
+    <image name="ec_clear">
+      <uvrect __type="4u16">1904 2040 1394 1430</uvrect>
+      <imgrect __type="4u16">1902 2042 1392 1432</imgrect>
+    </image>
+    <image name="ta_09">
+      <uvrect __type="4u16">170 262 1428 1560</uvrect>
+      <imgrect __type="4u16">168 264 1426 1562</imgrect>
+    </image>
+    <image name="ta_08">
+      <uvrect __type="4u16">1904 1996 1434 1566</uvrect>
+      <imgrect __type="4u16">1902 1998 1432 1568</imgrect>
+    </image>
+    <image name="ta_07">
+      <uvrect __type="4u16">1776 1868 1460 1592</uvrect>
+      <imgrect __type="4u16">1774 1870 1458 1594</imgrect>
+    </image>
+    <image name="ta_06">
+      <uvrect __type="4u16">554 646 1462 1594</uvrect>
+      <imgrect __type="4u16">552 648 1460 1596</imgrect>
+    </image>
+    <image name="ta_05">
+      <uvrect __type="4u16">650 742 1462 1594</uvrect>
+      <imgrect __type="4u16">648 744 1460 1596</imgrect>
+    </image>
+    <image name="ta_04">
+      <uvrect __type="4u16">2 94 1466 1598</uvrect>
+      <imgrect __type="4u16">0 96 1464 1600</imgrect>
+    </image>
+    <image name="ta_03">
+      <uvrect __type="4u16">982 1074 1472 1604</uvrect>
+      <imgrect __type="4u16">980 1076 1470 1606</imgrect>
+    </image>
+    <image name="ta_02">
+      <uvrect __type="4u16">1078 1170 1472 1604</uvrect>
+      <imgrect __type="4u16">1076 1172 1470 1606</imgrect>
+    </image>
+    <image name="ta_01">
+      <uvrect __type="4u16">1174 1266 1472 1604</uvrect>
+      <imgrect __type="4u16">1172 1268 1470 1606</imgrect>
+    </image>
+    <image name="ta_00">
+      <uvrect __type="4u16">266 358 1478 1610</uvrect>
+      <imgrect __type="4u16">264 360 1476 1612</imgrect>
+    </image>
+    <image name="lv_sabun_max">
+      <uvrect __type="4u16">362 468 1478 1512</uvrect>
+      <imgrect __type="4u16">360 470 1476 1514</imgrect>
+    </image>
+    <image name="lv_sabun_f">
+      <uvrect __type="4u16">746 852 1498 1532</uvrect>
+      <imgrect __type="4u16">744 854 1496 1534</imgrect>
+    </image>
+    <image name="lv_sabun_e">
+      <uvrect __type="4u16">856 962 1498 1532</uvrect>
+      <imgrect __type="4u16">854 964 1496 1534</imgrect>
+    </image>
+    <image name="lv_sabun_d">
+      <uvrect __type="4u16">1478 1584 1500 1534</uvrect>
+      <imgrect __type="4u16">1476 1586 1498 1536</imgrect>
+    </image>
+    <image name="lv_sabun_c">
+      <uvrect __type="4u16">362 468 1516 1550</uvrect>
+      <imgrect __type="4u16">360 470 1514 1552</imgrect>
+    </image>
+    <image name="lv_sabun_b">
+      <uvrect __type="4u16">1270 1376 1524 1558</uvrect>
+      <imgrect __type="4u16">1268 1378 1522 1560</imgrect>
+    </image>
+    <image name="lv_sabun_aaa">
+      <uvrect __type="4u16">1588 1694 1524 1558</uvrect>
+      <imgrect __type="4u16">1586 1696 1522 1560</imgrect>
+    </image>
+    <image name="lv_sabun_aa">
+      <uvrect __type="4u16">746 852 1536 1570</uvrect>
+      <imgrect __type="4u16">744 854 1534 1572</imgrect>
+    </image>
+    <image name="lv_sabun_a">
+      <uvrect __type="4u16">856 962 1536 1570</uvrect>
+      <imgrect __type="4u16">854 964 1534 1572</imgrect>
+    </image>
+    <image name="rival_f">
+      <uvrect __type="4u16">1380 1476 1538 1574</uvrect>
+      <imgrect __type="4u16">1378 1478 1536 1576</imgrect>
+    </image>
+    <image name="rival_e">
+      <uvrect __type="4u16">1480 1576 1538 1574</uvrect>
+      <imgrect __type="4u16">1478 1578 1536 1576</imgrect>
+    </image>
+    <image name="rival_d">
+      <uvrect __type="4u16">362 458 1554 1590</uvrect>
+      <imgrect __type="4u16">360 460 1552 1592</imgrect>
+    </image>
+    <image name="rival_c">
+      <uvrect __type="4u16">1270 1366 1562 1598</uvrect>
+      <imgrect __type="4u16">1268 1368 1560 1600</imgrect>
+    </image>
+    <image name="rival_b">
+      <uvrect __type="4u16">1580 1676 1562 1598</uvrect>
+      <imgrect __type="4u16">1578 1678 1560 1600</imgrect>
+    </image>
+    <image name="rival_aaa">
+      <uvrect __type="4u16">98 194 1564 1600</uvrect>
+      <imgrect __type="4u16">96 196 1562 1602</imgrect>
+    </image>
+    <image name="rival_aa">
+      <uvrect __type="4u16">1872 1968 1570 1606</uvrect>
+      <imgrect __type="4u16">1870 1970 1568 1608</imgrect>
+    </image>
+    <image name="rival_a">
+      <uvrect __type="4u16">746 842 1574 1610</uvrect>
+      <imgrect __type="4u16">744 844 1572 1612</imgrect>
+    </image>
+    <image name="rival_w_6">
+      <uvrect __type="4u16">1962 2032 1304 1344</uvrect>
+      <imgrect __type="4u16">1960 2034 1302 1346</imgrect>
+    </image>
+    <image name="rival_w_5">
+      <uvrect __type="4u16">1962 2032 1348 1388</uvrect>
+      <imgrect __type="4u16">1960 2034 1346 1390</imgrect>
+    </image>
+    <image name="rival_w_4">
+      <uvrect __type="4u16">472 542 1478 1518</uvrect>
+      <imgrect __type="4u16">470 544 1476 1520</imgrect>
+    </image>
+    <image name="rival_w_3">
+      <uvrect __type="4u16">472 542 1522 1562</uvrect>
+      <imgrect __type="4u16">470 544 1520 1564</imgrect>
+    </image>
+    <image name="rival_w_2">
+      <uvrect __type="4u16">1698 1768 1524 1564</uvrect>
+      <imgrect __type="4u16">1696 1770 1522 1566</imgrect>
+    </image>
+    <image name="rival_w_1">
+      <uvrect __type="4u16">462 532 1566 1606</uvrect>
+      <imgrect __type="4u16">460 534 1564 1608</imgrect>
+    </image>
+    <image name="tassei_par">
+      <uvrect __type="4u16">1986 2046 1010 1074</uvrect>
+      <imgrect __type="4u16">1984 2048 1008 1076</imgrect>
+    </image>
+    <image name="rival_s09">
+      <uvrect __type="4u16">1986 2022 1078 1122</uvrect>
+      <imgrect __type="4u16">1984 2024 1076 1124</imgrect>
+    </image>
+    <image name="rival_s08">
+      <uvrect __type="4u16">1986 2022 1126 1170</uvrect>
+      <imgrect __type="4u16">1984 2024 1124 1172</imgrect>
+    </image>
+    <image name="rival_s07">
+      <uvrect __type="4u16">758 794 1148 1192</uvrect>
+      <imgrect __type="4u16">756 796 1146 1194</imgrect>
+    </image>
+    <image name="rival_s06">
+      <uvrect __type="4u16">1986 2022 1174 1218</uvrect>
+      <imgrect __type="4u16">1984 2024 1172 1220</imgrect>
+    </image>
+    <image name="rival_s05">
+      <uvrect __type="4u16">738 774 1196 1240</uvrect>
+      <imgrect __type="4u16">736 776 1194 1242</imgrect>
+    </image>
+    <image name="rival_s04">
+      <uvrect __type="4u16">1986 2022 1222 1266</uvrect>
+      <imgrect __type="4u16">1984 2024 1220 1268</imgrect>
+    </image>
+    <image name="rival_s03">
+      <uvrect __type="4u16">738 774 1244 1288</uvrect>
+      <imgrect __type="4u16">736 776 1242 1290</imgrect>
+    </image>
+    <image name="rival_s02">
+      <uvrect __type="4u16">2000 2036 1434 1478</uvrect>
+      <imgrect __type="4u16">1998 2038 1432 1480</imgrect>
+    </image>
+    <image name="rival_s01">
+      <uvrect __type="4u16">98 134 1466 1510</uvrect>
+      <imgrect __type="4u16">96 136 1464 1512</imgrect>
+    </image>
+    <image name="rival_s00">
+      <uvrect __type="4u16">1270 1306 1472 1516</uvrect>
+      <imgrect __type="4u16">1268 1308 1470 1518</imgrect>
+    </image>
+    <image name="ec_num9">
+      <uvrect __type="4u16">2000 2038 1482 1516</uvrect>
+      <imgrect __type="4u16">1998 2040 1480 1518</imgrect>
+    </image>
+    <image name="ec_num8">
+      <uvrect __type="4u16">98 136 1514 1548</uvrect>
+      <imgrect __type="4u16">96 138 1512 1550</imgrect>
+    </image>
+    <image name="ec_num7">
+      <uvrect __type="4u16">2000 2038 1520 1554</uvrect>
+      <imgrect __type="4u16">1998 2040 1518 1556</imgrect>
+    </image>
+    <image name="ec_num6">
+      <uvrect __type="4u16">2000 2038 1558 1592</uvrect>
+      <imgrect __type="4u16">1998 2040 1556 1594</imgrect>
+    </image>
+    <image name="ec_num5">
+      <uvrect __type="4u16">198 236 1564 1598</uvrect>
+      <imgrect __type="4u16">196 238 1562 1600</imgrect>
+    </image>
+    <image name="ec_num4">
+      <uvrect __type="4u16">1680 1718 1568 1602</uvrect>
+      <imgrect __type="4u16">1678 1720 1566 1604</imgrect>
+    </image>
+    <image name="ec_num3">
+      <uvrect __type="4u16">1722 1760 1568 1602</uvrect>
+      <imgrect __type="4u16">1720 1762 1566 1604</imgrect>
+    </image>
+    <image name="ec_num2">
+      <uvrect __type="4u16">846 884 1574 1608</uvrect>
+      <imgrect __type="4u16">844 886 1572 1610</imgrect>
+    </image>
+    <image name="ec_num1">
+      <uvrect __type="4u16">888 926 1574 1608</uvrect>
+      <imgrect __type="4u16">886 928 1572 1610</imgrect>
+    </image>
+    <image name="ec_num0">
+      <uvrect __type="4u16">930 968 1574 1608</uvrect>
+      <imgrect __type="4u16">928 970 1572 1610</imgrect>
+    </image>
+    <image name="lv_sabun_plus">
+      <uvrect __type="4u16">2012 2046 2 36</uvrect>
+      <imgrect __type="4u16">2010 2048 0 38</imgrect>
+    </image>
+    <image name="lv_sabun_minus">
+      <uvrect __type="4u16">2012 2046 40 74</uvrect>
+      <imgrect __type="4u16">2010 2048 38 76</imgrect>
+    </image>
+  </texture>
+</texturelist>
