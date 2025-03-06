@@ -7,7 +7,7 @@ FAST / SLOW display implemented.
 Proper LIFT COVER support has been added and customizable.  
 Frames and Effector Display are customizable (in the future, programmable).  
 Effectors actually represents to your choice of the display.  
-(Supported Types: PITCH, FX0-2, MASTER VOLUME, KEY / BGM BALANCE)
+(Supported Types: PITCH, FX0-2, MASTER VOLUME, KEY / BGM BALANCE)  
 Lanes are customizable.  
 "Final STAGE" has been changed to "Free MODE".  
 Notes, lane beams and key lights are per-lane customizable.  
