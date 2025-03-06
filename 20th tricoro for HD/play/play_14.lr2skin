@@ -16,7 +16,7 @@
 
 //カスタマイズ情報
 //900,LEFT,901,RIGHT
-#CUSTOMOPTION,GRAPH SIDE,900,LEFT,RIGHT,
+#CUSTOMOPTION,GRAPH SIDE,900,RIGHT,LEFT,
 //902 通常スコア 903 EXスコア
 #CUSTOMOPTION,スコア表示,902,通常,EXSCORE,,,,
 //904,OFF,905,ON
@@ -33,13 +33,14 @@
 #CUSTOMOPTION,クプロ,921,OFF,ON,
 //930 TIPS ON 931 TIPS OFF
 #CUSTOMOPTION,TIPS,930,ON,OFF,
-//CUSTOMOPTION,FRAME,940,Default,
 //950,EFFECT TYPE,,,,,,,,,,,,,,
 #CUSTOMOPTION,EFFECT TYPE,950,OFF,EQ ONLY,PITCH,FX0,FX1,FX2,MASTER VOLUME,KEY / BGM BAL.,
 //995,F / S TYPE,,,,,,,,,,,,,,
 #CUSTOMOPTION,FAST-SLOW DISP.,995,OFF,TYPE A,TYPE B,TYPE C,
+#CUSTOMOPTION,FULLCOMBO,960,Default,IIDX RED,HAPPY SKY,DistorteD,GOLD,DJ TROOPERS,EMPRESS,SIRIUS,Resort Anthem,Lincle,tricoro,SPADA,PENDUAL,
 
 
+#CUSTOMFILE,FRAME,.\LR2files\Theme\20th tricoro for HD\Play\Frame\*,Default,
 #CUSTOMFILE,NOTES,.\LR2files\Theme\20th tricoro for HD\Play\Notes\*.png,Default,
 #CUSTOMFILE,LN STYLE,.\LR2files\Theme\20th tricoro for HD\Play\LN\*.png,Default,
 #CUSTOMFILE,BOM,.\LR2files\Theme\20th tricoro for HD\Play\Bomb\*.png,Default,
@@ -48,9 +49,10 @@
 #CUSTOMFILE,LIFT COVER,.\LR2files\Theme\20th tricoro for HD\Play\Lift\*.png,Default,
 #CUSTOMFILE,JUDGE,.\LR2files\Theme\20th tricoro for HD\Play\Judge\*.png,Default,
 #CUSTOMFILE,KEY BEAM,.\LR2files\Theme\20th tricoro for HD\Play\KeyBeam\*.png,Default,
-#CUSTOMOPTION,FULLCOMBO,960,Default,IIDX RED,HAPPY SKY,DistorteD,GOLD,DJ TROOPERS,EMPRESS,SIRIUS,Resort Anthem,Lincle,tricoro,SPADA,PENDUAL,
 #CUSTOMFILE,KEY FLASH,.\LR2files\Theme\20th tricoro for HD\Play\KeyFlash\*.png,red,
 #CUSTOMFILE,LANE STYLE,.\LR2files\Theme\20th tricoro for HD\Play\Lanes\*.png,Default,
+#CUSTOMFILE,SYSTEM PARTS,.\LR2files\Theme\20th tricoro for HD\Play\SystemParts\*\main.png,Default,
+#CUSTOMFILE,EFFECT STYLE,.\LR2files\Theme\20th tricoro for HD\Play\SystemParts\*\effect.png,Default,
 
 
 #ENDOFHEADER,,,,,,,,
