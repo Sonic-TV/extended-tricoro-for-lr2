@@ -36,7 +36,7 @@ Send me an issue on the issues tab.
 You can make the skin better by sending me pull requests as well.
 
 # Will this port to beatoraja / LVF when everything's done?
-LVF port is considered while beatoraja is currently unplanned due to the dev can't do LUAs.
+LVF port is being considered while beatoraja is currently unplanned due to the dev can't do LUAs.
 You can fork this repository if you want to do a beatoraja port.
 
 # Why are you using a skin with an image illegally extracted from beatmania IIDX 20 tricoro?
