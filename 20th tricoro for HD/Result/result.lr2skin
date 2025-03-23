@@ -8,10 +8,6 @@
 #CUSTOMOPTION,SIDE,910,1P,2P,,,
 
 //更新情報
-#CUSTOMOPTION,達成率,915,OFF,ON,,,
-
-#CUSTOMOPTION,IR順位,918,OFF,ON,,,
-
 #CUSTOMOPTION,タイトル,920,曲名のみ,曲名+サブタイトル,,
 
 
@@ -29,4 +25,9 @@
 //2P
 #IF,911,,,
 #INCLUDE,.\LR2files\Theme\20th tricoro for HD\Result\ResultR_IIDX20.csv,,,
+#ENDIF,,,,
+
+//BATTLE
+#IF,11,,,
+#INCLUDE,.\LR2files\Theme\20th tricoro for HD\Result\ResultB_IIDX20.csv,,,
 #ENDIF,,,,
