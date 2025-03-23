@@ -21,8 +21,19 @@ Base program must be F / S patch applied, with latest revision.
 Native 5 and 9 Key Support  
 Course Result  
 Skin Select and Key Config  
-Programmable Frames and SystemParts  
+Programmable Frames and SystemParts
+
+# Known Bugs
+For Doubles, the CHART FILTER needs to switch to DOUBLES for the result screen to properly display what option has been used.
+(due to using `DST_OPTION 10` for switching display modes).
 
 # If you want to submit your own customizations......
 Contact me on Discord.  
 Or send your images to sonic04677(at)gmail(dot)com.
+
+# If you encounter bugs......
+Send me an issue on the issues tab.
+You can make the skin better by sending me pull requests as well.
+
+# Why are you using a skin with an image illegally extracted from beatmania IIDX 20 tricoro?
+Bruh.
