@@ -1,0 +1,28 @@
+//インフォメーション//////////////////////////////////////////////////////////////////////////,,,,
+//,type(result:7),title,maker,thumbnail
+#INFORMATION,15,20th tricoro for HD,
+
+//カスタムオプション////////////////////////////////////////////////////////////////////////////,,,,
+
+//リザルトサイド
+#CUSTOMOPTION,SIDE,900,1P,2P,,,
+#CUSTOMFILE,NUMBER STYLE,.\LR2files\Theme\20th tricoro for HD\CourseResult\numbers\*.png,white,,
+
+
+
+
+
+#ENDOFHEADER
+
+//スキン分岐////////////////////////////////////////////////////////////////////////////////////////,,,,
+
+//1P
+#IF,900,,,
+#INCLUDE,.\LR2files\Theme\20th tricoro for HD\CourseResult\courseL_IIDX20.csv,,,
+#ENDIF,,,,
+
+//2P
+#IF,901,,,
+#INCLUDE,.\LR2files\Theme\20th tricoro for HD\CourseResult\courseR_IIDX20.csv,,,
+#ENDIF,,,,
+
