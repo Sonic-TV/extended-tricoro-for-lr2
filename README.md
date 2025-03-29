@@ -25,7 +25,7 @@ Programmable Frames and SystemParts
 
 # Known Bugs / Side Notes
 For Doubles, the CHART FILTER needs to switch to DOUBLES for the result screen to properly display what option has been used.
-(due to using `DST_OPTION 10` for switching display modes).
+(due to using `DST_OPTION 10` for switching display modes).  
 To avoid bugs on `DST_OPTION 330`, `#FLIPRESULT` is not supported.  
 Please change sides manually if you want to change playsides.  
 
