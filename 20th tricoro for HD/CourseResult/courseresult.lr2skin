@@ -6,6 +6,7 @@
 
 //リザルトサイド
 #CUSTOMOPTION,SIDE,900,1P,2P,,,
+#CUSTOMOPTION,CUSTOM BG,902,OFF,ON,,,
 #CUSTOMFILE,NUMBER STYLE,.\LR2files\Theme\20th tricoro for HD\CourseResult\numbers\*.png,white,,
 
 
