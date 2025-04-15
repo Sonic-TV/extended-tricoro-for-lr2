@@ -11,6 +11,7 @@ Effector Display actually represents your choice on the "EFFECTORS" tab.
 Lanes are customizable.  
 "Final STAGE" has been changed to "Free MODE".  
 Notes, lane beams / key lights are per-lane customizable.  
+FC effect codes have been refactored, making it customizable and programmable.  
 
 # Requirements
 To make everything work, the latest revision of LR2OOL is required.  
@@ -19,7 +20,7 @@ Base program must be F / S patch applied, with latest revision.
 
 # Future Plans
 Native 5 and 9 Key Support  
-Course Result  
+Course Result  (Left Side Done)
 Skin Select and Key Config  
 Programmable Frames and SystemParts
 
