@@ -35,8 +35,6 @@
 #CUSTOMOPTION,1P FAST-SLOW DISP.,991,OFF,TYPE A,TYPE B,TYPE C,
 //995,SIDE 2 F / S TYPE,,,,,,,,,,,,,,
 #CUSTOMOPTION,2P FAST-SLOW DISP.,995,OFF,TYPE A,TYPE B,TYPE C,
-#CUSTOMOPTION,1P FULLCOMBO,916,Default,IIDX RED,HAPPY SKY,DistorteD,GOLD,DJ TROOPERS,EMPRESS,SIRIUS,Resort Anthem,Lincle,tricoro,SPADA,PENDUAL,,,,
-#CUSTOMOPTION,2P FULLCOMBO,960,Default,IIDX RED,HAPPY SKY,DistorteD,GOLD,DJ TROOPERS,EMPRESS,SIRIUS,Resort Anthem,Lincle,tricoro,SPADA,PENDUAL,,,,
 
 
 #CUSTOMFILE,FRAME,.\LR2files\Theme\20th tricoro for HD\Play\Frame\*,Default,
@@ -47,6 +45,8 @@
 #CUSTOMFILE,LANE COVER,.\LR2files\Theme\20th tricoro for HD\Play\Lanecover\*.png,Default,
 #CUSTOMFILE,LIFT COVER,.\LR2files\Theme\20th tricoro for HD\Play\Lift\*.png,Default,
 #CUSTOMFILE,JUDGE,.\LR2files\Theme\20th tricoro for HD\Play\Judge\*.png,Default,
+#CUSTOMFILE,1P FC EFFECT,.\LR2files\Theme\20th tricoro for HD\Play\Fullcombo\*,Default,
+#CUSTOMFILE,2P FC EFFECT,.\LR2files\Theme\20th tricoro for HD\Play\Fullcombo\*,Default,
 #CUSTOMFILE,KEY BEAM,.\LR2files\Theme\20th tricoro for HD\Play\KeyBeam\*.png,Default,
 #CUSTOMFILE,KEY FLASH,.\LR2files\Theme\20th tricoro for HD\Play\KeyFlash\*.png,red,
 #CUSTOMFILE,LANE STYLE,.\LR2files\Theme\20th tricoro for HD\Play\Lanes\*.png,Default,

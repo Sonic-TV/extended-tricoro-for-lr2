@@ -27,10 +27,12 @@
 #CUSTOMOPTION,スコアグラフ位置,908,FAR,NEAR,,,,
 //910,ON,911,OFF
 #CUSTOMOPTION,サブタイトル,910,ON,OFF,
+//912-917
+#CUSTOMOPTION,GAUGE MIN INTERVAL,912,2%,1%,0.1%,0.01%,DYNAMIC
 //919 Keyboard 920 Controller
 #CUSTOMOPTION,INPUT,919,KEYBOARD,CONTROLLER,
-//921 クプロOFF 922 クプロON
-#CUSTOMOPTION,クプロ,921,OFF,ON,
+//921 GAUGE DISPLAY TYPE
+#CUSTOMOPTION,GAUGE DISP TYPE,921,BOTH,DIGITS ONLY,GAUGE ONLY,OFF
 //930 TIPS ON 931 TIPS OFF
 #CUSTOMOPTION,TIPS,930,ON,OFF,
 //950,EFFECT TYPE,,,,,,,,,,,,,,
@@ -46,7 +48,7 @@
 #CUSTOMFILE,LANE COVER,.\LR2files\Theme\20th tricoro for HD\Play\Lanecover\*.png,Default,
 #CUSTOMFILE,LIFT COVER,.\LR2files\Theme\20th tricoro for HD\Play\Lift\*.png,Default,
 #CUSTOMFILE,JUDGE,.\LR2files\Theme\20th tricoro for HD\Play\Judge\*.png,Default,
-#CUSTOMOPTION,FULLCOMBO,960,Default,IIDX RED,HAPPY SKY,DistorteD,GOLD,DJ TROOPERS,EMPRESS,SIRIUS,Resort Anthem,Lincle,tricoro,SPADA,PENDUAL,
+#CUSTOMFILE,FC EFFECT,.\LR2files\Theme\20th tricoro for HD\Play\Fullcombo\*,Default,
 #CUSTOMFILE,KEY BEAM,.\LR2files\Theme\20th tricoro for HD\Play\KeyBeam\*.png,Default,
 #CUSTOMFILE,KEY FLASH,.\LR2files\Theme\20th tricoro for HD\Play\KeyFlash\*.png,red,
 #CUSTOMFILE,LANE STYLE,.\LR2files\Theme\20th tricoro for HD\Play\Lanes\*.png,Default,
