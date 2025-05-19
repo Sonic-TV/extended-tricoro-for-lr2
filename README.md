@@ -17,6 +17,7 @@ FC effect codes have been refactored, making it customizable and programmable.
 To make everything work, the latest revision of LR2OOL is required.  
 Grab it here: https://github.com/tenaibms/LR2OOL  
 Base program must be F / S patch applied, with latest revision.
+**DO NOT USE LRbase62 extension with the DLL as it'll broke the RANDOM DISPLAY function.**
 
 # Future Plans
 Native 5 and 9 Key Support  
