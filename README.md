@@ -28,6 +28,7 @@ Programmable Frames and SystemParts
 For Doubles, the CHART FILTER needs to switch to DOUBLES for the result screen to display what option has been used properly (due to using `DST_OPTION 10` for switching display modes).  
 To avoid bugs on `DST_OPTION 330`, this skin is NOT using `#FLIPXXX` commands for switching sides.  
 Please change sides manually if you want to change sides.  
+LR2OOL extensions are mostly unsupported due to lack of extended digit definitions for 2P side.
 
 # If you want to submit your own customizations......
 Contact me on Discord.  
