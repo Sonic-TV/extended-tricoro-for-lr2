@@ -14,8 +14,10 @@ Notes, lane beams / key lights are per-lane customizable.
 FC effect codes have been refactored, making them customizable and programmable.
 
 # Requirements
-To make everything work, the latest revision of LR2OOL is required.  
-Grab it here: https://github.com/tenaibms/LR2OOL  
+To make everything work, the latest revision of LR2OOL and LR2HackBox is required.  
+Grab them here:  
+https://github.com/tenaibms/LR2OOL  
+https://github.com/MatVeiQaaa/LR2HackBox  
 Base program must be F / S patch applied, with latest revision.
 
 # Future Plans
