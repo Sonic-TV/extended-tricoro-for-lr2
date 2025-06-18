@@ -19,7 +19,7 @@
 ,,,,,,,,,,,,,,,,,,,,
 #IMAGE,LR2files\Theme\20th tricoro for HD\Select\Parts\0_mselect.png,,,,,,,,0,,,,,,,,,,,
 #IMAGE,LR2files\Theme\20th tricoro for HD\KeyConfig\parts.png,,,,,,,,1,,,,,,,,,,,
-#IMAGE,dummy,,,,,,,,2,,,,,,,,,,,
+#IMAGE,LR2files\Theme\20th tricoro for HD\Select\Parts\2_decide.png,,,,,,,,2,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
@@ -27,7 +27,7 @@
 #IMAGE,LR2files\Theme\20th tricoro for HD\Select\Parts\Default.avi,,,,,,,,3,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
-#IMAGE,dummy,,,,,,,,4,,,,,,,,,,,
+#IMAGE,LR2files\Theme\20th tricoro for HD\KeyConfig\testplay.png,,,,,,,,4,,,,,,,,,,,
 #IMAGE,dummy,,,,,,,,5,,,,,,,,,,,
 #IMAGE,dummy,,,,,,,,6,,,,,,,,,,,
 #IMAGE,dummy,,,,,,,,7,,,,,,,,,,,
@@ -88,49 +88,49 @@
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,280,0,236,176,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,348,280,236,176,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_IMAGE,0,0,348,280,236,176,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //7 KEYS RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,280,0,236,176,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,696,280,236,176,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_IMAGE,0,0,696,280,236,176,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //TT LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,0,0,275,266,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,60,193,275,266,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_IMAGE,0,0,60,193,275,266,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //TT RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,0,0,275,266,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,946,193,275,266,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_IMAGE,0,0,946,193,275,266,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //START LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,520,0,49,53,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,348,193,49,53,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_IMAGE,0,0,348,193,49,53,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SELECT LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,520,0,49,53,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,535,193,49,53,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_IMAGE,0,0,535,193,49,53,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //START RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,520,0,49,53,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,696,193,49,53,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_IMAGE,0,0,696,193,49,53,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SELECT RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,520,0,49,53,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,883,193,49,53,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_IMAGE,0,0,883,193,49,53,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ////////////////////////////////////////////////////,,,,,,,,,,,,,,,,,,,,
 ///////KEY SELECTORS/////////,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
@@ -138,109 +138,109 @@
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,101,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,339,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,339,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,102,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,369,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,369,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,103,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,400,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,400,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,104,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,430,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,430,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 5,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,105,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,461,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,461,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 6,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,106,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,491,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,491,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 7,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,107,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,522,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,522,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P START,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,142,270,96,49,2,1,0,0,112,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,348,196,48,49,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,348,196,48,49,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P SEL,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,142,270,96,49,2,1,0,0,113,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,535,196,48,49,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,535,196,48,49,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 1,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,121,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,687,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,687,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,122,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,717,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,717,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,123,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,748,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,748,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,124,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,778,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,778,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 5,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,125,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,809,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,809,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 6,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,126,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,839,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,839,275,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 7,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,127,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,870,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,870,364,71,101,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P START,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,142,270,96,49,2,1,0,0,132,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,696,196,48,49,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,696,196,48,49,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P SEL,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,142,270,96,49,2,1,0,0,133,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,883,196,48,49,0,255,255,255,255,2,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,883,196,48,49,0,255,255,255,255,2,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
@@ -248,25 +248,25 @@
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,400,204,125,2,1,0,0,110,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,80,282,102,125,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,80,282,102,125,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P TT RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,550,204,125,2,1,0,0,111,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,211,282,102,125,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,211,282,102,125,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P TT LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,400,204,125,2,1,0,0,130,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,966,282,102,125,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,966,282,102,125,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P TT RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,550,204,125,2,1,0,0,131,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,1097,282,102,125,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,1097,282,102,125,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 //////////5 KEYS//////////////////,,,,,,,,,,,,,,,,,,,,
@@ -275,160 +275,160 @@
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,0,700,210,176,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,362,280,210,176,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_IMAGE,0,0,362,280,210,176,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //5 KEYS RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,0,700,210,176,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,710,280,210,176,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_IMAGE,0,0,710,280,210,176,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //TT LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,0,0,275,266,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,60,193,275,266,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_IMAGE,0,0,60,193,275,266,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //TT RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,0,0,275,266,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,946,193,275,266,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_IMAGE,0,0,946,193,275,266,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //START LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,520,0,49,53,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,348,193,49,53,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_IMAGE,0,0,348,193,49,53,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SELECT LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,520,0,49,53,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,535,193,49,53,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_IMAGE,0,0,535,193,49,53,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //START RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,520,0,49,53,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,696,193,49,53,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_IMAGE,0,0,696,193,49,53,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SELECT RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,520,0,49,53,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,883,193,49,53,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_IMAGE,0,0,883,193,49,53,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //////////////SELECTORS////////////,,,,,,,,,,,,,,,,,,,,
 //1P 1,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,101,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,353,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,353,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,102,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,392,275,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,392,275,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,103,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,431,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,431,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,104,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,469,275,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,469,275,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P 5,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,105,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,508,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,508,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 1,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,121,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,701,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,701,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,122,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,740,275,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,740,275,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,123,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,779,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,779,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,124,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,817,275,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,817,275,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P 5,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,270,142,101,2,1,0,0,125,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,856,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,856,364,71,101,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P TT LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,400,204,125,2,1,0,0,110,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,80,282,102,125,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,80,282,102,125,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P TT RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,550,204,125,2,1,0,0,111,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,211,282,102,125,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,211,282,102,125,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P TT LEFT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,400,204,125,2,1,0,0,130,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,966,282,102,125,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,966,282,102,125,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P TT RIGHT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,0,550,204,125,2,1,0,0,131,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,1097,282,102,125,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,1097,282,102,125,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 //1P START,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,142,270,96,49,2,1,0,0,112,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,348,196,48,49,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,348,196,48,49,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //1P SEL,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,142,270,96,49,2,1,0,0,113,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,535,196,48,49,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,535,196,48,49,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 //2P START,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,142,270,96,49,2,1,0,0,132,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,696,196,48,49,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,696,196,48,49,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2P SEL,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,142,270,96,49,2,1,0,0,133,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,883,196,48,49,0,255,255,255,255,2,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,883,196,48,49,0,255,255,255,255,2,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 //////////9 KEYS//////////////////,,,,,,,,,,,,,,,,,,,,
@@ -437,74 +437,74 @@
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,496,1196,670,245,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,311,197,670,245,0,255,255,255,255,1,0,0,0,0,0,401,0,0
+#DST_IMAGE,0,0,311,197,670,245,0,255,255,255,255,1,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //////////////SELECTORS////////////,,,,,,,,,,,,,,,,,,,,
 //1,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,346,228,114,2,1,0,0,101,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,311,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,311,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,466,228,114,2,1,0,0,102,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,380,197,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,380,197,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,586,228,114,2,1,0,0,103,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,449,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,449,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,706,228,114,2,1,0,0,104,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,518,197,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,518,197,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //5,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,826,228,114,2,1,0,0,105,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,587,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,587,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //6,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,706,228,114,2,1,0,0,106,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,656,197,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,656,197,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //7,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,586,228,114,2,1,0,0,107,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,725,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,725,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //8,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,466,228,114,2,1,0,0,108,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,794,197,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,794,197,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //9,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1122,346,228,114,2,1,0,0,109,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,863,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,863,324,114,114,0,255,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //START,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1450,120,45,48,1,2,0,0,112,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,326,223,45,24,0,192,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,326,223,45,24,0,192,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SELECT,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,1450,170,40,44,1,2,0,0,113,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,326,263,40,22,0,192,255,255,255,2,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,326,263,40,22,0,192,255,255,255,2,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 //DOWNSIDE SLOTS//////////////////////////////////////////////////////////////////////////////,,,,,,,,,,,,,,,,,,,,
@@ -513,49 +513,49 @@
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,596,55,280,33,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,59,531,280,33,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,59,531,280,33,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,596,55,280,33,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,353,531,280,33,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,353,531,280,33,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,596,55,280,33,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,647,531,280,33,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,647,531,280,33,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,596,55,280,33,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,941,531,280,33,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,941,531,280,33,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 1,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,596,55,280,33,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,59,582,280,33,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,59,582,280,33,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,596,55,280,33,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,353,582,280,33,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,353,582,280,33,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,596,55,280,33,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,647,582,280,33,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,647,582,280,33,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,596,55,280,33,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,941,582,280,33,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,941,582,280,33,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 /////SLOT LIGHTS,,,,,,,,,,,,,,,,,,,,
@@ -564,123 +564,123 @@
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,598,0,660,51,2,1,0,0,150,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,34,522,330,51,0,255,255,255,255,2,0,0,0,0,0,0,0,0
+#DST_BUTTON,0,0,34,522,330,51,0,255,255,255,255,2,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,598,0,660,51,2,1,0,0,151,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,328,522,330,51,0,255,255,255,255,2,0,0,0,0,0,0,0,0
+#DST_BUTTON,0,0,328,522,330,51,0,255,255,255,255,2,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,598,0,660,51,2,1,0,0,152,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,622,522,330,51,0,255,255,255,255,2,0,0,0,0,0,0,0,0
+#DST_BUTTON,0,0,622,522,330,51,0,255,255,255,255,2,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,598,0,660,51,2,1,0,0,153,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,916,522,330,51,0,255,255,255,255,2,0,0,0,0,0,0,0,0
+#DST_BUTTON,0,0,916,522,330,51,0,255,255,255,255,2,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 1,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,598,0,660,51,2,1,0,0,154,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,34,573,330,51,0,255,255,255,255,2,0,0,0,0,0,0,0,0
+#DST_BUTTON,0,0,34,573,330,51,0,255,255,255,255,2,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,598,0,660,51,2,1,0,0,155,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,328,573,330,51,0,255,255,255,255,2,0,0,0,0,0,0,0,0
+#DST_BUTTON,0,0,328,573,330,51,0,255,255,255,255,2,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,598,0,660,51,2,1,0,0,156,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,622,573,330,51,0,255,255,255,255,2,0,0,0,0,0,0,0,0
+#DST_BUTTON,0,0,622,573,330,51,0,255,255,255,255,2,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,598,0,660,51,2,1,0,0,157,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,916,573,330,51,0,255,255,255,255,2,0,0,0,0,0,0,0,0
+#DST_BUTTON,0,0,916,573,330,51,0,255,255,255,255,2,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT TEXT,,,,,,,,,,,,,,,,,,,,
 //SLOT 1,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),font,st,align,edit,panel,,,,,,,,,,,,,,
 #SRC_TEXT,0,0,40,1,0,0,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,size,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_TEXT,0,0,198,536,330,24,0,255,255,255,255,1,1,0,0,0,0,0,0,0
+#DST_TEXT,0,0,198,536,330,24,0,255,255,255,255,1,1,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),font,st,align,edit,panel,,,,,,,,,,,,,,
 #SRC_TEXT,0,0,41,1,0,0,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,size,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_TEXT,0,0,492,536,330,24,0,255,255,255,255,1,1,0,0,0,0,0,0,0
+#DST_TEXT,0,0,492,536,330,24,0,255,255,255,255,1,1,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),font,st,align,edit,panel,,,,,,,,,,,,,,
 #SRC_TEXT,0,0,42,1,0,0,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,size,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_TEXT,0,0,786,536,330,24,0,255,255,255,255,1,1,0,0,0,0,0,0,0
+#DST_TEXT,0,0,786,536,330,24,0,255,255,255,255,1,1,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),font,st,align,edit,panel,,,,,,,,,,,,,,
 #SRC_TEXT,0,0,43,1,0,0,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,size,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_TEXT,0,0,1080,536,330,24,0,255,255,255,255,1,1,0,0,0,0,0,0,0
+#DST_TEXT,0,0,1080,536,330,24,0,255,255,255,255,1,1,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 1,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),font,st,align,edit,panel,,,,,,,,,,,,,,
 #SRC_TEXT,0,0,44,1,0,0,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,size,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_TEXT,0,0,198,587,330,24,0,255,255,255,255,1,1,0,0,0,0,0,0,0
+#DST_TEXT,0,0,198,587,330,24,0,255,255,255,255,1,1,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 2,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),font,st,align,edit,panel,,,,,,,,,,,,,,
 #SRC_TEXT,0,0,45,1,0,0,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,size,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_TEXT,0,0,492,587,330,24,0,255,255,255,255,1,1,0,0,0,0,0,0,0
+#DST_TEXT,0,0,492,587,330,24,0,255,255,255,255,1,1,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 3,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),font,st,align,edit,panel,,,,,,,,,,,,,,
 #SRC_TEXT,0,0,46,1,0,0,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,size,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_TEXT,0,0,786,587,330,24,0,255,255,255,255,1,1,0,0,0,0,0,0,0
+#DST_TEXT,0,0,786,587,330,24,0,255,255,255,255,1,1,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SLOT 4,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),font,st,align,edit,panel,,,,,,,,,,,,,,
 #SRC_TEXT,0,0,47,1,0,0,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,size,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_TEXT,0,0,1080,587,330,24,0,255,255,255,255,1,1,0,0,0,0,0,0,0
+#DST_TEXT,0,0,1080,587,330,24,0,255,255,255,255,1,1,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //SELECTOR OFF,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_IMAGE,0,1,900,60,242,21,1,1,0,0,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_IMAGE,0,0,519,483,242,21,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_IMAGE,0,0,519,483,242,21,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,
 //L-R SELECTORS 7,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,596,142,264,1012,1,23,0,0,140,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,508,472,264,44,0,255,255,255,255,1,0,0,0,0,0,400,0,0
+#DST_BUTTON,0,0,508,472,264,44,0,255,255,255,255,1,0,0,0,0,0,400,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //L-R SELECTORS 5,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,330,186,264,836,1,19,0,0,142,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,508,472,264,44,0,255,255,255,255,1,0,0,0,0,0,402,0,0
+#DST_BUTTON,0,0,508,472,264,44,0,255,255,255,255,1,0,0,0,0,0,402,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //L-R SELECTORS 9,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,type,click,panel,plusonly,,,,,,
 #SRC_BUTTON,0,1,862,142,264,528,1,12,0,0,141,1,0,0,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_BUTTON,0,0,508,472,264,44,0,255,255,255,255,1,0,0,0,0,0,401,0,0
+#DST_BUTTON,0,0,508,472,264,44,0,255,255,255,255,1,0,0,0,0,0,401,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //CURSOR STOP L,,,,,,,,,,,,,,,,,,,,
 #IF,400,,,,,,,,,,,,,,,,,,,
@@ -697,7 +697,7 @@
 ,,,,,,,,,,,,,,,,,,,,
 #ENDIF,,,,,,,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_ONMOUSE,0,0,533,488,107,11,0,255,255,255,255,1,0,0,0,0,0,0,0,0
+#DST_ONMOUSE,0,0,533,488,107,11,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 //CURSOR STOP R,,,,,,,,,,,,,,,,,,,,
 #IF,400,,,,,,,,,,,,,,,,,,,
@@ -714,8 +714,7 @@
 ,,,,,,,,,,,,,,,,,,,,
 #ENDIF,,,,,,,,,,,,,,,,,,,,
 //DST定義,(NULL),time,x,y,w,h,acc,a,r,g,b,blend,filter,angle,center,loop,timer,op1,op2,op3
-#DST_ONMOUSE,0,0,640,488,107,11,0,255,255,255,255,1,0,0,0,0,0,0,0,0
-,,,,,,,,,,,,,,,,,,,,
+#DST_ONMOUSE,0,0,640,488,107,11,0,255,255,255,255,1,0,0,0,0,0,0,-27,0
 ,,,,,,,,,,,,,,,,,,,,
 ///////////////////////////START OF BG BLOCK. DON'T TOUCH IF UNNECESSARY.////////////////////////////,,,,,,,,,,,,,,,,,,,,
 //TIMEREMAIN下パーツ(開幕)1,,,,,,,,,,,,,,,,,,,,
@@ -4630,6 +4629,34 @@
 #DST_IMAGE,0,716,490,382,304,10,0,255,255,255,255,1,0,0,0,,,,,
 #DST_IMAGE,0,749,490,382,304,10,0,255,255,255,255,1,0,0,0,,,,,
 #DST_IMAGE,0,750,490,382,304,10,0,0,255,255,255,1,0,0,0,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+//////////TESTPLAY PARTS & STUFF////////////,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+#INCLUDE,.\LR2files\Theme\20th tricoro for HD\KeyConfig\testplay.csv,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
 //マウスカーソル,,,,,,,,,,,,,,,,,,,,
 //SRC定義,(NULL),gr,x,y,w,h,div_x,div_y,cycle,timer,,,,,,,,,,
 #SRC_MOUSECURSOR,0,0,530,280,30,22,1,1,500,0,,,,,,,,,,
