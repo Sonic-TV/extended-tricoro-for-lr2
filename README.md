@@ -23,7 +23,7 @@ Base program must be F / S patch applied, with latest revision.
 # Future Plans
 Native 5 and 9 Key Support  
 ~~Course Result (Done)~~  
-Skin Select ~~and Key Config~~ 
+Skin Select ~~and Key Config~~  
 Programmable Frames and SystemParts
 
 # Known Bugs / Side Notes
