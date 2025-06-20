@@ -58,3 +58,6 @@ Notice that "SP.csv" should contain both sides.
 # For making customization parts...
 Just check the files in `template-for-customize-parts` to make your own.  
 PSDs of note bombs and key lights will be provided on a later date.
+
+# NO CHARGES REQUIRED, BUT if you want to do dome donations......
+Here. `paypal(dot)com(slash)paypalme(slash)sonictvbms`
