@@ -4,7 +4,7 @@
 # What has been changed comparing to the original?
 Proper 2P, DP support has been added.  
 FAST / SLOW display implemented.
-Proper LIFT COVER support has been added and customizable.  
+Proper LIFT COVER support has been added and is customizable.  
 Frames and Effector Display are customizable (in the future, programmable).  
 Effector Display actually represents your choice on the "EFFECTORS" tab.  
 (Supported Types: PITCH, FX0-2, MASTER VOLUME, KEY / BGM BALANCE)  
@@ -23,7 +23,7 @@ Base program must be F / S patch applied, with latest revision.
 # Future Plans
 Native 5 and 9 Key Support  
 ~~Course Result (Done)~~  
-Skin Select and Key Config  
+Skin Select ~~and Key Config~~ 
 Programmable Frames and SystemParts
 
 # Known Bugs / Side Notes
@@ -33,7 +33,7 @@ Please change sides manually if you want to change sides.
 LR2OOL extensions are mostly unsupported in BATTLE mode due to lack of extended digit definitions for 2P side.
 
 # If you want to submit your own customizations......
-Contact me on Discord.  
+Contact me on Discord or send your pull requests.  
 Or send your images to sonic04677(at)gmail(dot)com.
 
 # If you encounter bugs......
@@ -54,3 +54,7 @@ Bruh.
 Notice that "SP.csv" should contain both sides.
 3. All of the texture files should be concentrated to 2 texture files named "main.png“ (gr=19) and "sub.png" (gr=18).
 4. Make your own effects and send them either via email or pull requests.
+
+# For making customization parts...
+Just check the files in `template-for-customize-parts` to make your own.  
+PSDs of note bombs and key lights will be provided on a later date.
