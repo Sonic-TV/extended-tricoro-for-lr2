@@ -23,8 +23,8 @@ Base program must be F / S patch applied, with latest revision.
 # Future Plans
 Native 5 and 9 Key Support  
 ~~Course Result (Done)~~  
-Skin Select ~~and Key Config~~  
-Programmable Frames and SystemParts
+~~Skin Select and Key Config~~  
+Programmable Frames and SystemParts (Currently customizable)
 
 # Known Bugs / Side Notes
 For Doubles, the CHART FILTER needs to switch to DOUBLES for the result screen to display what option has been used properly (due to using `DST_OPTION 10` for switching display modes).  
