@@ -21,7 +21,7 @@ https://github.com/MatVeiQaaa/LR2HackBox
 Base program must be F / S patch applied, with latest revision.
 
 # Future Plans
-Native 5 and 9 Key Support  
+Native 5 and 9 Key Support (Native 5SP Done)  
 ~~Course Result (Done)~~  
 ~~Skin Select and Key Config~~  
 Programmable Frames and SystemParts (Currently customizable)
@@ -59,6 +59,11 @@ Notice that "SP.csv" should contain both sides.
 # For making customization parts...
 Just check the files in `template-for-customize-parts` to make your own.  
 PSDs of note bombs and key lights will be provided on a later date.
+
+# About Mascot System......
+The mascots should be 160x160px per-frame with 25 frames inside the sheet.  
+Mascots are in Beat Sync.
+Hu Tao Sprites included inside the git was originally done by https://space.bilibili.com/2425374 in bilibili. Many Thanks.  
 
 # NO CHARGES REQUIRED, BUT if you want to do some donations......
 Here. `paypal(dot)com(slash)paypalme(slash)sonictvbms`
