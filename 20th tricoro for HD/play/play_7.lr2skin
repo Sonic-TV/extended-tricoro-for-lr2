@@ -1,5 +1,5 @@
 //,type,title,maker,thumbnail...
-#INFORMATION,0,20th tricoro for HD,
+#INFORMATION,0,20th tricoro for HD,Ext. by SonicTV
 //type‚Í,,,,
 //0 7KEYS,,,,
 //1 5KEYS,,,,
@@ -54,6 +54,7 @@
 #CUSTOMFILE,LANE STYLE,.\LR2files\Theme\20th tricoro for HD\Play\Lanes\*.png,Default,
 #CUSTOMFILE,SYSTEM PARTS,.\LR2files\Theme\20th tricoro for HD\Play\SystemParts\*\main.png,Default,
 #CUSTOMFILE,EFFECT STYLE,.\LR2files\Theme\20th tricoro for HD\Play\SystemParts\*\effect.png,Default,
+#CUSTOMFILE,MASCOT,.\LR2files\Theme\20th tricoro for HD\Play\Mascot\*.png,OFF,
 
 
 #ENDOFHEADER,,,,,,,,

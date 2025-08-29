@@ -1,5 +1,5 @@
 //,type,title,maker,thumbnail...
-#INFORMATION,2,20th tricoro for HD,
+#INFORMATION,2,20th tricoro for HD,Ext. by SonicTV
 //type‚Í,,,,
 //0 7KEYS,,,,
 //1 5KEYS,,,,
@@ -33,6 +33,8 @@
 #CUSTOMOPTION,INPUT,919,KEYBOARD,CONTROLLER,
 //921 GAUGE DISPLAY TYPE
 #CUSTOMOPTION,GAUGE DISP TYPE,921,BOTH,DIGITS ONLY,GAUGE ONLY,OFF
+//925 MASCOT DISPLAY POSITION
+#CUSTOMOPTION,MASCOT DISP. POS.,925,UPPER,LOWER
 //930 TIPS ON 931 TIPS OFF
 #CUSTOMOPTION,TIPS,930,ON,OFF,
 //950,EFFECT TYPE,,,,,,,,,,,,,,
@@ -55,6 +57,7 @@
 #CUSTOMFILE,LANE STYLE,.\LR2files\Theme\20th tricoro for HD\Play\Lanes\*.png,Default,
 #CUSTOMFILE,SYSTEM PARTS,.\LR2files\Theme\20th tricoro for HD\Play\SystemParts\*\main.png,Default,
 #CUSTOMFILE,EFFECT STYLE,.\LR2files\Theme\20th tricoro for HD\Play\SystemParts\*\effect.png,Default,
+#CUSTOMFILE,MASCOT,.\LR2files\Theme\20th tricoro for HD\Play\Mascot\*.png,OFF,
 
 
 #ENDOFHEADER,,,,,,,,
