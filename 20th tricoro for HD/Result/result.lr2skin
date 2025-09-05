@@ -10,7 +10,7 @@
 //更新情報
 #CUSTOMOPTION,タイトル,920,曲名のみ,曲名+サブタイトル,,
 
-
+#CUSTOMOPTION,OPPOSITE SIDE,912,OFF,SCORE DETAILS,,,,,,,
 
 
 #ENDOFHEADER
@@ -28,6 +28,6 @@
 #ENDIF,,,,
 
 //BATTLE
-#IF,11,,,
-#INCLUDE,.\LR2files\Theme\20th tricoro for HD\Result\ResultB_IIDX20.csv,,,
-#ENDIF,,,,
+//#IF,11,,,
+//#INCLUDE,.\LR2files\Theme\20th tricoro for HD\Result\ResultB_IIDX20.csv,,,
+//#ENDIF,,,,
