@@ -27,10 +27,9 @@ Native 5 and 9 Key Support (Native 5SP Done)
 Programmable Frames and SystemParts (Currently customizable)
 
 # Known Bugs / Side Notes
-For Doubles, the CHART FILTER needs to switch to DOUBLES for the result screen to display what option has been used properly (due to using `DST_OPTION 10` for switching display modes).  
 To avoid bugs on `DST_OPTION 330`, this skin is NOT using `#FLIPXXX` commands for switching sides.  
 Please change sides manually if you want to change sides.  
-LR2OOL extensions are mostly unsupported in BATTLE mode due to lack of extended digit definitions for 2P side.  
+Development for BATTLE-related skins are currently paused due to lack of extended digit definitions for 2P side.  
 For SkinSelect, only the first 5 blocks are used for parts information, due to LR2's limitations. You may treat 6th-8th block as buttons for "scene reset".
 
 # If you want to submit your own customizations......
