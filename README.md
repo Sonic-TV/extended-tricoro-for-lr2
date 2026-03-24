@@ -1,7 +1,7 @@
 # What's this?
  A customizable tricoro skin for LR2.  
 
-# What has been changed comparing to the original?
+# What has been changed compared to the original?
 Proper 2P, DP support has been added.  
 FAST / SLOW display implemented.
 Proper LIFT COVER support has been added and is customizable.  
@@ -11,14 +11,14 @@ Effector Display actually represents your choice on the "EFFECTORS" tab.
 Lanes are customizable.  
 "Final STAGE" has been changed to "Free MODE".  
 Notes, lane beams / key lights are per-lane customizable.  
-FC effect codes have been refactored, making them customizable and programmable.
+FC effect codes have been refactored to be customizable and programmable.
 
 # Requirements
 To make everything work, the latest revision of LR2OOL and LR2HackBox is required.  
 Grab them here:  
 https://github.com/tenaibms/LR2OOL  
 https://github.com/MatVeiQaaa/LR2HackBox  
-Base program must be F / S patch applied, with latest revision.
+Base program must be F / S patch applied, with the latest revision.
 
 # Future Plans
 Native 5 and 9 Key Support (Native 5SP Done)  
@@ -42,11 +42,11 @@ You can make the skin better by sending me pull requests as well.
 
 
 # Will this port to beatoraja / LVF when everything's done?
-LVF port is being considered while beatoraja is currently unplanned due to the dev can't do LUAs.  
+LVF port is being considered, while beatoraja is currently unplanned due to the dev can't do LUAs.  
 You can fork this repository if you want to do a beatoraja port.
 
 # Why are you using a skin with an image illegally extracted from beatmania IIDX 20 tricoro?
-Bruh.
+**BRUH. None of your business. PLEASE FUCK OFF and whine on Twitter. I dare you.**
 
 # For making / porting FC Effects...
 1. Make a folder and name it whatever you want.  
@@ -60,9 +60,9 @@ Just check the files in `template-for-customize-parts` to make your own.
 PSDs of note bombs and key lights will be provided on a later date.
 
 # About Mascot System......
-The mascots should be 160x160px per-frame with 25 frames inside the sheet.  
+The mascots should be 160x160px per frame, with 25 frames in the sheet.  
 Mascots are in Beat Sync.
-Hu Tao Sprites included inside the git was originally done by https://space.bilibili.com/2425374 in bilibili. Many Thanks.  
+Hu Tao's Sprites included in the git were originally done by https://space.bilibili.com/2425374 on bilibili. Many Thanks.  
 
 # NO CHARGES REQUIRED, BUT if you want to do some donations......
 Here. `paypal(dot)com(slash)paypalme(slash)sonictvbms`
