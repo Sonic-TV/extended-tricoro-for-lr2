@@ -30,7 +30,7 @@ Programmable Frames and SystemParts (Currently customizable)
 To avoid bugs on `DST_OPTION 330`, this skin is NOT using `#FLIPXXX` commands for switching sides.  
 Please change sides manually if you want to change sides.  
 Development for BATTLE-related skins are currently paused due to lack of extended digit definitions for 2P side.  
-For SkinSelect, only the first 5 blocks are used for parts information, due to LR2's limitations. You may treat 6th-8th block as buttons for "scene reset".
+For SkinSelect, only the first 5 blocks are used for parts information, due to LR2's limitations. 6th - 8th blocks are bugged.
 
 # If you want to submit your own customizations......
 Contact me on Discord or send your pull requests.  
@@ -41,8 +41,8 @@ Send me an issue on the issues tab.
 You can make the skin better by sending me pull requests as well.
 
 
-# Will this port to beatoraja / LVF when everything's done?
-LVF port is being considered, while beatoraja is currently unplanned due to the dev can't do LUAs.  
+# Will this port to beatoraja when everything's done?
+**No.** The dev can't do LUAs.  
 You can fork this repository if you want to do a beatoraja port.
 
 # Why are you using a skin with an image illegally extracted from beatmania IIDX 20 tricoro?
@@ -65,5 +65,7 @@ Mascots are in Beat Sync. The image cycles **every 2 counts**.
 Hu Tao's sprites included in the git were originally done by https://space.bilibili.com/2425374 on bilibili.  
 Other sprites are originally done by https://space.bilibili.com/104349118?spm_id_from=333.337.0.0 on bilibili. Many Thanks.
 
-# NO CHARGES REQUIRED, BUT if you want to do some donations......
-Here. `paypal(dot)com(slash)paypalme(slash)sonictvbms`
+# NO CHARGES REQUIRED, BUT
+ If you want to make some donations......  
+ Bring it on. Here.  
+ `paypal(dot)com(slash)paypalme(slash)sonictvbms`
