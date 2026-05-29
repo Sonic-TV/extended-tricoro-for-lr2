@@ -65,7 +65,7 @@ Mascots are in Beat Sync. The image cycles **every 2 counts**.
 Hu Tao's sprites included in the git were originally done by https://space.bilibili.com/2425374 on bilibili.  
 Other sprites are originally done by https://space.bilibili.com/104349118?spm_id_from=333.337.0.0 on bilibili. Many Thanks.
 
-# NO CHARGES REQUIRED, BUT
+# NO CHARGES REQUIRED, BUT...
  If you want to make some donations......  
  Bring it on. Here.  
  `paypal(dot)com(slash)paypalme(slash)sonictvbms`
