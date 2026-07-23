@@ -1,5 +1,6 @@
 # What's this?
- A customizable tricoro skin for LR2.  
+A customizable tricoro skin for LR2.  
+**This skin will aim towards OpenLR2 in future development.**
 
 # What has been changed compared to the original?
 Proper 2P, DP support has been added.  
@@ -13,7 +14,7 @@ Lanes are customizable.
 Notes, lane beams / key lights are per-lane customizable.  
 FC effect codes have been refactored to be customizable and programmable.
 
-# Requirements
+# Requirements (for Original LR2)
 To make everything work, the latest revision of LR2OOL and LR2HackBox is required.  
 Grab them here:  
 https://github.com/tenaibms/LR2OOL  
@@ -40,6 +41,12 @@ Or send your images to sonic04677(at)gmail(dot)com.
 Send me an issue on the issues tab.  
 You can make the skin better by sending me pull requests as well.
 
+# For OpenLR2......  
+These digits are currently unusable due to limitations:  
+STD. DEV and MEAN time display;  
+Float digits in judge stats and groove gauge;  
+
+Re-scaled FC effects won't work either.
 
 # Will this port to beatoraja when everything's done?
 **No.** The dev can't do LUAs.  
